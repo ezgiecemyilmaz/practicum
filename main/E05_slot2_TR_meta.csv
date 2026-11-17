@@ -1,0 +1,2 @@
+"event_id","phase","slot","language","event_date","model","effort","response_id","completed","created_at_unix","input_tokens","output_tokens","estimated_cost_usd","text_file","raw_file"
+"E05","main",2,"TR","2025-03-23","gpt-6-astra","high","resp_01dd26c708cc0ee0016afb2f8cd70087d2a7b191e80a34dcfe","completed",1794846604,140,1683,0.08555,"/Users/ezgiecemyilmaz/Desktop/responses/main/E05_slot2_TR_text.txt","/Users/ezgiecemyilmaz/Desktop/responses/main/E05_slot2_TR_raw.json"

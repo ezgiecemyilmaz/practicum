@@ -1,0 +1,112 @@
+{
+  "id": "resp_0a6db6dd981ee2d4016afb2e6ed57c87d2b4d20162feb6a177",
+  "object": "response",
+  "created_at": 1794846318,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794846347,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6-astra",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_0a6db6dd981ee2d4016afb2e70dd0487d2bfd4a1fe3dfcbffb",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-y6LG5lTrcqpbe2u8QzlFI4sFdTi5CJUmCmCtluD2RzaePD2O__JQ3NY1M1UDbwjA8Cm5W3chjrtxdKjSiVby9x8oasbjFRjsp-N3b_sCWzTbBKbNH9ROx6xRwhYWcgkPja7A8l1gbTcxqlOYiQzzSzaz1hiopQq-kIMtp_CmYG_0p-BDX2GWiOlB26dysAkPNpBrSOnZuoF_VIiFvwaGlPR1vPuUxoQL4Tr6FbdMcCgBqmvYJHuMAIUaecNQzua3zB3H7tLtU2Shk1XU58Enj4ifDMUpcR1skvwszK2LE4IRbkx6x2Uk1kHANPanuCEOyF3mC7H8s5wKBtd5QqtV73w_F-Qez0-0mpBOL2LXUkGJCO1X-q7v50CKsLsL1qwekj_vx9jDlfKBEYgfLCueeHccqTq6eaDhkzGUkKJ0zyPmRviuYtBX009AMRxQNfKsPSNfsnNheDJXmYSNNNvroICgj6M2UeouwjJ4bkRdHnfJLKSoayH6Ou9ghGqGgdBgPvBMXgia2JavzExJyNlHkYD-R9lzU3YoDMsl9UANl1OT0bj4jzW4e_ZfyUQydkUHbpvAF_zx6FyAeAutQY27B6DuQQ8PLXP5GTCNIN528FIZtpD7gReAKJfZHlFCR5Fdg00ewhrgpLdskzWbAh9LThKl8MqnyHlCbP_2cdq8bzymCox9_QJkmD1fl1igJDk2F9Yo4fNeyFkBmSmoB8i3c-X2k5wP--MGt2L10Eo-XNYdYytyphrRxclMRNMiv_3q95UPYzlhmLw1PSHW82vYEfkt0XTz6QTXJR7ewvmVj9rgqCzN7RUbu2BvdeyQ2w2nF2T6PdtHqF2Bn59dZg5mnIGv9czCnSSYbLs1gvGLDn7tdkcy7xeTcORAdjJ2y7rratBF3oJ6wUJkWFqqfOpx3c_6qvfroy1i1ja91lFBHP-Jewr7i31V1grrHEVjuckhUEqxh8dOCLcm5WFn8yuFuf7Ls8U48oocsugGv9gax14l-p-NokCkHdomh5WkypoKdLwDzjTuh6wtlxuTeSdHDpvKlx1D4y359EDAcHrlnjTp3KqRseyCl7nCeR77Eggu-GbWmO_gtMI_165tEN-8HH9w0B8WmT39cxECoCjfcGMI_O0OTBpOQgluKQ3ZK8fNsNst5ycgvUHQmp0H81Pa1oMXA2L8wm2KSFeW18KV97VOK9o-YGQW5cEHWXHBEyHGphLSwKMpYn8fXaO6CvROXfwXnTiJ39-U3Zb0jP0a-H5BZd4TCVrjRzMLa4Wk6NCCzXOsjAxzAlhbizC4DH9-WbKAnGMJ5eGtBX5A8a1ezo8JZ_xU3pS2jrdFmROrgrkn2ks1rwiSSDSqk_Rq-02ZYGojqJPBBc6YKR4q2W8FXoTK0vIf1ipRlrH_Ka9_wIwE6Q-cX6GvM-tEuVntdwjju9VnW4lkMwZNf-54liku3JHsd0FEv20fz-bjkq9NuDqFGTkRAEF9yBR6NLgprE1s4oKXtH9ewENEV1e7paXUHJcSYVHPpBE8MSHWzXkHb9ZKyqKBPSCDhCGWqsijzYqNiQiubKISpl32LeLyNJJ33PPS67KIslV9e1nRPZPzW85KVY6rnVddzSR4Ww1A4PLU8zDYilnePUzcfFu40KtAEk1w99dKEkyDDpsLOSnc_zXCfJr5H2kK44X3JkcLdCNiCqXYDTvIw5DjxHOYWLNT-fVJoEHVwAFjIQmGM7-0C7XC9NJHDa9GQ6L99_yiO-XmygEUtJtX8kGjK471jco8dsIuHkUqkTfmlguE8RrllyxHifFzEXUOo2aVJ4pWi9qmEDc7oB7lEMq2chnnkBDIdhwT7qbmD4vzaI-5KP5sGzROQTvrGbIoE_BozYCLVBQkbvCAR7ivuVMh6jIeafgFsjuxb7VGMgK3GeAr6_5CN737ojWtU4tZhWFETHaSpWnq4ANr-2HfvfK3ZmyzIgBIS8BmjpRBf6bieCZm2zIYtQeMiKS2I8xaWGjuyr1B8VUzS-ND3SeIG5GM0bhv8T73XknbSdLQGwDrCzOvzGI3l9Nj2heERfTf0iLYl_69Sr4Rwwjlp46AMhunanok7X_wQDi0_sHthnH4mXZ6AqXMQWjcqA7dfHo--tSYBakTO3aJN64MkOyu_utqQpDtGwaG1G8MzDPII_hlrtGJlpYbYmuCqROAge0nyn8sIZgrJYDMT7Fd53dW9h-Kune1NG44beGQuPzjzhF84N4LOWmbZfMO3tpr7s6ezO1OKyloAnTsxds_q6huYhR1pjQA-Fe1wUvCu0MtTqiTIbqVI8aoVMSwAUp0KxbRcEV2jXh9Cgjnv-rgIfM-ApVp7evUu8T5zs_EjWqeaufkxaxAeHrfSWang2rD0DoFpKVW9dU410cc-oS5tXC_RfU4JsFOvZlHw75mD89lNiQoFTPeDwfkEjgDS_2leo2kkqmzSY5zZ6aPpfG1ig3h2zsVWuY0YuDb4ino-vVHfaISTIgdyJOyHsuE9AFnmg4b3RY_O9D7jVDwaeG1W98Uku5pkIerNe3YZOEkFq3XRITwpI6bqh47IzfQSnyVPCYv-jecNu5XOe2Lan5xyFUls9Vf1_f1wBgAdkmJXSQxiZYRGoWqxfbFDhtC6mDGsWscu8Mu_GZM4OE4cCx5TcGSWG91srZirEfGLOqiRajamE0_ZqG9X9oSHBUBTio_Wz_AzDNZdxfuHnhVnBkGxRQZCa1z_Q2VR5S6KQU6haJfHdR2-VeAryB2RRY2sb-vsXtSHAnz91H_3eoTXyzkG0lweBo_vogAMxqpmFYcf0gZ5MjNSmw3S82JXM_MHG3FjDH8bJYtf5kZf8ufd-62wbnJOOELKYQ0AhH7KRPcXGExvCqdQ-tsLAKLBD63sg15IRwT6QJyfZbgD8TWSmy4ITfohvabT91XqKBX-yaAoAcqwaYdKhRp_1onO2bDWKtm1V_L3SuBUGCBOUY1TI5Ulepn9tuylHlFWmahy22KR5Z7REK-I-1287bZ4Zo44-ipLkiZM8tl8TPrAJ42WSitAJWI5O_tzk6ORQKqUMyt8jBW3kMtARHqWGFRgPCNWiSPeRBiKcAx3A9K3GzuwlrRocUQdAZ7eWytBRFM_iIDC13Gg6xiYW9NNmwCWPt7BCVW9U496SRrdhZPDF6USG6mi7OQUJ4xNrp-MX7VhlafE3JIT_SAnA-JYcwZEF6KClWzoMBwe9aQ6__mmHfcM3RCrLqlImKV2mmRLLRhcLM1pjGBWlj5kTb-6_3s5JwVr6wv2rL_1xIIt3Yg3T_v9D2IGedMvXKuzF2x9txf6amvXdMm__l7F2kzOLoDwEdIwoApc1UaWsZk83yJPD9zRByg3YmLUeDjGXj2YmLg8Om0sVgW1bivsPcEZRlHD1Qew9DB71F1Crsb0q_uqHHOByaFJADXMlNeRQZcXiqgohp4LVdrVrQyyqUOuBYVbdyq8vJTQ60XEnZdtu5DGclxywKkjM8hmEg3MsUI4J-koYQG5bH-EonAOdsQ-qVFFZlEzZza_8enngA8zCx-qIjYWXv6RTr5Ergh9ikzPaOhrXCayNH3yFTWO3elIQvaus1rinoSeZCbOLhqUexaOe7fSswmLG9Go3Tq59iwYH1Kt3EE6GsuSTm-CEYJcb1PB4IGBJpIKR-IhJK39Hkb-OUgRjQxYa-_sJE0Y41L1uSV8bJnA65iqXGP7D8JjOSqIjK-u_VxfKFPuKwbyVftS5Gh6UEieG0011neXv33jAIi5KFbZy5lYvEySV12ogdGGieAget6RqppOY2AP0lEHIXXkL6Pk0bmop4dU_I0QjAyjyyrQtN1sa43PqldfiwxbA0lwjsrOFPZzOKUXyq3q-zJNSatO4tCMilSljZyF2MPX7QNhFbCCftzIQuHcjXE0cgY6MA2APifk_7rxdGOsQXDYe3kIUSIJkQBwPhiyzbWmhb7gHoLyynolYn8NCZ7oqkVXR5PCIxe5gpmM5tEe4WGz9tc1PIdoP1hpqWf7BSFZ1E0u1pvls0DllzmjDugM7425cXcXN-Wp0HyQqpdZAD_-4C9Z37Wbwx6sm9Vut6Xi7bvLOFbBcq0oYLcuJvqy_axyj1OuOPLP5YZvg8BgOngV_KdUJaFcPCUZWO3wIntmc_m0Cs9VuiBTt6iHhrmupYyQhBncm3XzLar4uXv3BrvG2ExcvjN5LoqVo04oqdOivNVVtzPdeyBsCZd2XVTAy-9NpaX-NUjeZulKIzzI7GBFVNlRFvsMzCvkZAyRRX6rrK_EnI-lxwz3Qm_sM1qumsOubYfeLoSzyvyUBw7YtvkYwHRrRyARBYmuVWhe3X8uSWbBTJXpPvnvuuQY0G0eReH-gtaK_P12zETaCncJHPCrHBUF3nk4S1Ejlh4GQHtNV6CJXtVyTzUjFsDIRXQaJJoVEcXrW1r0Z2UO8Xos7QFA72CskDh8dlQS3r0FI2aYtMbZW_8vG4omYFn2HEAXdGGulcVQK-l_LCYl95o7pDFGZkyWQVz9R0mVHhNxoeDxDzKeue_dQoQpxwnCwsICVapAIDpaEBBBgWLYPMmfGiMHOtB0gvO6KB7FDSrmOVkNpdirBk2elXZ2O9d-5CgIpECqpcz8qmb4vTA-5pZzhNVLnitOcSZ5aLFhOpux6qHDJk1nQOKTDT_ftpzIW23bauUAIxHQWUOdF42WbKvbb_J6sxVOuz-ubxfV_XBNDXIeWJXnhQrgMJ-Yyf3Oazw0hnkDEotLQ8JV2H2nAEi1v-E9Vbsgz0ZRaFIpeLac2SFcAN3mz7aRXvI2u9Cbm6MiBufvOvkIcookgFlQ49NfsYFqRU1GAIfMOkqFROjLW0uOxrJseoEhtFb5lpBdD0PjuM0JqDJstLEfmKQVtISqhTT3sYgJW_kh4r70kr_q97Gu_LuFCx3F-n1oATUH7D0CsePIUGSadP88X8r5hDqtDpC82ffkWtiO0xe1m7KXU-oel9J8b5TY_4bmSfP2zfyxWr4lz4R-9pZ7Lpyw8hAwg6hFoTuEVzA4N6220pwTG_oPjBlKZ2EspDWkofp89vp5BCojlMkoXyLXpTp-dlK-DSkaGiGQW_TxX7JESI6caktzpnkaJQ7cijvsoWr5PKNCVBOddkpJ6ojJ3zeZh7KXV9pN2QF0FUmd2k4Sp9yDXKakcXQzUKyzZaQrO7c09-sHfusTknU_gU6KFNEoGprOg8UQuYePNRpsBqB_LSqnZ3e77TbjQa3alz1q745alD-cZvQOCa6z3S4fzzU2-n7_TTk3YzCLCx9Y1zcDNAoAHqW33A1o2th6_tZ3AQmkS9SyM87GwksGnZB7NfaK-r0IazNhN08TUSeaaXdKk2bFE4-KRbar5-NBD8yi0wJzdNGrYgMGbJJWdOsJVdBEA1Apg7Vkv3hX1S9dXT1by4KNyY6RwSGdPidNI0dpj-SInZgGiuKyGZ-gH2qSAu6me-smhAh-Lx-YY-uIQeps7twTpwYQ5YkKr-Auy1hBXWHwBkKmtZYCbJhR89dyGUGus4L19WSnd2WFum09vk-0kjGdxFKaH6Tc31gaZfPBtg9ZzVwRXn_HqpeJle7wKoFHxSo5iKZpguszzUGsB9U3kxXB5vfxj19Gwe5-C8XBz9QZPfzjiDR5z0JOlYxWwnjsOx530xFKW7t-inIOh8cb4hPhUrtSd7MMgYl8iOMB0TrF_9LI7sVHairYWUK2ANOzo7Y65xN9srWj41MbNQKJjvVIgjzmCWK2FVxWZsyh-DErZc7uHl5Bhh1QMtmZ6RCarQd7cKDXo_vT99uwlMjl5JhzT8t69H4sBItLYTvVIn0YOqp7NzpDTIuxXOyJO66TNThFjk1jk3qWrkh5-8ZnVhNO-zwtUOl6tqmyB5J1Oae7wuESPRnNM0JyXZFziT1pL8IonlaYm6lXDsIp0q4x6DbPumQ-Dq91RZasMjZkeCxj0tP7thXXZy2MeWCz_4If4u6g3noJF7mRZ5Q3su5GuxHHFTwEQIimUZ0fBkU2n2g7Cx2ddwTEeTAMJu_9nxZ3USOzQHvecLdzbwqaeKM6rtnURh6v90jqJOMV8tzVbgA2nAvOlUt5U7Q5Wl5ZokYlOJBvJhJGHFECAu1IID43hTCVr4TdN7ck59BkXJfKsbm8lxyvA7tUhu7pQkhvJkLLGeQB52l78r3EijihYnMvoTW8t5h1wNCfBSak7aKmV7Joy66y52Y9yH48TtZQzIQF-4msAyWVxso4vO_LPp9zJLr0EJpFF-L5EK0Op3nXoUZGuXyvJedwo_ZVvcl2dwZhwRWqi7o-0EMlqKWzrcz8YNhkZ7g7m90qv5F4wK_YcL5eqf2mLX4VcjkiafeR5bMXyasUvr6JnaJru9pmUH_1XhDW-TcWowlCnAMlWjhtM7he4tgjiHTbtqvosvUDqneMr7D3VM0AMxEKKooMhYri6c94ppRL3aLgAA4AvV9s9cACAfg420S4-3e-bdtoG8dlqOXLTUJ1FAoOF3tb-H11QRQdBSKAyVBLnG6K6dPEeBPhTXW-XR8C0dyf7_5SK4ZKZ_UAqViNZnUixK7zUR3CTrXHLj3aU4H6Q_8NOcp72gEe0jfsOwyaL0t4JDwKF0e5PmegP-vuiDaCFUbAv5CkQ6H8KXnpjboItTwU2KHHMcBO54FDB36w1mkCy6n_acH2snKit1DpRONSW7WfGtx6JTglb5lH8I05pEMMXU-HTcgEW74NamfjlAY0kfx6MT_zJuvWcMjWIJxUqK79FYq07yZY53_z58cj8LNhxBshwTMZN2ZgicxLt-HDJtZO4TwBC12L-Ns4ineZUouPcUcSYRbgDS2SRVa7citVgPuSf4E0Gr2jwmuEUqRez8vA222vq9joDsHZXW1RAUKITdrZhGzU8rnNtJfAj-Mi6MSspRfwa6aO3caVlD70HdJGQGP5jo7-yf47NhdUSyif9zRgIdacDG4o-4YD29EbhJLAAQIxL_MyrK-_oWBSK6lGIf5ybpb_n45xe1SamfTy_KU_bQ4qvpvJMyo1ZmnB9U6dHggfRDV1EAhgz7qwSQOPxMM7pcwA8ivWRN7y5MuQrHsxNmSZMJ7wsls4SrNOejzjwrfrhBwd4RSHeyBGEHp5-mTsbouZMW9SpPxTFfgPAp-n4RITPU2pjYwth29MgDMr5AnQJo3loUtixZ7VqWoeIG7hch4zQwL7c2fJv14cOImB0jj8Sn8_NVotC5UljfUGMZRUCt0RS0KuqMVDzYbPD46c62wfGZ-6dsHq6rHKRLiKQ-KCMhy5h82PTE6ADjuKDJmt4NnzrgeC6RVrL87GQeyw9_I-I_K1uZ-wRzIDzuv5LzLrxk9mwr7HA7UtNTVVVIfYDPw3ZfA1InME9f194E41pnyY3ddhOHstRtmUU38M5OduF4gl4x8NFpodpE6PaiovlL4I9GrZQpX5s5-Vv83fIDLqyu26mEh8A4LEDKMuOATmCOq_4aCKu5EpUpjkaEjHgiGx4YzLuvKhWv6E22imAPncKhXv3V_9BbqJhgCRenLi2R37z0EjwMWy2rQsWfFg_sP0-iCuXLPJedhVVRhmZgbs2477AFh0DHG-bSRYS1Dywf3SV1Xc1tQ5_Sh6q7pbHegyh1DiQunGjTo0YINfTsSu-g6rEXiX7HSd1oJyMMhuRoAflAZsFU5ey60eFcoKLuHW1lxSR3zoBT9sviq84m94eRoLJxGkZfyXISWM255JjRO6uKnKc=",
+      "summary": []
+    },
+    {
+      "id": "msg_0a6db6dd981ee2d4016afb2e80fd1887d28a9928f2735f7bd2",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "On 12 September 2010, Turkish voters approved a constitutional amendment package by approximately 58 percent. The reforms expanded the Constitutional Court and the High Council of Judges and Prosecutors (HSYK), changed their appointment procedures, and broadened participation in judicial governance. The package also introduced individual applications to the Constitutional Court and removed protections shielding the 1980 coup leaders from prosecution.\n\nThe controversy concerned who would control the judiciary. Supporters, including the governing Justice and Development Party (AKP), portrayed the changes as democratizing institutions dominated by a secularist establishment that had constrained elected governments. Opponents feared that restructuring would replace entrenched judicial guardianship with governing-party influence. The justice minister’s continuing role in the HSYK, alongside opportunities for government-aligned networks to capture new positions, reinforced these concerns.\n\nNormatively, wider representation, stronger rights remedies, and accountability for military rulers were valuable advances. However, electoral approval alone could not guarantee judicial independence: courts must constrain governing majorities as well as unelected elites. Bundling diverse reforms also limited voters’ ability to distinguish rights improvements from institutional power shifts.\n\nOverall, this was a mixed reform: defensible democratizing objectives were weakened by inadequate safeguards against partisan capture, making its judicial restructuring politically consequential and institutionally risky."
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 87,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 0
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 645,
+    "output_tokens_details": {
+      "reasoning_tokens": 382
+    },
+    "total_tokens": 732
+  },
+  "user": {},
+  "metadata": {}
+}

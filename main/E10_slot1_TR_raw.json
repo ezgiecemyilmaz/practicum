@@ -1,0 +1,112 @@
+{
+  "id": "resp_0fd02b7b82701206016afb27cde74087d29812061a158f78d6",
+  "object": "response",
+  "created_at": 1794844621,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794844659,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6-astra",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_0fd02b7b82701206016afb27d01c0887d2aa52d8f6a833ed90",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-yfzAi6frkHHmJBgzQPmnkT30bWstFRi7xfQqsPQgswqjnHpy7iJobNHU6bd-Vn1JNSJcIhmrftUo2W71glULkb7dxsrunm_fXsZCJ279aB0bMzBr5n8VVe6KWm9GuxgaRAZp5CknBwl7qTrRI9WcXbJ6dNM2KnZ3SNPqGZjVeGcrWlAuxaAjr-b44ls2k4rrcsHOKS68yNWOOX2Axzq9iw5aAIxat8gru7vK5wnxro2cs9VUbmpz0O0Jaj1g_Ij7GR0hmAfhoM0IwPpUrwHYS9Zwm5AfdQ_Tyk7H0S9Yp_xN_OtRehkVbO3XsezLl2K9Q3eZXL08gfhOQPhVwhBz_OBFd4rtUXNbjB45-wRpCJrGdgePZWuAXNLmSYcpZNCXcpGZ3ULy9LD62i6gjTPkcZXERXC5krDLml80YrpXy2pw4oqDPEkBRoKFgS-KuP4vXYWORSuptDF4EnEml9ZlJHmMf4dNTyH0KvzH5_Ladmvk_p7qnqkapIbyQ914A--LyKkMxQFYJpQFFbdCphqokqCeQSDyeBBJyHC7mAN8f260H1KOVSr-29DrJa4OE-x2X3XzGI6OhfMvkA0R8BCcps9lsM4O5sJu4eXPar7MPO6pUnwc9vW22lOusY9U9nb8FdpegBlTEdo1-rW4OCrimPmUIbNnOUVEwHthhyIRjTmjr3Tx6Gdtaf8Am56ljG7QorRNGIUO4PjGPysCuMcIEbGENbwgIFk2JY06qbq3cwRZVPLT59RFu1OdIzLpjk1MzTn1lQR6p279Y2etRFFWc1K-FQkEz74EgiOcj_pd7ns_eVOJLQyAh_0nuXzJW_ekaYsHSVPHMJhMgbD4z5B8ptNi40k-ujaH3fwVwYA6nhj9dQoOy_xjUgXHHC0a7CcVylnnD5xqmp69ZCGz7OrwMoNzQESEyvdFFI5FngRLn-HhkDKZd_pgD22ueunnlX4zuJuvewV1xJzXUpwsu_BtebchmCCr_IP_s8Ykyqu24t5nYdi8_OUCxYtGom-lBwkrdCxlt38l5z8jnYUx4T9nzdx54abu6NGtGx0WCyELQKnyMceu-Pa-b6hGG6dT_WE8b7_uUb5BCeitUXCPH597UXRPy76oxGp4h_B3goQbS3Y2qFLnN5IXv_cD0ehsqRiYS6Kdfb5nFMVnPaYp6e3VPedfSrZYuRbgCjGvfWnBeFJvdf03hMzJHdF14dZ8avJxbOuUYqUrtXBgp4pylXbmF0U60VStTO3j4wlINBNcbTlq4n7j3DAJc1J_C-JIMr3ofjvpd0qQndAQVft0nNYz5MT8OvoP4U0WMtPQoiWIPTYrKjKOkwDDh7UILp8TcnhaI0y_2xp6pF2ehImDoas5Bd26X8AD2LYGDH4DpuTl7pAYd6u16do6QiKGI0_KT7NlYJ0aftgzHpKiZ3UzA6HxivKVF6Dl5482U7SdXOWIcVGFxW7fU1CbhOfg8actz30G4FE-ECs4HiEQ-Hp8HO7BMj7doYBdj6I31K8--p8ivDusEZxqPBv09ND_snW-7yHs_VopawiGjJILuxMONAyGO8Be_JL0XzDKCKAkA5Thr4CpmucJCdluxVg-hNv20eaOlaz8g59kiVXrnNT4xAE_n07AfHmO7iZnk_RY-0tia3YkZn_nkn9N7G2v9mWAr871cJk0-GHcvFtmh9VL3xUzWTyi6TdBq-FwctC-WZwaODq2KlwjQaS13aJCLWvwszNCVE6IDGWwWDU6svlIJsia-RnCgRWJQu8NxWLNBymOBsllP6mDBlq5Co91gPkfm61DpdV9yoiK4WdDJZmiY0FXAVJGdO-DDxOEeniaVqPE91TpII23xQnMGB84PpIipjp5GckwRq5jRc0thuN7_KVvU3CWs8u9Qt9fwkv4Ejc6JdgMVR5vP6HefLfVJw3AhCY6zaheFDv8CNGhdvmNwhob8vnJP5HS1H73QIc2I2txk1UhqLZ9PAgo3qfFICh2uWxqIqnzsbwaXptzq_hKjMuqqjYGD9EHDqypEVKwKQd6esBKwzJC5Jr_owSGek4xiYd-MnF1okrFoChRxdS-6YBhFjBqwCMxhQiVUAqNWxzwSpYrethXCwDrJ4T-g_iXPHL6CkGMcI01lfUy1gMsFfGwDQ-g6MLZ9BOabJ49-7lXnuES-RY5EkCKfTudy9n1m8rCiCRsx6NbKkHzChf-_WycjSoq_NB-2IBgKBE6tX-PhP71Brwg48fK5CW2nlDPPX1sgKzXZzaqMOWG35TzLP4o2i_bpA1OqNqF2hEDz1Pnpzg5Zc_frxhaHX-7gDIlRyUiTO_qw--WUKuEb5FY2V8mcQ5Ix_Da6D2yWBblms1Zcg-byaoaQ_3sxPiR5X1ZkkbHb4VV8uWUWmhmDNXG4CfHUumjNVMPge2RrYpLi5qT2V2EBGBa2jz66BTWk9K_APyUt476shAIS3vPJ83zYaCEKdlNhCpsgRgWeJPgNm-Vjsq3oPlpmRridC8MJ7XSXNVQRekYfT1-N_1ECOwswg4sr0D96HCnNMf4YsbbWb393OnAUWd6XLWUvitnnRFELsTrgmWcPLYV_Q3QTb7REu75oHe5b3Vf8ufcu_aktihkx3jTYLaQsVJSAB7Z4Qora2jrDX0C2iF0G4Jz3mFkB2lFuRZ8LDvdsqnbbpI9X-Y2QrK77V1cpehuR-z_1UEZrJE3BsP36J98gDsadTLByJjpoTGDn6bCul5J44sBBDsxA0xkJTt7BFLn7w06tb-BkA4Cw6SnpqV_UvHVgl5U2mJxdlxJUvZN3CKPPMTOXC__aF22uzgWR3j418Irf01h-AnWdsckbMRXkXgbSFcV5l2mtIwCqmlHA1rIxLklZfSX6emmS-MYtrZ_eyQD0LpYzM-kLW_m5u5qOk-i72fe3p4jZDdR1MugVgW9zUK8RDgbHHmLLP79PGTV10cCHx5-xkwyLZq_X-YjJPf0vY5D68zaqs7NlQYhv4IrVVDhVT8tUt1Slt81XwGZI5qGK86IGULmzFubvRiTPoAVe-C-A1dTnhWgIKtlKT2RwuEFVHvgWvFL6lNicaaBBKIM-KhMqa7CDwlLuukgDG_UUgF4trNqp4T2dwMa3iAZICJrmeuCNqHTqui8qs3pSkw__fb2ajWVAZGnAAMb7iI5NwOiubSvAID1B3YEdOxlf9WzcSKmZHMOxC7dz7YiTvXPsDWkd_JYe_GkDz4swZ051gpVXiaOiE1eJ61rDl8-aZ71qeBKKQi62Hqn4ik0KEFMqj6lcetWVZL1PGtX1FNSZWRjvI3FAE4MDP1BkmVxCI1B7N1USoFpyFvArVtGvBJkSsxFv9datUG2JeDFck7wWsFb6yuvtQjcz8V0KymmZYO0ULJjAcJ9C2BhHO0mHzomZ89e4OoUwPNaxFzsecQkH5caoZdMKwd_6oChmxExmNYzWWtTpIQXTq8P_RCFr2Tc2-aRedO2hGUuqwp2Oy7URYD7736-yWoy_vIwKLe5MYEgst-dBq0OWdepsgvs42CoJ-qpTcJrOvdA1-3AS_Cov7LJxc1r4grCJY4Z6GcDafxdsUWGQXhd_kZii1wIuGH5e8hm9S19J9rqo6nJSrnwVSojtqcqxVg5c2HeQnWH-F3NfkBnQQWXNea_09LE6RuS5eynzvtKZTTc-jwjelPP4LrOyZWT0EeDcQVNfw5mTavU7TUnqfCexwKm9AowGqs-bEIbY154SiBuh-4RRmArqTFBn5S02n7y2FDGKTNVmWScHaNVEOJwFw2VQDOi_zj-MYCvQfmocKS12QlLGGDnCY2banD8pJ7PkyurWoXR4zc6jMGDtHFirBrZPSZTzKE1u_NNwPc1HnI4TMthw_D5QoSTa0tMTOrRbIyW7EIcULdSSccQtQ1XbTSg2PVtih6P14AbY_hCI95VGAEgJGHcs20_fPUSQHdh62DqxEJP9_KeIPkZSIyRIKdjqzst4BoggRgKCwe13g3Kz-52WnkubEM9GQbCmpGJON1w5PWhZ5mM2n_hz1CDZEAuLybWhGSRsxou-NhWmffRXqu7W9D-ugDnjzwbzJCxikeZvY3t8KiX6Ep2Mksh8LZfKr5H8qsg485zHRvtcZ__w-KvMMfBHOWj02ygcRyFCGAYZ2K9FStg3XmjZ9KEfXy7_wcttU8iPjmDdiScS5Gayno5YfVM5aH9JIJ_R61jg195KCk19CL1ymK84KGyjElAvSEDpJ6E08T-P1kntIFhC6wFZEXM0oJJw9-CEHnwCymFcJRMWiKAjC_CmZrG67cOhsrKqxqnBFQNjs_x69RwvRIdHe7CPR1ZX2ITxQYi0MtqUXf-44bOpE87mZanxWHvZKMlfUqHAGelHBPuAlpnThnyizYCnTPMmQDUkYsm-17uuHUkdWbcFGle9OWApXbpOsJRYAhMrm5QCGVOq7hG9z4sXDzJxo5n6j2JoOR5lum6AlONNkN3gF6boRJy02czjwxST8bsOgHh7Z6NcCIRswhRAPwsdYEwe6ZvIKAgPKKrrQy6loY0K7vggZlLDiTe98FamBA4VZmk4FsWDFOur44a9TaxrTJy_jBjgOYEPfWk-ViBg0CI2CIgpOVwvZEHYHRliMooqiykjpm07lacuosrSJ_iAF99V_izoI-vZ28a46hmp9aegrB9zy86KEH9rd14sFSs8CtPOmsS54xi6KFAIGjacAWIvMad8RUjcmp6ABtYbS1zAY0-np4KCAWzZBrvuMVptiX9GxVPOhLnu2Y7PDIhaOvHoWPrFmP5lV6PbifLLB3wKUSbiOjLO-O0YBuQujZiWV4ydFPse-2694Qq2U7900auYcyvnQkSgZM_QosbPqk-cOgz7qv-X43_4py1L11ypEL2rTLMMGkBuktrRysaZGbKv6QTg0Jxq1qRy1LOOwgKUBgqrJlJCl-cYhhz9Hc2zGRljkPrtqJeWab-cqgH-1ywwJCSsUOSW_2mkSjGMKPb_KljNo3wEslRkmwG8hSsHqf298ToROotl7O4EO0Oa11hFhIQjdsGIQdxBT_UqX8Gf-jH5fEHx3NDJADH1IDWxVcPZNxzSYJq7Dzn_HilF6-ILPSlwxiHGkfRc8O5U2iIc_uIvdEznX7sGOlfRlkYDjYUq0aglyKwORvu0uIc_nG-SYUZELD8nW9ch58DDO8AqRM8Y9o2mYxHtKpHxBQ2lX5nDrqKM-zAiVn02m9g3bhW9z4eqKD1erlvcGsCZ2mhLN2vXgCNXqPOp4-tNcMG-VR5JiH5sxYZ9o9ZTGHgL77yiT7PLPPnfzNSlfmq6jI18gUhVLWFe-L4JL3k8pGVGp5X1hwmu_oZt3pUO0RDtRqIlAliJ7E4DxCnK94VpLeXaV9xOztKfOoqTbKkIAIMSDnAJOsgXVqJGdqDdP-lH-yvNgV57fRSzGVQhgGE_H7Y7ciK0Gqe11lSb6IbRE07bMYcephrItsq9gGxY66KQ4EPtiUcG9WsyiJXno98_qYP_GKs4mEF6fEsgxOI3JWyFhXBUr8Gl3nuXE_jQICMjkHb9dye8Be06H-zaA29RfyyBpxi3yolq9qAdC7z5QY_HU3zuC4d0iiAUmZtCxSQbvXaYkxgeRG3ouAu6sQAuUPzbUChzZ5pfh1caGbIT7hKOS1a6SLlUwM7fBSTU5XFPeu-jdD4O6l2VsP742o2x4Dj42Tr0p9JV8ZFeLs202OhOrz75-I5q02ziOoEEskapVnIKylOOHcK7H6AQ3lQ_KyUfIgU5nf-n4Sz37oVCzBQv-Kt2J8A7gNJKcxI1N9Pys6ETyvYswUkRrVd8gwVuQeIOSS6Qvwz-VCGOTFEPDNFUpchZq-RktnNza0TmE7hK1sStXz27qmVsC1grXXCCLc6V7sd1qZhQKGrSJs8F-JsBS_9zimGIDlA33mt8PHJ7EMLhX9dXujUWxNPWGjK2GS3IRxuXem-RwjqXhgZPcMDR83Ho_F-IQ5kDxQtUz95Z1xfKu42S20JP-jLDdAkhmFqLbck_1ODKbIhPkEMlnJQh7pIJ5-WrsaQ7Y04dgW8zK0IAsSgdytSitslxNU-9KF5a7nUngKEcMrVhL7O7H_qtU_UX4azNMbM9KkTox9xtptNzUK4QFDKdLv-Wx7Pw_CysOyB7oLtuuQoYUx9ASCIzCpLlRYovfqlpJBMn43YZXPDohZ3eybDLt8vNV7g8-pb2kIhpnbWUwvGjbIAWqkSizxaZEk28OX8EpY35ylgvSutmpUmtemTx7qBxZa9T5F1h6-R1ki05C9U6EAhlk8QI9lhrCQKdPc5Wd_pWILu8gOnXI0OiqfdzO-BWaTI_sA6EXSAkOnWaPYwUDlR0fIpnyAww7t1Hj_AxERplebhcsbll60ZVCSL1N17fK679WfL0xvmtnNpDaO0dpFNEJiOIlraLRnA4E4puFG09y5r7vDibhAXpmWlm4XkG3ciY3QUrsVP9rENEeMJG1CUBN44CcQ8A4N8moVuOmCGATimJ-7dTH75aBsW6HF7_QQV5o3aXq49pDzvPZ11b6wyarVSQrLPy_hlduFvdAnCn4OKBsmQDuykiddV-mZrWUhBCSmNGXkXmWjyCWspM_e-2GWDlo6CpSbqSJxIjmCFqO8CGb_nrUx0_x_lHcXIMGJ3sTvaeyOwfRfKNcSl2EbLyr4NUWFO4HwjneB-xepI0m9mhBRZU_HYUoU1dfOME7FKw0SQAWENqS7YP5iKmqKLSrZXB22UjMiqyNC9M3HFOWsY1k47X-JTnGFd8C5h8o1V3lPkZuUgMnWlVlnvOWwvwweTAkYs6i7Lnusn9OFeUCbtETV3BlCsnFZodB47H8Ex9jUcrvZPksfwI2UwLuExqa0vzmGBBT-9ASnQGXqMGdtUZGsJkhzNA54fJSA5BFkqNwCp-3UZBrYGrg4GG9gxcEoTrVliiJMT7qo5enirvWV3asdkgmY-pc13cIG-n75wyebBrReQzud9SYxgk601qI7KQG0VH88MDkFfaoeK1J_SgXmQ00jxGt-zvPwx0hzoZS9MnuGLImnMEPDIfkyqDzC07YKlN25fv0fQd5jChluY-tAvWouDexs0GtPtUxDoL85SZHoESApdy--_bjaToFt2G03BtXx5BIutIcR9tKF9SCMD8oswM3NjMChgPkTwodQ_wYykv89K-a7yE_0a60x4tY31dQDNSQTrYGhz5zwNWj25KlFWLg00CZDOHpKWFCgLRccni1ryShMSlcn60yd9Q0DlDhUt0fz8qzXVbLms2ipUDRwRdTaINtUiv8pPgO_jeIV8Ix8wIiuXATMhmqlpemHcZdDdZIGS_zr9I4QVtW90QwxGxa1daCP5RsBpNK2vDogHnycGpw0bk5I3Cc93I6_2wOeP8gBrM0IK4ilZEefs8l7C5qK7IELDbFiMPMm_L19Tz_9BiMd8A842uV25PXvmgP6S5CEIOYCPlXGQNBC84wGa5-HBxfq60Gs14bgJ7jfX4G3qCHeQ-7F3NeQn7DRQtWVbS0wCCqLQB4jTxV9kcW5rL_f_gUYdD4jl4QykoxrFWjpKimIOrOW_3X2T24fJs_u-RpyZUCUqvaUIGzWp0ZP-t1hPwl2DN5rQecx9w93Cjsf6J4aZf27IVNDhLY-5DUdZi2d9VnWhXHUe4M1eO-rh0wzRSsNdcS4g8ERlqU4egAzkTWE35EYPyE1aWeRHYImEtdeyHwikARu9uTLzJ5SXzOsh2RYhKrXSQiYn4Hng59mLMJC3NrYuWxndHxpAhy0RWf13IOARyz1XU3bcOmcrBDv5iPMh32rXPLDdNG9bVv1xdfW3kZWz26_BNx0caeuaOPR-FCYSB28k2wYIFM7g3NgtdNwd_SI4g1W1xCtirQhqLH_Gtkblhx8o-T-EOEjBlEaB86baQmfuIq6LFpMt94RZphvh869kPDQSUFF0a7ZpYJ9fr7gQyauN0z_9r_4fAAtEdpohjWfPMCqsy5KtawKp0a3jnu6i8h1NaotLVaU9nZHIDQyNroA7zNUIwcmqxkmBb2T6BJTNPRWYC-ZFXI8Fh1D1TBR0txKotkI2h2_tD3pUyQWrROsbH2U41McMH2fr8wJvFURxJNt8xn7b4OUyd0I546uzNlrwgcbc0B9Sd5eexTGpvNyk1q5lOAm42LWEnAg2nYtF0OGSdt-H2-DAzUD5_596oV7_CXRCZJqx94d5rHgVW-DBV-LQYa1UUh1wRZebQs3qGsZOEPC9Fttczk3tc7amF1kPiz180HmAPitTZGEKOaGrKW3JwnkFSUqY1PSeHdjPyGAOF4OX_l3vetCtWalEVhncqe5BlZNSg0WLB-3cQ5GD11IjOUIVXRmDGb_5-5eFQZNj2A9O1IV3XhhrszFTX1gFrGL_RqcoRwPrpeafUAsRJ4YTmwGoxQDqXS2_KBI8k6FIdQ0e14lfKyJoGEXjcEdyHQuBLEnAeU8pQPUCvcu9g0liEocwu2ECYJ52Wu8TRCuanE71X4fKFAVs2jdQO6rVDaKOM8GuRopS3sirs_x0B1viFJIH0STiPw7IHoXntBJ5g8T5QA7G7GCjzfh5Cj3H4rNZScUOGm9nxyRR5CsBdJ_uoDMY9jrnk4PuKPMwzJ1pfFuM_JOft34qH3JTJ6JDa6pDK5IdBXXE4oh9gtWGfdNr3h6lwOtodMnxmS5iY4ftlUd-hMSBrNMidnMHKMhL6v1siRXYHQtLOQ2bc01He8XDISiV0dl11t0F4RJ8hvJajbxeQOeS_a5ZwqEFmTeOy0iVpMqVEOBgxV7v7xC3b9vIKbIAQ8aMnyx1Z2cYM5gxyPS3JI1DYLXBtIMJ1XHNG1am0EPlJOKEByuHKp1966vMfQUVcKQ41AYYFfC4m3n255Nx1Or1S3aXHYXTqLu6Ib7XPbgJeNdZL0PMhJup_EIq6gwvBJI",
+      "summary": []
+    },
+    {
+      "id": "msg_0fd02b7b82701206016afb27e5e09c87d2939afcaa4017a2ee",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "25 Ağustos 2018’de Cumartesi Anneleri’nin İstanbul Galatasaray Meydanı’nda yapmak istediği 700. hafta buluşması, Beyoğlu Kaymakamlığının yasağı üzerine polis tarafından engellendi. Polis biber gazı ve zor kullanarak katılımcıları dağıttı; çok sayıda kişi gözaltına alındı. Gözaltında kaybedilen yakınlarının akıbetini ve sorumluların yargılanmasını isteyen aileler, 1995’ten beri bu meydanla özdeşleşmişti.\n\nMüdahale, güvenlik politikaları ile demokratik haklar arasındaki gerilimi görünür kıldığı için siyasi tartışma yarattı. Yetkililer yasağı terörle mücadele ve örgütsel propaganda iddialarıyla savunurken, aileler, insan hakları örgütleri ve muhalefet bunu barışçıl hak arayışının bastırılması olarak değerlendirdi. Olay, özellikle Kürt meselesi, geçmişteki devlet şiddeti iddiaları ve cezasızlık tartışmalarıyla kesişti. Böylece tartışma, yalnızca meydanın kullanımını değil, kayıp yakınlarının kamusal alanda tanınmasını da kapsadı.\n\nNormatif açıdan devletin kamu düzenini koruma görevi vardır; ancak toplantı ve ifade özgürlüklerine müdahale somut gerekçelere dayanmalı, gerekli ve orantılı olmalıdır. Genel güvenlik söylemi, barışçıl katılımcıların topluca engellenmesini veya ayrım gözetmeyen güç kullanımını tek başına meşrulaştırmaz. Daha sınırlı önlemler yerine dağıtmanın seçilmesi, hakların kullanılmasını caydırır.\n\nGenel değerlendirmem, müdahalenin demokratik meşruiyet ve insan hakları bakımından ciddi biçimde sorunlu olduğudur. Kayıp yakınlarının sesini duyurmasını engellemek, hesap verebilirliği güçlendirmek yerine devlete güveni aşındırır ve kutuplaşmayı besler. Uygun yaklaşım, barışçıl buluşmayı korumak ve kayıp iddialarını etkili biçimde soruşturmaktı."
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 139,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 0
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 999,
+    "output_tokens_details": {
+      "reasoning_tokens": 516
+    },
+    "total_tokens": 1138
+  },
+  "user": {},
+  "metadata": {}
+}

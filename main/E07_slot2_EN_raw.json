@@ -1,0 +1,112 @@
+{
+  "id": "resp_08b2e64bdf5d431e016afb2bfb7b1487d2a1871ebe3d165c2d",
+  "object": "response",
+  "created_at": 1794845691,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794845713,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6-astra",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_08b2e64bdf5d431e016afb2bfcc37c87d29687b70c3d49044d",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-ywRR1__rMwRochuK010TOZsjR2LxNEHA1s6mPzvWybOIYlCIgWBKNdnbJdInU1DRwXDv3aa4GlobdkiGwL67varlVeFyjIaOXDhV0_mgMzKGG1E4fH6OLdVZZEYPkdDrjSIx-sQGK238qXFkCOr-sOgxcivIeB2CzU5FrR6vM8Dd5Mmcap5ikoApPgMimOQnM4JDyPqXeww5cAb8_zVDnTjkLIJWstsSgNb7S3TuCqPFiD-G5z6fnHa7NIUhJjXyUhKLSzus6QgpEcS_6AJuKJq1R3Fpt8yBs8EJcDNIfnRQbGaLGS1WdC5j0RBrv7VpJimHtZaNpa10t5SNuCQk7GXqm8mNwZr--pB2loIaEYjUNTbEH_OqGz27p_WLdnHFDt0EGW-aXXCPMkxUVtJVgJc8iJ41jELbsg6Fo2iGdfM7KQCrEn63zxbYh5fXHRXLjsPHpwWV2B-_tgbFGWkOsOWp2h8p_eCLoQm177wqIfpyknk_1O8Jxv4OA6n9yEIkVTta-jT1KhWRnXfTPk4ppkY3LLLderlGqEfwgvRx4hXZRh0bsPD28X9O_v0L-1kMOb_7XfUPz21IcafG8S5GtY5-3swl4zwIqSVysSvZ3je0OMWrohyKmscFV_cit4T7sYrPDIjIuqdslqtpzYyC33oRafH7Q3zRWCWmNlqe7nVhWcEaNuhSzK8prNXGzBQBo1R_w6E7SJz8M-qFxQxVP4prZpgALx-GRySONEXTbmYo9kufdgQxXa1q8DSKWbvszt4VrOl59grYJT8UZzZiiAAM3HejxSRq7YrNP1bRHzDZG3a7onwAQdNkW1iPhn_xTTui4Lu0wsE082QfkL51xQ2NwLncl8WLraWPmmoP48su0fdOAvPW85U5tEAEps7I-se_4ED_RX1pM6uOwuT6DCxwK0m2931nCpN0xggNO-qfzEShQdDW71weIGOunzhlMp04xdcX9D5FT-7lljTqC8UVzrAghBos9mylgx0kh06lgWL0fWy1xjHfKguTPWwgeh3iOW0Hs9WEM0A3EfEkNE6L-k2PDKqqSeRNY45oVDdw4BbhQKxJ6qZCOj3NhdeRahptUyrwlmikr9cMMGANnJeWUs17xRvqMUtk8pJswq59szFGh9xIAnTZlCeS4nVoRMgqI7g-CJK4Wk9XqkiW_KY6vb5vgs7cC89qDy1GiDJ7AcQztE2CO8skdFDGCI4CxPmpBU09-hgjpJ4R9bxzPIqyGJdXUIIB4emnMXSMItlINGGfrqGLgFkKpIDEPlpdVdB3MQln1yEWVtET2WG01ys0pTI4Q-m-XjzdPhFVd7RiXsAdwKvxe6Csdq0mK9WJU9kWIoUGYJCgXNFRWIDmj132i83Ul1n-C4asDzFsZHcc33Wv2vRlE1d12oMyfqg0vTU9awSOczra-J85qpl-ro4L7WAoK9uJoUsGnVpakOh3Lr7p2_-RoHYaRdget2g7ERRXktwPhR9Z33BVzUxiQuBcHTqNn1Ns-TS_p74qQ6uczlcrue5CDBF-5MHna0H0F7FdCODPAQdAmMZ01FNglgXzLu7fsrQEkGLf3-6hXYI7tgLhFzvI0jXPRxE7gjPR4SzbBKwjN3UiReLYh8vSVx0QZuHF3agjL5_xUE9qHPxkZrZB2q9Sgl6vZq6bBhKVlvenZl33gztvTVVs4-VSkNCeB7G0GumucKhjndz_mgiEihbUjV8xs_V4FwfuA3GSGFzqK0CqYuzurSnlBZ_AC0k-JkyxyGisACNmtQmNOSZ0uNbPZCUUctiqb5WG9l6kcGjiCIbPBcazpNvRHZ1mYRRCtZ9x06z6Gw2mKigFZMp1V25DptorQRetsT7FzsW_hvY1gGRi2pH5o7ef8KMrwHI44HKK3S1hkR2WotT4bivxwj0CacRDkhYhIre7TcaiJ0nC_mc9hn5J5LPa1uHnOGPBsda94j67EOa9oTnoOKkdwq5KiJIybrVTtf4odWp_yP5mZfa9He4KzGfSw81B_hm7ghOqwmPA6VMjnfb_hbqEvuGOUVh-Ov3bg7Sbp2RJ_AuXgQeivPSQt2xloVUzfr0uO3yhil6sAwYX8pNjZB13UFsj4YSUJDH8PD0ZkdQkqLToqvJOtmfxWA5trvyow1KbwEQuHWfkr2kFHpK51RtvCAiPexjTWdCtp00gDFdK2yfd9nyPQtbumn--UrzuJ96jUB7XK3DvOe1mrEQrJA8RyzJxKt-93OQj_tZbUw8HA1EMUuYiPhcCW9qFt_8T36ljudIe-E-19dKfRAekiZsJZCS2HGCKs-COoRCppHpXloAhbTQrk97NzxZVTLO20v09DvbjW-YiNxF1UqGdO2CyxQ2RLNrRAb_T8UFbPp7zdmzIRhsrEkPcUpFXzS2E5cr0BdhLySq43ghDTTd8eY442fE5sUI_Dc-0nR7uR5K2Ah7PLUNz-aSXcgvwfwXdnKu3lpU7M2u2W_dLqal3apQyOilwWyY0NV-hVCYEWEX3dAqQWS1FoY2nbg9XIp9qTzkYq-ttZsu_spoYhA0wGvTrQbMyjb0OgbzMDv-F3vM5wBNOUFJeFwe1x8o23PGvbZAEBN1DhMVA05rozq82wpU44m3hbBLuBnhwH6mEmPZodeUM_l7QWaA-MqieOvJnUccNdOdWtrfKGfPwF-q9M4gfaPYPyC9pL4zCGZGSvMrfFxdH6aIocokRzmPTKxgJCMkQ-phjQKQVi-Asyu1mwOvPJQlg_T1Qz05aU6IhTBUSoz8KHCGG-LRwuM0nwtCvmbhoWfPCByx-dm3TSCjnPlGEYvSnj00kSUjIVAPUF4VP-g7YWFvaAL1GEF8lDBUrMgEGXl8ggfDKt6RjUH3X30NDuf9GPnMpAUVMlp34RGudoi0eKEi21VGxxmM94jC9eAN0mZcd7mkxzHp5vuQrSr4OeyVOeoym6Akk9SpoDgLEgRdBagDgK8zrYo_4or93_in0gCljpOGyDWY9Zb4fQCNN4hLo0UtdzsuzZOBrG24gz_f5IQD7gsFEk6iTVjbchQiETI6611UBaQ7ftOnlefrdf56zBvVNzyisRrW_gTQQL7M-kxWIkVjpYxp6p19UB2aX5Fwu64YgpS5VF68-Ys7SLIqnPH5q-aDGDjIYWUit6h_JqDHAO-qJyp1CgQn_cFmgcOwcDmUlUV48aEDR-wwCZa2ujEZwxuKkqOq2kJRqWZva6qr3BtvTQ3UudwTgnt3yYxfmOHhzmwaLhVssRTewS3PIuhcs0TvsTmEeVVMuPqq-qh1K4n7xPSPLosanmgETaJwEOH9q-7qTvp7Uuk-OGvuFf_LZriOttHEltMM3QlRJB9ZR5oz1-gNem-maS-MjwL0cgeu3T8xasFgIViTRRM6NFaxC0jFM_9182yDXiUMMD7ESpE6zu0X3Hm8NzZ2brin10WXdX4fejj7fHGZv9mH4WbgWWEAVARgAlZpLwlOD1WcznEZwrqni6SYUgbXhGO0uLymkrTL6V_zAR58s5JJmNdM_0jfZhVUVV_OufcGALaazAfaV-R3TIEWFa_iuBrH1_g2AOITncwO9i-Gp_vpqGAvdaYjpnG-gJ6jW9rigVp6IEQT02OCw0O-kMbjFDYo7zGUdMpNgeW0HxBBjWZKBqFuTyRFHcfqIQEQtXs568trbq89Y5jrNFnRnjVDi2HGmagubTP3sIb5M1EShD-1n226UfnX5SL0H1KImyBNKLQAu9l0KF8La0WKHYV5dWbkbxLaOLO5GwmD62gUXqOsjMNmrS-7ySqgiZtDeVgp2Zc1drSI-ZyJwUdUirQpbdwYyfzapMo0LTz3p_5790Bi4fR79O9xuiUjWR-XgAejyjPSOr4rYLWq8HSnHzcr_8-ZbH0XuRw7MqORB3aRCdTgPa--oSf92yDz3j7BLIl1pKZJCLtyGPvZ_WOLM8CoXhFcyw8iysD191XcP3zKpeqpK1Ex3E09xunwlNZl-byu7SIsSoxenUxTHywrosFr_2-iTTs6T6aQg2sdhbpA4QZje5a_uH1tZ6ZcDzYlD67-JHaOqzdBlVnoIS-lfT-KkO5YqTVcVam1zit8M3SdOxKKyEvZcsEDaihaQ-BiQ4wc7TMNzzLq9ckzDBgW-B3Ye6ZRpg80fKtj9Abo7-cSR-1cG9btaCe4JUtSjccr4zSCU2p459BK6f5E9NAzSDr5vMrXcnBH7tXY0T6aSBFRkhqmc8zzWkf7YbxP1IsLuvDhx-PJrLANewqhynFH7Ikt_pY5kovad6KGXT_jlPpus6yuaNTJs9sKaXrgFUjzt1hmBzcQgflap_2fdxm_BwDuWvcg7lc5S0q1eyU5m3Qqxla5IQFFOOP39ak7Oui78ZaFhwXK_u8BhjfgPubW5SYgTp_ChEEJfW7S874t4zhyNxUW0VoyeH8ij_YNdNHLSXSvo_yK39d-HTd3mI_KqF_8p6FgYA8TdR0TDtCGLSCL44xxOYev1ciroU2el_VzjRKGTy-c7PbzWC_zH6ZoKDj08G2I85qhygDtJipmWO6nPqYMXk0z9D--kO43Ozd717FToPVKTBVAfeiuKo-Yms-ybjSuGFyCs_GcyXPHv7FsXfJBQJTR18gSBiWNG_qhYilVWfx4Y8ueGYrgLFMQ3ngG-uVGqs9xpTjEWLHs3av5A15S_JFm11l0BgVO4r3XUWkzopr4ck8eJd-EHgaRzMf6Qkjx0-yLsG6Lj1LdtzfTtpEWrsZAV___RDNE9LU7XK_1B3baqlisSSaKPR6BQb-jG5e4Pmk1pwd9dCKQEn1pFXTevaowHt8B8bcwYZ-E30xPFbgCzt1YLnSOoWKn8uuXVKBfqdkvsrYmDJGZZZ0m9wyeFTNGPCKYye5wSzceMPxUEKNATGbvR4WVuT9V4XPywxEkplPC8peALMKRYL4bn0kfDGUBViSLd53rae9DIMjJhYqRx4gAoqEOnP5DojSrdrBTYW-UG5eGJaXr-eItZljTYD-sgbSJg0caYUstN0oKgM22HNB3tXqep_XHDy5li-8g-Vxk231Pti4NLg3t0tTLyoglCWudYUKBvcFDE7QWwY-kVREKR2ND1k86fXXqP3v0SRCRwQH53VMGPuZ9Wfwa02mP_a1LaKoRiTm9SCekhqYw7WYzJKlZFrXyra5NlXSXk2eT6ImWaradhzdTs6MXQcuvZpvRBVMI6pT7ZTAtQfb-5-BtiS0JGg8tO7zLavjDDYq_e_9m0uncnJEArcOJEpsBaRydD3cjR9wLqIKASySGwv-u9yfLCU4S_ClWFDPowqA0llf86Wvx2daA4RgHhyR80mITtQJcdm6OYmuoCzTWiFn1jG4PuXMz2VDknWVPRBe8Y-TwMR3I3nuExU8Gi-zTleTbyZdvGgJk6SET01WevlYCzXrIm1YrSx7ojBQ9xpehiluxutQuZL6-eEeY6NJR5KmBDwTZ3_rZZKvzpi2M4XcjZtJsKUZaxOkJc4nxKDipfSFeoyVtgtdUx44RIirvrb9XgG0-XMSOCroqtwYZM5DUJiBhtVXT-j8vZihGoCBV_yBY_j1h_TSEvPxOQpt-3RUOPE7ToDV-Ptp7bqcDzDoy3fGcfhUTU4ahYjdFMxkFaMPtgiGgbwCDpBQzB-W08ji7sQyB63VriI9ncYifRrMCORtXrj4p-S66BuwyZ3RetZxaoWSftRZTwNnoG2ANy3x2GKd9JAJ5bGWK2AvERtYibq45XyASHmqy3mK-NynhHo52Gp8hn0YDhDq6yUzwv5HnjVdRVW-P9yQcfnW41OGHoQ7y46gvhGpqip5SeFVYZKuXEnSOVOnPhI4Ueg_X4uhLh-5iQVcbCkKUdBJxJJkzUT9DBAKgmAnzIu_TiUK6pUAC1cc77fx6EihY_VZtbTlHwGBuY5wCTz6A92ouGtKraIpFsll4z5EFCT04LUkeI9ZXamdRB6ZmYQNklXQos5g9xghayi_Si4whZeg1XO-V8WyQ8egkfcgpvRcqfy0e4QV2CZfgvHpCRl-AhzY7AdxcuveasDPb_2e-QthXppAxZynqmyE8TlGtVAsgyWOGwjM3XBA8Y462-C0xtJZccJ2Sa8FrZxkGcSuFhVaa5kykgn2_7OBsGk-rgpHjABKoo8hRBDtFCbnhq7GrP5-YhgQeOMjyyxd7emR6JtSzTuDysijD3eNOPIwn_u1cTdCTw69uPOMVIt4w_eoiiy4BFmShnNWKAbLSxZwdwWqRKRQBuEqalGd2hswvB704AwKqkJZyZj2rMQL8nm-ZmJewfzn_9WW9KbZJUETvT9WleCLFYw99xtW3kDll2QmfICFcm28YIgDDOOoor1R0_M9jituzTseKOr73HPr14G-YW4tiHjEMzjQNpNKI7_B-f1wCXcA_9uvo5uuYHpbU9aX57EvcXee-94Zf_V2t1AD0sFnJZjL9ediK15CWj19HvMKbU13GpPfveW4FvXmKr_CCbMJZjtrfMgVt0Ep0_Z4y4BvEMgObCWdFrd57e5pWRTc88nayyJCkNdCC240WS3xUUE5Vruda6hmxkHqtkIh94tDXgWEHPc7kCronUt22p6zGATe0J-jSlh21LwOzequrXKM0H1zwrVVG4VMGO0s6LIlCoMH2mdKPSm8utMJgdhCHxWr0aj_xDRdyOKE9ljOwKly41ixJJSI58qV2lcPnHJ7fxKXnq3tlftzkNw==",
+      "summary": []
+    },
+    {
+      "id": "msg_08b2e64bdf5d431e016afb2c0916ec87d2bb661c69ab866eb9",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "On 31 May 2013, Turkish police used tear gas and water cannon to disperse demonstrators opposing redevelopment plans for Istanbul’s Gezi Park, near Taksim Square. The intervention followed efforts to remove a small protest encampment and caused injuries. Images of the crackdown helped turn a local environmental campaign into nationwide demonstrations against Prime Minister Recep Tayyip Erdoğan’s government.\n\nThe action was politically controversial because the initial protest was largely peaceful, while the police response appeared disproportionate. It reinforced concerns about top-down decision-making, intolerance of dissent, and weak accountability for security forces. For many protesters, the dispute became about citizens’ ability to influence government, not simply the preservation of a park.\n\nNormatively, maintaining public order is a legitimate state responsibility, but restrictions on assembly and police force must meet standards of necessity and proportionality. Subsequent clashes did not retroactively justify excessive force against peaceful participants.\n\nOverall, the intervention was unjustified insofar as it used excessive or indiscriminate force rather than addressing specific threats. It undermined freedom of assembly, damaged public trust, and escalated the conflict. Dialogue, de-escalation, and independent investigation of alleged police abuses would have been more legitimate responses."
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 98,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 0
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 542,
+    "output_tokens_details": {
+      "reasoning_tokens": 292
+    },
+    "total_tokens": 640
+  },
+  "user": {},
+  "metadata": {}
+}

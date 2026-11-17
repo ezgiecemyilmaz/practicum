@@ -1,0 +1,112 @@
+{
+  "id": "resp_09cf3b87785652bc016afb2ed8c6f887d28a2dfd11bad034f6",
+  "object": "response",
+  "created_at": 1794846424,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794846453,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6-astra",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_09cf3b87785652bc016afb2eda395087d291e229528bdca74b",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-y71pRijLsnV57oE7tXztaO_k_lzDAYl_rhtreno_kcipeyL_r6GrM1HSJnODHj_IGnvqVyMwPD951qX1JIIMkVTA3lT4AYl5tz7qLfJyptMWWHI0etvHHidqIWc0fT11WEgczb-6M7WzW4zEPkMWu_5_75i8xsb454KrtYtg0FCpfeCgPOeG5qNBe41W1YRFDuu16pQUUcOxcPK6OUKxOdw5hBEtohScu-280AIDH9UzXhIeAojnddGivuFrme7KpHeayfVP6Uh8bCTQAD_jOueUX9Z6SKi9mpfwk7YUpkX3aFHpjvGrcH2lBrAEw3qRQKSjvmG0zSWl4s_ekfkhfFVv45tYJKvjw8lwHysIUSilMaHS-ipkIUhKq-XQN5wS2_M0rVWFqOhJ9XZFd5lijnrwlz2rOKjztBYd6z7zNs6DS81d3j_N7PKakWPyjnKv6RUF8Kan9OGf8q9KSuTEsjhloppVmcftVG22bOMUfloyPTjNdftsnti0pM4Fu9DFn0OiEWKh5QMsZ3tgA5Wc8dcvCswchfHNJAn0QAUwJT83YTHZj0AMyoOZYfRkHys4VkUEi8xAKqFSSdVjCx4JrDjwwcqCc2mdt0gdqQEHqwz9UOHMvaOm0dl7JefP9suFt3lJMPymGndfwgVAzzCLd9CbRGfBqTXLN8UwqIlk8ENVpBjjQqciWXDuW2CoLrb3Y289E8E6myk-3pWsu-LSaZKX7i6Kg45HaMxm8cv7nmUNbci2Lwr4L59GOKxDoVLZYKIXLGBJL26EJHgij42F8EMryNK0d7i8gvqwcWX3XAi3cVMOa47esxWlTH6_z4bW3MWhSXmKn77MhdnccejR2PJWnw2nkGHtgfluHVTfeBOgngTDZyQAfcspqwVk5dIHxYtWi6_F9vQT47CEj22K3hjyd6Pygjo8i547GyAL0WcrWV3-Wz-Xfks6mOKA1MTAvxoVujBzI_FNa86TIpIFVEp9dNaDsBfJo3Zku9Nf9NcoU4z_DqPXdwDBdwPOkEbEsn5vw2wtUaac1SJJ4E6fgP1T9F8-E5d-zIDtCLQUF46g8bd8HD4Spgsb2Wl3dqLz3m8Q20PJ2N1tSyx5F-PFbickhZhhsCRSG52LndyiXXVl0fnEE6ZTkpF3C763EDZAqq3JWi8OSZliHFkY_OPVAW4l08qP9b_-7gddbk_jU679D6QIF8Vvq_aFQ67IYwnF-GL1ufzIB_YkfeIP7TVrwmqoGYmy0b5AiYnBu4SZgM9LhkuvBk5UiqYmU3hgOPupoW3mBDThgwC7xQqTr-kQij8fvY0w4yNmGP7v2i2rx6pXcdmYHu5qH4LEXKnBgeEbMEjbOFzeriT7c9Algh1AYRuVrZ2921hB5HbR8AIxxePPcw6qY3Xbyq2nhoj0LflUnT_IY3Bi38-uonK7aTnhArBloIOSaFemrYF70yxfKD-z6uQCd86ybu9ZaD5rJBWR36JBMfOkiAX3w31N7ktgFXch6GLUSF-mKcMqXEz6x_Dic5DmOCUMfb8fYis7jGHl15zFvJZUsvZcfnmT7AvqhlBoOFzENuTOg3MtUQ0te2GAIKnkAgF9ilfYi14GwUTxl2pTUvwOtlRwtIMSMcy6B_x60KQDayciFJ41wU0ViLFakIK6u4t-KWaJp2Kozq24Wry9NfPx7ajUVmvFcCkUh03PkslzRSvbQY0s94JbN0MtmeDSMV31dT5-5WXk07vzbSdYJFgGrNQpqdwWUFm799uKTjzytcA7ZWqNi1PeOQOKpBJzgOXvpxEl-xiUzL6vUqvgRM7NAOPThyNLiM2LGXXEvVttNYd1vaEhxRjl4KTS5XpLVDQBn6dOJ5tI9ojpumX9096NWv2YHnCCJzMwcm2M84lgoUgvxgb2hQ2JYD4uMmGJqGPX9qhLaoZ_AU0BdBwGCTben2notvdGq8r9YLR-KFo0DfonLs9n5ftH76lMbzorssWuwciBfZ5jfdiUtrNogq3uHUsv_f8dBPPC7rz1TgeaEl9fVTc-0qTQ7-eznHJXSw1dmtHq57An_wrDIYBTp2ES2t8K33MfrCZHLY2bd9AP4V-qLxZnc411m-8LqUJyf8FXSMsEfjgQEPg_jpfFnU_OwMOi1NY518k17LYYE-NyI_yGf3geei0I9fXZGRPoERWCCMErdfPByxJimOMf67-sf6DsxCZHMlWvI422GDrFZ4LN73nioCLDXnaHxMS4ZhGQ2o7Ixj6NEc_KTqfqGdkbdwB8y6JhmqfnuyDqS3aO7246N0wgkNH5uWT3-28seYLwNEkz9scs68SVjbIrl9RaX2wGRw6RmCatFcqpHMBKQqRSKac8Unp4K8n0rwk_-Tse25Ax1wqzuakVWL7Cvfjpx0GBBtso_2iEg-NsAq3dnrMheH4dWzrdTR2xi7Zp1IT2obCtNfsM-MqXe88y-lLypgAjv0rOH3D1m5o0VAsov1hh5hwmBP5ZXpyFvneFCruJskyD3zIHBZd1XC4ogtuizVC7D3Gh0oqNYg7kznVpYADGiwK2ppcasXgO855DknTBrYgiRBfncpLAuOmdFoIJPcW3bLLhQk-TOq90Q4CUPlbKb_by8BjHEtaB2KlgV_pVpyL2If8tTqmAEJfP5Hd4J40tD3epm2YD7soz6MWPPXpaigL_-bfauKGnjuo6-U-VIc34iRexmwm2kplmmiOxSge8qbKlUA6dWhYRMVboFCwdXLFk4_qo-DkE__BzLOTDav7TkIQ1eP0iyhl1uQLPY0p1Zcq8A5vIqbQND994tg9T50Kc3wI4hIE09ElVy3Uwlpd3CThqb3ocvaLkVxQzz2kr-arrAk8MgX2GxbKsIJsJhEkwCunTN8g5n5A_LRFlH8Ww2JEbQhVp-9oFEhXQz44Zrc_bY0K9949yQoh3hhaqU_i8nPIkKjg1SvPQw4tmGG1as9XiaSH9D_qCpcbpBgHL7r1XcqDfx9lY07D-RTf1zqm1Q4ec9CV6g409N398AscFSyRVABLJnc_Un3wJnITS27j02b8_rt1uUX7Oar4GVXzGi2n-hnl2msNCp0qKJBGdqQQySXkBNlHVYNgT9S2-yL9tcqWslIyz2HRJcuuZlWA6-OOKaitZ9UJlu6fQDm0PRwEQdRrYheJTLCCB5bhXi-19wicZ5Wd2fJ7ad0MXVJWF1nBofvbcHaQN7iMGOGXhl76X6RsS3XY-TPn3SIbjOBDqk8X4uQcS8jfpIPrzjF8T7m3MjXLv7Y7gBqvg24b-NiJlssEQTYjIQtT4MRb5TKWH4OLXZy1zbAbJxIxNPWa76C1nR5kg6b6KCFYBfhNIuQNN61VT8RX6BADgXvpz-wHUnldXn1gGrYYxEKIMGSzuZ-GUphv8qkFAoqGIzc3FPApgBhxIubIdkRW_YShdRqfuzx_o1mGMNkGzaRdRDx62WciEevRPMuMaKopHBTfArf8wyv9JRIStyItYqxlb4OzRhiPHyB7QnzNFnZTTNglBN2kmU_qRX87jdedhT6xKhDqWBo-_XHAzZ_zfyn4l28aOlcAcyabhBhgunb1wTAvU0IcJUjpOLcwxc_rMKrk5IVnaAhR3LTq0tpIIt6jfVIVT1Tauv9O11WUMCOHHr6y13N0xz6yTRojBI34F2-G3M2RPTVlK-FciUFttlFXQvmGaOT0-rv4zhq_wwzfzOYf9ucGELNnNYrJRJT_a4ELtEDLZCj_6K4QIcnuy3_NsHD9qE3QhoR3fl3QHYM1u7oJKOT_p7S7l9bQM21ki7rYtDGq6Zl0orDBhSY11x2QyWB6pFLyukBCN9PGghwtd3N1-4y-Bq_w1bARy0mCbk-O7zwIROWgGjoVTwbVP3iyTaJstdcY0oAz6cv4nt1W_sCBotVL-53V8ZU-lHtmQ0-ajcA-KEQJ36EQD-dkJOWMLGJHj3_5un_ghSKpAD6tgUUjjGKGIeKkWUYSJsEEmtfqAxz6zFcWRxv64kg2MyUdsxIhL1muLBjzKMw9_hl89fvi82RKvs0muYQvtLixWSWS90YNTejbKaNAcwszpmYyfa1j9zTWXiZGG88h6k01JWrU9HVF26p3gQ_hgU3bJslGzcM7IRpqxeSaG_UcVOx_wqwqwAVhOy9JvcZN3QSxlCypZzdSZQcIipLruhOv93vx764CrPwIrBcSnuRWcOOmPRGuqmoLlA1Cj-9VIkMU3q7XiXYtk4WKuzODIqxC9GTPHlAQaPYII4x2Ca27sSeuYU2QqEhJPCKqdnQQrgLzp1qi_iIEyVolH5nNiMFvZfUb2ycfPCFPt-6kUw_d4RcoNxdTFvnW05jRSg37rk6sAM2qXTY3rNpbO1jq1Tq4V5c99GdkGluNJHoY7hSdsCi6KNpj4HFgFDLzmufnPCp8vDEzRWAL4Lh1LTjMI5YH1XtisQUlblb7Wqxyljjc3stBxvZ3qOhBY_bKXXmrUvD1b1YlH8HaWFxShH0lyx3_P0uGHgJfa5NsDHTq291nXDtOwY6hDfS4nsu27yf5bke5wi0xJPwwV3UQYnIx-7MkzTHx9kYFYYo6CPAWWYhObUwXu-N5jcVRah6-HXb2wRsh3jHA3aLGr87330zX3YSYk8meGthC7SuZVm4FPDCtDymcQUfWejR_F0nwwsNxx27QoCZuB38h8fiT0GioqKJiSuTwB6bMftR9UovjQtVqkaAJdzNCjzsXB-nmnY-SoNFzO2XwvJtigKhKZNIVvqb1po6cCReSPcTcWKgADeYwIKQPm3qV1OYXeNjtd1LPqal9CwSXNifTxyF9TsTgAiNqU6lfpcooYTsJjpQ-h86F5OX-QGzB8uCkls8SF07YLg8E1joB-9BNWnfdCS_tNpc5nC6tU-Xp-0YYJhRVkcWzEjXeKrVIIhG_kE7-J5j-43rfbyPTuMDYiJyc5-ziLBv8mcQQXaRAiOBgTF39LFgLyXNdIxsmgWqxU7siH0XXaKfxTFIQx4RUsR-b-JY2ohHyoEvHvF8TSklvrOrA8WleXXTW8AdPfJOFATGrb60NB6lP1YebseM-gSP9mUFvPXJjKSt4JDN-uwFbgrrkYCK4IOk75jlj0kgtiY_a44UM0nf6G7kpcLrbEp3rXb685R9OoeoY9fFuABp9inenHThGiQJ6pr7URPueSeEwFUImWpkR9wpvj8DyAlhXo8nz4DZMz1M-vOdCgXAJAIR6mIb10erq00f-f_ESIaoEd_NPGBQfsoVOnnjRZeZmQOyO-Fn7kQzHHm8m_8tGvobtO7Ufi3nP8vU2zDbCmp1HJBtAr8CfqufpFbp_331JXxIE6QPv-gmNBRcXhtL0QbFvLNuNmOfevGRFQCi-btrzMRh2fEVInkjVHpnybJbBj7GF6Lzd5lXZPwGWwSpVmgoXGD00pwrqDwYr9t26rF9swPV5Zk2swbvL2mja4kcV1eG3ywUiNBDVotnja0VIifxtKqvt88C4RneHfzhjThm5Sc-hG_bv13W8Cyl1ed91kathYI2clh19k95FNGkbzRQhmnDEnv2ChAj4bjWV0eujbKACD9Hqq6efjS-oMVX4Zqt5QZZ03UTUfwJ8bzD59lG-LbFEN3_N_yu-Kv6JUdUHTLJNVQNqSgopWjJqtZKZKv9xG_D7wMoXo9WdNTUBYwiO5-XlSrG-ZSPKvL_9qnpMfne0GeJNbNoq7cADVuPRFA6aP5TQ8c5PbORC6e9VUN9VD9B_6ugU39D6ttqRGHe37Se2KNVptksl1igW3DYOt1R0jp8kJW4X0vMEQyDrHeHOhrTqo6HbUTM8Qbl1C7cgMBlb4Y3q_tUJQqDxvMlaUBATlb0MLuJEATMxhyH8RUinHtdv0HCvJ0jcT3wz7lxubgVm0De9gBi_Z9awjT_pviNhq8pj2NBA6HlyBVaaK8z90r_oJ7Gz2ikZDzx8t7Lp9Vc-CPkApSojk5WBxGcy8YO9zQg1e1TRJ-pZn6gP2HPs4UxE5lVrIYa6-25xywnKHqlbG5IlQfZxzVwiyDE5bKmLBTw7sSo9Gp_4wlEoL3eJ_KhmJrN87JrtO9LeLgtIWz4tNXsexlTDDtfaMfJb42WuAUZSMcLzeKfW6B9E_kvWOqbBuld0RHhMMm3pyyWrqzEQrs3jXTfRJCtCLllgb3O7zj7-rM9qxvUYaXHnZjeHKkoRCVSLG7wMLXbhPwTcHxCbGEjwvSgrSI8ycIzo3uulMHi3Mc7aekN4KgNx4A59FUFgFSO0u81M3X27fWC-TYoo36zHZS-lfDo5QH99D0CSnq7w-GUPNvc1imrNbTRNWwtttOOmXD4AcDMWjTJ8FX_aOrryVDch2DVHBUjk5mLyBy9EcfQessHZ6fgLV8bHbISSWCwg5pp-NmqV3O6W3u1lVlxLIMgV4iqQy8tyk2jAlY45Via_OEpHktNokgka4V5WiZkZyoEuERPyd1fZq1-KA__TvVktZl8gP_0xwct1JCzyz5sQv9rj56MiBIrBP9qjuAO2gBzDe7_s2dMpAYBZmtb2tywVoYqDdkVsiBE2uNP6bubtCzJA3HXTzzcl5lDj72cl7vB0IfF_r0e2YjJLtKzhn-IumFLJgOQAsKJBQe6hHn_jmpqkg8lz4CNkDqaxfZwhG0jzEg-fDgPPASuuXgC44G1scWKP7zyfpwYvKf_TpeCwVqXbpIPXq_zAj_osS6tvUXX4veDVpowJpzrCpfHDVEgMhJ52q3b2XF43rKprqK8hTE-s7lBQjaYWWhlRVUoi8unXSlmvaMjOdVI6i3qqXXHBGyi16eGhNq09HJASeeU_20STKXgZfC3pxf4q-_HQV6Skw-O5edS8hcZN-BaGBvKtcVn4MkMosUwS0lulqjayls1W9bBFNLIZyh9mWRrtaRErlwWP125KWqzCfmexCTDYJRex8L1lz0ffsSLta_6uPGf-YHAsXU6MaP3vzrb1tTDbwJ8qpDamDpzst7iLcNUp_J0R1PGpioSP_udU-LA0iR5IdB5QxaM_tva0XuNCDnAR4N8R7HaSmdoOhadJMIdNQM4PhYaA3FyKf94wC48xySHx3QxYJWa5DcOa0cnqK0fSgmkD39-WBs59dGsJz7NvCMwYh_7l65XmLrC6B--59b67-LkmCdub6BS0Q4XPvA3WKYlDaSY0oHjsUR915iQ1_Z0-jJW5odCPnfDlL6uCUdx0IDc8odnLvjiTtp4FWXoH3zv5LZWOWYkPC0sCy-NkK7abhl4s3tauWKnkPY-IsosOIC8K5y65OQ7GWPIVWiMnPoozvo4vfIc5MJ97hNBLVJ0WLY3A8g_kgt83AkSloVF9K0GQgOYKyO0VqRUc3Wi4p1kp6tu-8niP63b9bT3l0G0DHdXyZDA9qGvRanvB2qSskWGoXIfyLOKctlaZB26YHr8IkH0w7jm-VDkwMXxQCexq_64fkF3FPxM6LMut5BSpYW1hRbAfnwVirhpOZhhQZgWuTai2azMBf6o5QwYGgT_XzWVlFOtRRQBEIMNQcakZuqMh7MDIG12of-z_1YG9WURe4AbVXS2gOBAu5PgRX-W8cP9nsSoFkpJinG5krd2jFCsH5jCsp5fUlj5vtgfKvCWsU1xt4cLtWm-2OQsXdNwhxA4ixC8BLUAq_CfpFooSQyFwhDhHYTStBAvG-wQ8RzyS1U8Vo_zpXAwsVR7K6CND8K7X1klcMnycqyr9QS3TLQHcsNZtatBVWNO1qug1_MEuiGOWMGkcJDXXTXOeqLGE3S_5FwLZveTCtWCdvk2kA_hjdOTegu-oaELdHfgl6JT_0MbU7juOuuwVeUCmvYtIU0dKOtMn86lsxZ3pykOCLRGom3ZnYq_M66wHUbsOvOnMCNXYubyFIYyYbaLbDPQCAkfStIkgNXXBs-rjMkSTW1W73vjanJFr8lbg0irD535_JcIv7J3-0bbcoon_ot5ptZ4TfbHH1IK6XzahKc2pnScErAOLEql7mzxLrXyN6LlEAIDjoOyKVh9LAe4uYSSA1gcz6EPhQ_n29rtOrsz4pbn_kxH9po69w7XO7_ZbgkIT12Yb83oCtr1SH149V63K_Xecv6q_0Zoa91BjbyNPBzwspBYM6SMUafXKZZ_sDEyuRIO0WLvmgOHB57ZVIWqTou6P_xLsocUxIlBo6DYPO42GplKW4IGwd90jIPhN__N0CsmFbEfC5FZzPHzv3wL8hZBKdiLrlykcNg4JYAZIbNo0AizijFpKV1LO0tMVVEt4XhEn0qq1p7eHDoXaZGeRRfN79RSoK63XEkS0F7C5LoQ0kuTC8Fz9XrV1fw6X0mXpsJg7HIqYaFhTGshbN8ipTmoKnD_uu-jUS7uXWjNxjNuLCaU86zfpLX0Tvjw_0Dn2AzPWXBRjslYxh5Asrmi5GHF0HK6WHsVpE1wHPnR5pBFXCQWDFjIh1FMMmixBWZgdhQH_yNZwb71120_vQY4zzpJG-k1Xn2leKw9B4_8JjiHd3o_LEaUas7WjBosdhxN-I-HreUDhVLfUXZywyeF7IksISzvAdfGn9zK3QKYBpLHBOxG7aO-kTxoN_-ICTsoYxOcQRHzkfniYSTxCJGMvKg_Eh9t4pV60_LYkeo99xqZkliVwsjCxnkzZKLPXE6qOeBn70Ua4E-Ch3F403yWyurb8Nas7LuPZ3cUXw0VRoesMgcZGdghXyijWUQ6_4IFfxT7zRg==",
+      "summary": []
+    },
+    {
+      "id": "msg_09cf3b87785652bc016afb2eed3f7887d2a3d93b96ab27a77b",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "On 16 April 2017, Turkish voters approved 18 constitutional amendments by approximately 51.4% to 48.6%. The changes, largely implemented in 2018, replaced parliamentary government with an executive presidency, abolished the prime minister’s office, expanded presidential appointment and decree powers, and allowed the president to retain party leadership.\n\nSupporters, led by President Recep Tayyip Erdoğan and the governing AKP, argued that the reforms would prevent unstable coalitions, clarify executive responsibility, and enable decisive government. Critics argued that they concentrated power in the presidency, weakened parliamentary scrutiny, and threatened judicial independence.\n\nThe process was also controversial. Voting occurred under the state of emergency imposed after the 2016 coup attempt. International observers reported an uneven campaigning environment, including unequal media access. The electoral authority’s decision to accept unstamped ballots unless shown to be fraudulent further damaged confidence, although this alone does not establish that the result was reversed by fraud.\n\nOverall, the action was a significant democratic setback. Referendum approval provided a measure of popular authorization, but majority support does not by itself secure constitutional legitimacy. The combination of weakened checks, constrained political competition, and concentrated executive authority outweighed the potential benefits of greater governmental stability and efficiency."
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 93,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 0
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 694,
+    "output_tokens_details": {
+      "reasoning_tokens": 440
+    },
+    "total_tokens": 787
+  },
+  "user": {},
+  "metadata": {}
+}
