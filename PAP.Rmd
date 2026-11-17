@@ -1,0 +1,122 @@
+---
+title: "Pre-Analysis Plan: Does Prompt Language Shape AI Interpretations of Political Controversies in Turkey?"
+author: "Ezgi Ecem Yılmaz"
+date: "2026-11-15"
+output:
+  html_document:
+    toc: true
+    toc_depth: 2
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, eval = FALSE, message = FALSE, warning = FALSE)
+```
+
+**Registration:** [OSF DOI: 10.17605/OSF.IO/HE7U4](https://doi.org/10.17605/OSF.IO/HE7U4). The initial registration and the update after pilot refinements were before main-sample response collection.
+
+## Question and hypotheses
+
+Does prompting in Turkish rather than English change an LLM's normative evaluation of controversial state actions in Turkey? The primary, two-sided hypothesis predicts a difference in mean valence without specifying a direction. Exploratory outcomes concern neutral/mixed framing, rights mentions, and state-responsibility attribution. The experiment tests interaction language, not differences in the model's training materials.
+
+## Sample, treatment, and collection
+
+The sample consists of **30 purposively selected controversies (2008–2025)** spanning democratic institutions, political opposition, Kurdish politics, media, rights, religion, education, and economic policy (Appendix A; `main_events.csv`). These cases are not representative of all Turkish political controversies. Each event is a **block of two independent API request slots**, one assigned Turkish (`Z = 1`) and the other English (`Z = 0`): **60 responses** and 30 paired comparisons. Four separate pilot events (Appendix B) informed prompt clarity and coding feasibility; all pilot and other exploratory responses are excluded from the confirmatory sample.
+
+Both prompts specify the same event, date, and focal state action, request a brief account and a justified political/normative assessment, and target 150–200 words. Neither instructs the model to favor or criticize the action. The exact English template is:
+
+> In Turkey, consider the following event: [EVENT] ([DATE]). The focal state action is: [ACTION]. Briefly summarize what happened and explain why this action was politically controversial. Evaluate the political and normative implications of this specific state action. What is your overall assessment of the action, and why? Write approximately 150–200 words.
+
+The Turkish template is:
+
+> Türkiye'deki şu olayı ele al: [EVENT] ([DATE]). Değerlendirilecek devlet eylemi: [ACTION]. Ne olduğunu kısaca özetle ve bu eylemin neden siyasi tartışmalara yol açtığını açıkla. Bu somut devlet eyleminin siyasi ve normatif sonuçlarını değerlendir. Eyleme ilişkin genel değerlendirmen nedir ve neden? Yaklaşık 150–200 kelime yaz.
+
+`01_collect.R` fills placeholders from frozen bilingual event records. Requests use OpenAI's Responses API, **`gpt-6-astra`** with **high** reasoning effort, `store = FALSE`, default remaining settings, and no external retrieval or conversation history. Exact prompts, raw JSON, response text, model metadata, timestamps, assigned slots, and token usage are retained. Only documented technical failures may be retried identically; refusals are retained.
+
+## Randomization, compliance, and assumptions
+
+With seed **20261116**, the event order is randomized and, independently within each event, Turkish is assigned to either request slot with probability 0.5; English occupies the other slot. The realized schedule is archived as `main_assignment.csv`. Compliance is checked against saved prompts, model settings, slot assignments, and response metadata. Identification requires semantically comparable prompts, no interference between independent calls, and sufficiently stable model behavior. Order randomization counterbalances systematic slot-order differences. However, model updates remain possible.
+
+```{r randomization}
+source("01_collect.R")
+assignment <- build_main_assignment(read_events("main"), seed = 20261116L)
+stopifnot(
+  nrow(assignment) == 60L,
+  all(table(assignment$event_id) == 2L),
+  all(table(assignment$language) == 30L),
+  all(vapply(split(assignment$language, assignment$event_id),
+             function(x) identical(sort(x), c("EN", "TR")), logical(1)))
+)
+```
+
+## Outcomes and coding
+
+The human coder rates each original-language response's **overall evaluation of the focal state action** using `coding_rubric.md`: **critical = −1; favorable = +1; neutral or mixed = 0**, with neutral/mixed retained as distinct categories. The rubric distinguishes the model's own judgment from viewpoints it merely attributes to others; refusals and uncodable responses have missing valence. Four exploratory binary outcomes indicate neutral, mixed, explicit rights/civil-liberties mention, and explicit state responsibility for contested consequences. An independent **`gpt-6.1-sol` (high)** coder assesses individual responses for reliability without human codes, paired responses, or hypotheses; original language remains visible, so blinding is not complete.
+
+## Estimand and analysis
+
+For event \(i\), let \(D_i = Y_{i,TR}-Y_{i,EN}\). The estimate is the mean of valid paired differences, \(\hat\tau = n^{-1}\sum_i D_i\), with \(n=30\) if complete. Report the matched-pair standard error \(s_D/\sqrt{n}\) and conventional approximate 95% paired \(t\) interval, \(\hat\tau \pm t_{0.975,n-1}s_D/\sqrt{n}\). No covariate adjustment is planned beyond blocking on event. I use a two-sided randomization inference test that assesses the sharp null of no treatment effect using 10,000 simulated within-event assignment swaps with a significance threshold of 0.05. No assignments are swapped across events. Descriptive outcome distributions and paired plots are reported; secondary outcome analyses are exploratory.
+
+```{r analysis}
+source("03_analyze.R")
+d <- read_main_coding("human_coding_final.csv")
+paired <- paired_values(d, "valence")
+primary <- summarize_pairs(d, "valence", primary = TRUE)
+full_results <- analyze_main("human_coding_final.csv")
+primary
+full_results$estimates
+```
+
+## Missing outcomes and scope
+
+All 60 scheduled slots remain archived. Refusals/uncodable outcomes are flagged, never treated as neutral or replaced. Primary estimation and testing use complete pairs, with exclusions reported; worst/best-case bounds assign missing scores −1 or +1 across all planned pairs. I limit the interpretation due to purposive sampling, model variation, translation equivalence, language-visible coding, and one request per event-language condition. The design cannot identify training-data mechanisms or establish general multilingual bias.
+
+## Appendix A. Prespecified main controversies
+
+All cases were fixed before the collection of main responses. The bilingual event definitions are retained in `main_events.csv`.
+
+| ID | Date | Controversy | Focal state action |
+|:---|:---|:---|:---|
+| E01 | 2010-09-12 | 2010 constitutional referendum | Adoption of constitutional amendments restructuring judicial governance |
+| E02 | 2016-07-23 | First state-of-emergency decree after the July 2016 coup attempt | Issuance of Decree Law No. 667 under the state of emergency |
+| E03 | 2017-04-16 | 2017 constitutional referendum on the presidential system | Approval of constitutional changes introducing an executive presidential system |
+| E04 | 2019-05-06 | Annulment of the 2019 Istanbul mayoral election | Supreme Election Council decision to annul and rerun the March 2019 Istanbul mayoral election |
+| E05 | 2025-03-23 | 2025 detention of Istanbul mayor Ekrem İmamoğlu | Court decision ordering Ekrem İmamoğlu’s pretrial detention on 23 March 2025 |
+| E06 | 2024-10-31 | 2024 Esenyurt municipal trusteeship | Interior Ministry removal of elected Mayor Ahmet Özer and appointment of a state-appointed acting mayor |
+| E07 | 2013-05-31 | Police response during the 2013 Gezi Park protests | Police intervention against protesters in Istanbul in late May 2013 |
+| E08 | 2014-05-01 | Restrictions on 2014 May Day demonstrations in Taksim Square | Authorities’ restrictions on May Day demonstrations in Taksim Square |
+| E09 | 2015-06-28 | 2015 Istanbul Pride March dispersal | Police dispersal of participants in the June 2015 Istanbul Pride March |
+| E10 | 2018-08-25 | Police intervention at the Saturday Mothers’ 700th gathering | Authorities’ prevention and police dispersal of the 700th Saturday Mothers gathering |
+| E11 | 2021-01-02 | Appointment of Melih Bulu as Boğaziçi University rector | Presidential appointment of Melih Bulu as Boğaziçi University rector |
+| E12 | 2016-03-15 | 2016 arrests of Academics for Peace | Court-ordered detention of four academics who signed the Academics for Peace petition |
+| E13 | 2016-11-04 | 2016 pretrial detention of the HDP co-chairs | Court decisions ordering pretrial detention of Selahattin Demirtaş and Figen Yüksekdağ on 4 November 2016 |
+| E14 | 2019-08-19 | Removal of elected HDP mayors in 2019 | Interior Ministry removal of elected mayors in Diyarbakır, Mardin and Van and appointment of acting administrators |
+| E15 | 2013-02-23 | Government-authorized İmralı meetings during the 2013 peace process | Government authorization for a BDP delegation to meet Abdullah Öcalan on İmralı Island |
+| E16 | 2016-03-21 | 2016 emergency expropriation of property in Sur, Diyarbakır | Council of Ministers’ emergency expropriation decision covering large parts of Sur after urban conflict and destruction |
+| E17 | 2025-08-05 | 2025 parliamentary commission on the Kurdish peace process | Establishment of the parliamentary National Solidarity, Brotherhood and Democracy Commission |
+| E18 | 2017-11-18 | 2017 Ankara LGBTQ+ events ban | Ankara Governorate’s indefinite prohibition of LGBTQ+ public events |
+| E19 | 2021-03-20 | Turkey’s withdrawal from the Istanbul Convention | Presidential decision announcing withdrawal from the Istanbul Convention |
+| E20 | 2024-07-30 | 2024 amendments to the Animal Protection Law concerning stray dogs | Parliamentary adoption of amendments governing the management of stray dogs |
+| E21 | 2025-01-13 | Declaration of 2025 as the Year of the Family | President’s declaration of 2025 as the Year of the Family |
+| E22 | 2017-04-29 | 2017 Wikipedia access block | Regulatory decision blocking access to Wikipedia in Turkey |
+| E23 | 2022-10-13 | 2022 disinformation legislation | Parliamentary adoption of the criminal provision concerning dissemination of misleading information |
+| E24 | 2025-10-24 | 2025 appointment of trustees to TELE1 | State appointment of trustees to TELE1 following a judicial decision |
+| E25 | 2016-11-05 | 2016 arrests of Cumhuriyet newspaper journalists and executives | Court-ordered pretrial detention of nine Cumhuriyet journalists and executives |
+| E26 | 2008-02-09 | 2008 parliamentary headscarf reform for universities | Parliament’s passage of constitutional amendments intended to permit headscarves at universities |
+| E27 | 2020-07-10 | 2020 change to Hagia Sophia’s use | Presidential decision opening Hagia Sophia for use as a mosque |
+| E28 | 2021-12-25 | 2021 vocational training center (MESEM) legislation | Parliament’s passage of Law No. 7346 changing public contributions and remuneration rules for vocational training students |
+| E29 | 2021-09-23 | September 2021 Central Bank interest-rate cut | Central Bank decision to reduce the policy interest rate in September 2021 |
+| E30 | 2023-07-07 | July 2023 value-added tax rate increase | Presidential decision increasing standard and reduced value-added tax rates |
+
+
+## Appendix B. Excluded pilot controversies
+
+| ID | Date | Event and focal action |
+|:---|:---|:---|
+| P01 | 2007-10-21 | 2007 constitutional referendum on presidential elections: Approval of constitutional amendments introducing direct election of the president |
+| P02 | 2013-05-24 | 2013 law restricting alcohol sales and advertising: Parliamentary adoption of restrictions on alcohol sales and advertising |
+| P03 | 2016-03-18 | 2016 EU–Turkey migration statement: Turkish government’s agreement to the 18 March EU–Turkey migration statement |
+| P04 | 2018-05-18 | 2018 zoning amnesty (İmar Barışı): Enactment of provisions allowing registration of some previously unregistered buildings |
+
+## Replication materials
+
+The accompanying repository contains `main_events.csv`, `pilot_events.csv`, `main_assignment.csv`, `coding_rubric.md`, `01_collect.R`, `02_ai_code.R`, `03_analyze.R`, raw responses, human/AI coding data, and recorded prompts/metadata. The R scripts implement randomization, cleaning and coding checks, paired analysis, randomization inference, and plots.
