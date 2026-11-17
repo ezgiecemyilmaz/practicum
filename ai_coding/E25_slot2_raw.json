@@ -1,0 +1,112 @@
+{
+  "id": "resp_03331e1aed79b831016afbb97b06d887d2bf5d9f7c96c52484",
+  "object": "response",
+  "created_at": 1794881915,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794881917,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6.1-sol",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_03331e1aed79b831016afbb97bc89887d28889c0cc9e92d922",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-7l9YoulZh157J92zLC0sEZxBMmYuImK-0lv6BMh87vWes-RPv6IvN4Hupmd3oFFd8RO1a9cuDHjsQbfXjfWA4WqY437kycQV3VnXkgMd8C3xI2DCCHvzz89R1kI8Vb96h4cLVPVEMf6cUX5BmLxgKbgz12Es3kvFxXruHCye4HEZ73T4e76eFcOKZgOMrU7nXW-TodFGBPwSZBiBYh3Ji2rgwMVBuRsFuI61dmLNdnnKWc23U5BCdWqKv1HGy0UiZr9n90U-VBhJlfOqrIfQT2W9PgNs-f_ChRf6Q4uj0HhWNvqUim0V8ijylAeBghxD58PyzhU2w0kjePSwxfy1d844CsokpwesQk6NelgXdTNj15TAHKwOQdZbHIhDbz7pfKviqsmlxuKgUit3GJOazoU0Ew-t_9Ejf6EkkWqx_WSth5Q9QAmpRf4WAR8NG7WV4e8u1KP0GXSFyTPC4Hr5UJlL6Y53LmUvLw_ZEXar-saHjCsPfIA4bPkfja2jEPARNOO7q8ikZV8-9qmdoTcb3oNnPeyFpNv1dd-Mu2kFrvmK6f84vlr8v6X_OwYGquUJ_gUTpr-Xgx7ogZZwQ4VwHMrDpBk2KFYrLpgG2-HRIDYZbd6UJ9TEtmXEkxYfhUPN-4hn3VLPpyWjOC_rLW7AeRppcShOw_urfRxQFRq1d_1buEQeHPrOjrxRQbJCx7D7IPh0AsbxfUm1jb06CfiJ54kMqs8H2cwlG3T7IGmcfL6jo-0LQHve3zI8DA-FWPaiC9dWsFcg1Xw0PPBOXlw3i8BOMUtIOxuEKb1GXEgl-F9eM08yz_oxL57kIjUUdAGZRFdN1xACL9ldbbHayEP_87EaiY9f_M8uMJ6F4UAk3eDH8BNWO81wMKqwqaA3SDCcPo9jmTvgptpJN9I4E6aicbcuAj8pRG6oHNL_85zSwkYrZVDOCth6Zsj1MaOJr5iaenH-r5WxAw9GtiHKBGey5n_AYAoEjKBPMwN_oFe7z9bj3kakP_mSVqN5rX5P3C3klZgSFF5EwMdSMWvp3GIAUPFhEPa3GoGf49lbgAXlUlkOoEHwk3526WZJZavZ075TG44Zbr2d9s-L_F8VV7Fc7hrWyBNlyRJecxpgc0mhesy3QX6yQapOo2Mx0iAhshzGLdIDMFRwh5uxcTuZdEgphiGlqrULNHXDX1GeU_z2XSuetWtbwSbcydB05ij3HUIew1RSnzeUBR0Pk_FGC68HVouMb_EkCBgn1LYuJy79Q_s-vblS1pwZAf3azvC2C9WRaW8j-fN6-99XV9_c0nm3oY8ImUmtktvh5YPMLtntTx3QI9pYYh04vQ2w8B5uB6XjJFao2mRz_4nohFli88CPtAKcyACLK8uib8AscgbciUekxZHcuuHyWs5xt6cWL0ZQNaMPDE-xCv4xdQEHLQEPmT0Myyx1GUHCjG5Qg3l_3KNZZo8w9vJbThgLoT_O-ryX0QEilvzxG_YnaTjTdToc9IsMNg13US5YmmvGjoK0bMhU4UOueh4mN1ZNLnFHNGGuBWaA2d4MJDg1PT0eOmO7BDxZdX_Gl4lRL8sKsnV2VaCqh6jy7MXR7mXCp6nOrW_FOGhH7epFTtI6KhQLqAG02RJJSaf7uqTWKXDVcW9EIYj0uwy1X7DE0yTR_f3MbtEu5EAjvwOQ9Km_cT8hL2Co1J4RW-4u8P-aGVd_HF_xSkcfalr-UTb4awZHqrJKRu-_GgtkYFp_NbqJLeYHMAO8k9DuebeJHJ9Ghb8sFMKX242w3Tk4t3Xk-Bo_7qyy7hoyVi30VyDvbUB__mZARsGZLAmNv9Puj6ldRFZkcj1dydjtWDSj5a6DYri_DIBrElu-VJyJOKdIDuvMS__xLTCtpke_CC0Fk4NaNQsUy67jmYRVEPf416pAvGHT5Qc6zQuTzdD_aYNNUswv-hPigNwW7VCVLL4QiLPgB0ZaPJc9GM1KfEa0yjzRhCEaEPSXBGYq8Q2oZt6lu8AIujgoFt9hR4u5i1t_ZB7WR-RGR8-XydzXqAx0OZU15f8h_ZMZwz1LMalLQ7pakaxgr2DxKrOQCwqETQ70HsICcaK7fXqDXfSuHI__OqQuGTAiO6iDq2tIbg1RNU8Wp6AbL-cbxxpplFIXdYENapC-mdYjE31ui7yb_GskT684ph5cONCKTyfFBnAyvANV7s-BTPBOZEzyObm2NfsFbqTMrORAJ6d_8rIi6reITxEiW4MoOypaBINo5kvvDjmhlFpDShKtDzRvnpF8ZqGIcrhz7oGfHAFZCczvHSEXdWqV3TdEOjAF_WnHwzcLCu7fO_aiPZPWqAqe9Jcwb8gHQoOTl00YOZA3NJ-Vy-yXkUoLu0mwhB85UJTlZMKMvt9MkG0v3BqH6zh1BUbE4VDr-Hz1qvdDHc2vjIkhZ1Mk6YgfHf8tfJV7Ut0rbXSXz1laGTINZfDHHiQT1nBdg7FD03ZQ2mKPcP5rtSJfDmTFaUj0z4dnstbHfdk6cHqtpo6SSdgZO3_AhRCY7TfZOQ-AX4wCnF4_H6mQ5btx1B0vk3OqrRtzh1Q6K6z6zFa9AggNBAhazn75cXcANXMAH8Di7Qy4oSn6ICtCfaHGL39ns9y_Wef1ZVztjzu0heq5FO3Uw0inXOsndCXwY2YFQUzg092JPYQZ97whHU5GrU2DPjRkdlZx5UN2eGBweLMZb5HVZZVwnDrKEgtqniHWi-CFg29i1XLexABklAkrrQhr9NP0cenNqVnvoRYRx9qqcWdtK_80HPkt6Vg0CoImy2qNhaVu7lVFRN-WJWcloNSDQ7gkFn-zw_XBBRkLirPyPdmqwZreRU0e9tOVbwIAg==",
+      "summary": []
+    },
+    {
+      "id": "msg_03331e1aed79b831016afbb97c3e7087d2b577e79b1cee3d5b",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"valence_category\":\"critical\",\"rights_mentioned\":1,\"state_responsibility\":1,\"brief_evidence\":\"The narrator concludes that the detention was disproportionate and damaging to press freedom, political pluralism, and due process, explicitly linking the court-ordered action to these harms and the chilling of reporting.\"}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 1006,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 0
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 98,
+    "output_tokens_details": {
+      "reasoning_tokens": 28
+    },
+    "total_tokens": 1104
+  },
+  "user": {},
+  "metadata": {}
+}

@@ -1,0 +1,112 @@
+{
+  "id": "resp_0745b1c88e7ad2a0016afb2df2362c87d2a109b77c44013eca",
+  "object": "response",
+  "created_at": 1794846194,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794846228,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6-astra",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_0745b1c88e7ad2a0016afb2df3c00487d2b0dc73278818261e",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-y4U65vuFlhxzA5n-fgCccxolhSM7GPFlOcwDvC63fz0RF_jSVMdqKN-o0Y44W-qaFRb9Q68VulFz31nX6u1JzYylrrcKziYPCUMNPqbGjuQsTPmsh6f2bfqzM_ixW58P7kKv6tJtaeDRUl3hx8ws_6FfQdbGFjOKQUH9u5Jzit1-ZqJH-eg5J7ZOvLIGsSIWZtsAts5MdH-vmSo-2BMgevfGZQLYkkPExdW6bTG5nf1EDuMK8nd22PhVjS3dt0hH9y7LN-5QUR5ya_WzG2pXWwIeDfrP80ADsXP0WQxTfZ0oEBMEFp66SmIT1CkmddIztUys49iMHdWD4EiUtoEnG0IpVGg3vi8F-ETH4H-mFspwGusYesPNG_RyQ6H3_e18NU4RRh1U8cNUIETRaHbufKCPI4OSCcr2r2-PrGY-mA1wKnffyQqN6LLHijPJ_Ns_dCcSVGT-5EO0I1Phrylavd0HiPXjiAk3iRnIbkxVvoDaFpHRyphcwkiC483gpH23a3XsaCBTRgX490qlEjCUvMsAzc9N_I9AT7khXRWZ8EAOx1CI7NJiOnStmGCFAYwEH_UkXC6dYNbwJc9dbxmf-FS1vJmJx-yBI_Cu0SDsfnskPDJdxHMKwY039v2Y36wZTybgYFmeiQQ77DlQE2JKXKIRIfDJjmdKq-SI5QYSXFVNXcx5J4P04uMF23wvu67TMGY5mFo_MeWMo20q759zHXF8muk-R7L439oGI0syJY6HNQNReMP0-ph4DUDGOEgpHTzestyc-FyevFoSblSuVqn8He5WgXmmHw-8ozaTx5pbw8-y9YZd8iCTiYocMTLpL5nec5_ZJfHECh90OmNg6SXzC7ESJay2jGsubZfzIe7Y7XIJpnznRVPrJzfKh2q-sdSH7XZ4hjGfig_c9JaRN5mU-TX-CpAZYE3O0pCy0QEPoHFsDIJ7fk-WyNkBJZN_04JkkrbHa1eamB36j2KQ3_TSxydvzj-M500dIQFH5vPBHdWvQzaCqNOHxA2YMq-FRNi7dCmYjxvKEI4tlqBwKJvuUMgiBs5ICXofhiIkuW23qF_7gzkllQH59ZCvwzjelQngw6y_VTuMqvGnLZsCv4D9LZxWF8WIL9MfUVwEJiZiTFe10usKdIXgq2nVFdlxLveoa3uEFAZpdFYZjXS3gE3rDoIaf6xZOw31xx32cwXk2sRCWd_WVI3uFA0GXhFwu7zUAYJEKPLBCXu8AB9Gh-FCYT_lKydgKYwuI6VxUQ-zo1gGpGKeAg7BMVQAeNx9tdX9hExP-pyUCiguCGR8L0OhzDwRtZnN_G11Z-pngWrPu86ppvDbbWoDmqux_BRDR8BFgjQmzpfo0h0YwyCfYBT-gyJPWM_EhS3gcy99vG41XZYZs_2L3I0PDg0bk8432DCt-cZ2jWcqF3rMKDYB2bFmARp1siWmFAck6t66FN3rHlWXi9GBXzTwPo11CH4Zlr18R9pqxzBhAE0QUoXVcxM79kMkMVHMK7W0_RsZ84twHaxAFhr-porJkS2MbWzxBzlaAOhPDny2oAKSzBBl_8DrQhlLvvxUrUWnt7SNpBytlD_DEw2Xs0zW6sjDfm0tOoer50SwngDqENeuXrgqpvyd2ZDmSfw9Bglas9mVVB4EQTMdPkGi87AvOb98rOGSCo_FTR37i59PwGVpLObLLuZt5IfHOVv2L4D5g2Swvpkhv0enxA9NcKaAF0oiOi3ywOoqCNsfAUkC8etQN4PR7s9Co9e7UTKt3pBenYuisZ9njg_c9awvyh7-K0BZCy8cY25yPYABUECS8IFNJTVQb9jE48PnMXOq7nIRRmz3oKrau6_zSl_qf5k7WrSjribolj9wNqDzxxcEL8dWayAoRtnCKKCl8KRGDY82FoREvNqqznSvu_gf3iQ-sv71ymAF0vGwrbscifyuXBXLqCJYIaoso9WV-tOGd3jz2mqCe8hr7iUC5VQGc1Lu0Y4XbntiT99WeOuswJLXkfKDPB5cRI_OaiIdRo2XYFEfPyi53Ex0Hhj0E1F3ajZcAoBX-nSY1DB3tU5b8--1lJwex3Ba4nL34y1si8Jpvw7TShRzLCsgyJAWVRn_xmDTjYhGeEi68dBlucPR_7SpOkUnu-iS5aSTk1naYQhV-igU6sSxhtmlfZ7ZeluzAzHNK7Opok4AcfOAMq_sYPf3c53NInXGy6fGCp5FOTea9LhrNzR5J36191wMiVDypxlBJDAXSz868smFOSwbJvVgFr-e194KjcbFVtsvy1n0fAtb2WqDQSsPSutYpxkI_MEZDwiOwjI6zo9IRypaoo2F5m6DJfFf2NDJCBNlhCN0kpt03RsKkdkIDsDc5bnz2g-BqIqjSXRkRFRiXs_iTWq56eWNHDmstK5tLVzX1S3rGzFsIMMd28qjlKDwmsSK-N3-Gx_1uuLHBQqMacD9xdvfCOy4NwrvKgpYQ4H0EoOY1h93L2nA7eVmPZiiRf6gI16bYwR3I_s959ytlMQQtv6iIm3Vn_g4UAu1rAbweyTEdTSv8cOw8HBeVSUSzO8fdHx4wFirUwU_0XNFou7g5ooHfhtSfXUfHw4wkAnj-2xjfR_6dSZgz5HeIQh7_vt7LIS4L4fpZruuRRGpIxs1kRX1wj36YINdJU130Dk7uZVfMsiV4i2PlWLEyJVXHO6iIDzlhBW-sjSNgH57jC5MmFYMU1Q69HF6Vkz-cCgVaNrj-Tzm4fSaibKiH6dz4_SKusHhDXaxF2a2sYjGdWgbC3qFQPlq137Q7ghaaqBsHbX5o2Y2b2Ep_-U2REM9N1I7eKCLRLX3dnpe1FGJ8LTi45TVmdT-G3cHQlGBrtLykbg0OU1ilRCmzfw0awGyr6o004IfET3agwnOrqX9Mpr9trUSFgqTW5hNlu_HuRmpF4WydJ_5zLh8ElE2QOdK9PU5yrYr49Nws1TFGSh5R4IswmWYkpOnaP-P5qQAjPU6ujpIyDxlqDG5-2J0hcfcqgpRgI6Mol-wZXa66XqZCnUN5b1DYvcMPz9HQ5tqBpepHEtv1LIQH-8JQkBLGFWA4fDyJxyIioErUpEwlF1ycMtjQngj1mX5hYJ04P9-0PEsNIIptab_MApt6Ge9mZ7pMSQYydHS2v1YIwwNa-uVzMgbrSFenMKBJTs7xExmzDQlAqnZmYYARavyTxvf8M6g8n4cWhGdkUoOhFWoIKe1KMECAxUNUBRG4Ubh4PrXec-uNlphbQBavJADU_7XGWz3phZobAtlgsb3XQsZyUX2-fcQtNYSA5F1iaZZ1uXzozU8AcXX4kT3FjmNGWZsz_8AKh2LHpXxhGtsHHsajyFNQo-BGhu3Q1RB60aikavBiijZ3HQ-Sg26nL13nD9-hoaxOpDbQUnIU_GzHJKUUL4RPVN9HTlSphxO-T_K1ejZoWxCJPUvScSnyigPcH_oSxYxN5LC1S5fon5GYFW5iN5grOn8wj4p66cp0sTn-XBQzfxrvqyvA9teYkDZuFfyTB1RpGbu13usZV5N7GXv3n66ui9ttLJslriEvIJYMNLgh9FmvzGk8V9R23wAqui3XGtV7QK2-nraeAJa1VuHxMnmc6-xoqNswtsHl4Gz58YBiAQq2WOBCxO2d3gD9d3lIPYdM8ECVwaKhfgd8tdafuhySr9n4KQlMMnJ7SdxYp-ipoH6Xfv0uVz51gtc6rmr8C4ZNnBAUL3a_HPil7NWGHRYL1b1U7HOnivsnz99LbBrMFdwQoyt8Tc8X-Nkj5R4yJuJDmxafLO_S-9d0nNCdnSS7BkVADGS5IVfJZt_9WJo2tbMKkBF5i5wC_J48usqFZu_WvzbrC1YMycAMIBt9pk9Ws0CAxnt0HKjQ30tf7-z7xZ_EKRzfwJTUQmnBIhRe_JPC7isRm_vYpXlMOuc0JkWhH34zjjbbHEXN9vBzjFAsjf3oXz6nPs29iEF6DVjFkiu43XFYXA8ONCnX9ra30wtjBfOjCWZhlK0Ify7ObrXA5Drha3JxvBJcBPlQnRRtyZNQqEluJfLrm5dceIVfeNxv0HeFGvvY2yuoaYuHF-8Wq_rn2p9vg5Gry5mHpEgSUosmoSGN2yRp8MsHhO6WT9iEXkfJppg2SL_alunLNAQRYbaxIo3Ps7g1LkPNPtDj2vh901-Is0PGL6osYGwSdCZVFE5KOmvsqXlaM2yLAD6S-h-yd0MG_tBod83hERBwM3OPxQ4iTF7ArwGloCslIVFUeG-2dAii8Htqmq0NQOQ5k1khDnqO3OASCDq-1KaCOb_RpLb17D4a30Li4zpxydj7b5ZW4fwYSjmU62tWhtlkyfwu7d9cQug4MT8QZ6S_b5fy_LNIbpjA61dJRTzgxZREyhvB24NA1E2NYHdRHcnEEZ1i7R3788gBDjoUCNZ5unBWJLwvL5eYaIQPhm3LJ2wl28kGk1NByV6X0Kfo6PyC65WmBKXLpl1Lr62VRR0YyrhCIzSv1XcmUh8AsZKZTYGia-N2HFkYLYkgJFK4eaAnD3agX5xs8vQRwM-UfoSbNA18wWH6KIRb22Gs4wdxmJFi-VWV997PdfLmUGz_tayWDbEUSDYpB3X5Xp1_heJ9x7sWqjzKNNmLOx8vVu2wA5tfDXzJDVNXcTL7jrw_4txlgIuGI13rHBbpCXwm614zHy3DEpU3CuxNoeeG5_P15371Q42WhfCr01bKjMB2drb8gjM7Y2GPv6YUl-r1y2RWI_TiLgFILZ_XxfLxsMZPxj6I9YAYnOHoXL7dV6_7x1G7uY1G3l-tfg_SRSyhIMiuAES0UsQzBeWTXk1egU5-Q4z57oM_C9kT4EXzXnHcZSI1wWm8Lzwor9NESaqPp9nSqFlYJqxbh-3ExxP4GPw7oFUYy5GXREnaHxKlkW1pb_OgviSbx9E-7m-3XNs0Y1BkpFAhPmN0ftiMbN6TaZELAzEBd50fmBTDKMr-LU9K5vsGpK-MuNsOXWK9FlSd81vOSgsGOB3NVxTlhbMPrJBQR6lBbLzWrLQhSu923ExMYwCrrPd1uG7TIJiWmZR7TQg-fsDcZGLJvAFlW1IYXpfpVued1-yCe0SmEV4sZ19zcobimF5Jrbmd6za71g705PFDusGmygs3m1uhgYr-koOl1UGuLlJpCCn2MFOBkX9wum3W1GZ46dBVm356YmhziggZhdrPQ0J2Y8OSX26G72reS9FhYQ--fGgy9hF5OiGdjChJSmuwvd71uUAfb7wCKQY1W0JGfxhYKTGFmv9tW60Cihs_XwmGcHxcR3rFy7Jgkj8lXofs-_kaBOaZOcoVqAUVCV3AfnCbQAM1L9aiahhy82OO2QautjKphVjJ8ujz5zd7rSgjXmktGxIeI2ZFJZiXpkTDgaprbyaJ1dnFCJ3vlkZ8HCAKW6THlD9Y0_B2MYIn3xeS2vaaUyNpS2J_gEm0eDZcbFXueX3pDvIYX50ZlcETJ9p-VEiwKNT_VgmvrI_p02HmbL2ytbWk7MfNWhgJQea8fbmfkU19npjWDEpbKgUl1LukmOWilSXbav3nyBAJD7GCFLKcXs_RCCg8ozrk785pg5jDypTLn0Vz8ychny9a_w1AGzVGmHruNUa7zUL_W0NXd1YeefeDm7HlrWHPYYyK_VU6PrgFFv8B2y3oh_BQkDkKG8JNWvs6MM37TSu3k5QpKjDU6ETCkhFSr8ghIT2rHKcM5jum3kf3Dro9nMCT66oGiI_KmdsKWtjrB9MjuPn_98kddR6T84DKyG5ok1yAT7bU8Q2h7x0qx5wCxutMU-5vnM-ii0acb1-0nWaAx8vdbHJH8GfOxY_pTXi8kpNa7ef8wYMHPpAEN8L3hNoUo6_qpbDKTjD-JDcO5lC5efqxrNFCGztwyRaWLILEIfous-QJPLtYxGIkchtQSLeHTGX26WY94zP85MXN0383BxyZDdZknPDdJQ8BOmYBgog7r66m8Irsb9KejqMXJRDmJRjsLaxctrvsX_SzsFXdNHn1_gYnVpCTuIv_86yopoVQXsMgO-HQMgvWepGEZKV32JDKG1lzMiywW10WaEO3KtkW7JZ4rBdSvvvg2vT-vF2Oe4dYMkgOHzCZY_e_8X9yeR0lWjv8NAARQL_VGD-IBQ4umXXVJcs7E5NwelKOzmmBwVeGCq2EeJskSu3jtlvOPJVUaKr5rZ2Z1wF0ha6iypenrTv9E54QTi0qBFz-RGT9At2eczi4tDhP05ZbQqKFQscUrnywwcWHtDj2qxzGoHpHuMTNCvvpoVbbw54SQ-Wsuo9um1RuxjnV5WaDC68LY_epAfxlXID2t_HelYEfimNmzezipR5giO5p-d-GrJcB9RTZQLJaFlVKETysjErA1CQxEShILVl1AFZB0N9Lcf22fQljhfvIKrCgbFd3ryF1JTg8hfBbtSAn-znll7JH9qEZoVUFEnZdgKRZkTSVR3OrVafWROzVhZUHeLVaY-2sCmVuB_aOeRknI3_a4RPuCanOSk_s4zU-wD38SR5N_JjCg65b5nd1UCxsmJtHL9aJ3wNFklijfr4tw50C-ifJAK7wnEVR4fEEpWEhFG3gNs4cBoMBiY_rv_y0CCkHMldLlJyieJR9sbDhIWx5GpJ8IGAeiSDKITwSyP-JnHpQbvEtHeyWJLYp_L_n6qTzi2WYdXL0HANp_tw76jh0Hek84TA4Hy2cpNe5mcH2XwlC2jJFrG-vZ6-j9k_zaT2UZJKmvQsHAYutJm9HKpawkspUW908mO68SUmFw4aIoVqX1-XvK5DvCcqFHSCs8uIQXSXMhuGjZXyhs9InsfSLeTJ-e5O4YZlcKIdT0hi0Nb12MawhY4lm71jgtT-s6QHIQ0GtzD1sbsHy1KZfVdth8SpazxhP_cJ-DMDD0aJgiCBmWDMW_80Sa-uX272nNb6QWdsWjFmmsugpsIVtl2XTTN9JP9Nsq9fR2ts75u6OVwYAmgRAVrBJHgYD_AoESQZQBqtXgYYywXq2DKpbzLV7lWhJ0HZoUB5eAJeV5r5G3deR4qLL_ThPjKkSa1Fy_ErA9rgg0t1zqrvLtNwKRq9O42YiQh4dHilmtRWxMJJD1p40xpfQh86vnHlO4BHpfokSeRyMvkdp-iLnPM-NU6ZR9FWeDHFatJtWj-jE401udgfELSGIXw3T7JQeAMNPepVBSv3G-D8NmxCvna1IB3ToQktJfLjvYLz_b1eMUu8sjsq5bqHcpidg5OmzkZfPTRhFrxmLd1bAoJxsIc0SAC1gHhhIRNhqlmz_CQujbKHPPEYbCsRDaFxRxPoFcsKEqtFkhkBQr4sBagO881-xN_4QT2B4GFLOLhGKraxheTMTbFiIpqCkjcttrW2xF1t8zst_19xqj7fJMoWIRZh81aU5aN6oib_Da0qvKMBj6fBr7WUS3hOlkBLVzZ-e-_A0Lt-FJB1eVAMyzgKLEoZWOAQtuZyv81MP842bVp5ROD4giACPpS0BE6z5pXeSqKZqleys6BRx1eO846WtdbLzPxfc0NnlE2uvhDJvbi3UYmrtwOpr_4B2NOUqOv1DNY9qnEBt1I4gq_PsjyPsLXAp4SXnN4oZBU2MqEITuA5cBsOeomwuxNkNmJ8xC9HSBESzdR50mDskZbOdodapsAE1K4U_LBEDsUskWRB7afbdjn3eGVJZrM9YG4UotZamROIuzg58LWMXMuTUisXaxTDfT2LnAxQGTmC9UTu9-MIZzWt_pqsbM8wbrfUAP3KQuJ6newg7O-jbJE8QSK9GavU_h7pZBZspjDeJbm_jVN0iaZNhMc6gRcXNd_9SdQ1DnNXzbdduJdRF_OSDfVqqEZLFsU5MJfdKIGoxPvwdJBzp6vmFxq1YsX4mtFLtszx8LogvR1KA93lSlW9RKsCXrWdRVQQbJwFeP9JWM2fwaNGCGuSDE7xEvasV6AvLJnAevebsM1ZtT8Onm1p3F-ozvoiYtjIetEV52_S6iCUXGzHuKA5HPLa60GsD3Yzmcuw6yD1ewUY9mtopq4LAB8hO9Y9qwZVicnqd4azu5Ns_KFjPhbNWg8qMBBOUDpsPFyZ7mPpfwpcqubSEUZlt7PApyy-mGGRw41gOrC81_SHiQeVs4VyOGpwy8m0g8t4GhVomASyq4Fj31MDdRFrx1_OBuUEIrbywZeLX9VqBdZ7Yye96v6iHIILrjLRuazDyujU9td-yqrnZMxL_LCJaHyuXFCO_ZINZ3lOQVIxHyGav8sBweaI5yjuom_vvLZmpzTXCk0PtUcW5j0-vrJcOQvzSXFLgYBud4fNXqqSL7RhO9sxtn_96DFSiN4Ao3kobaG1IGXnVaUYxaGcNlgpGUv78GXD4ovlTEox6fQuGhZH4AZTKk9qiJpHzEhtqGyiBpFUiiu3jiLPnQkFk9pHMstCqZGnZSdSUKVyMdKLfrL-Jx93mkgt6xEnDD7VQdqzWY7MTPLzG1gLHqE98YVJS1-eaBYjutHwsgro5Nlyw2u8c6GfGmBE03wrdk2gwWBF2R-AWVzdBVgb_ux8EM46rOM6GLyLVUxjrtKHrQ6kCCnKjyE7eCx-Y5onBXOCwGDCeRGUvscQyG0K8yb35e6hKR-_y8rs4J6orC0d6u26aZ1A02d0yHGtvGAmGmVGaGWSEEJh3sNwzfY6i6xpfsk0rL9TH_bbje2BKrqVJog6-CHiDgtFvpcO8TigyqIG0Sc4GqXsIs9tu4fVgssd_dlapdnHNM2cFgf3x6rontCPo2VXnqbwbpW5zn8nuV4BVCxYPwprmhrBAOAlQFTLc0d8PupvNF0cK7tnbvKYgdb0xE2XXRHwzyhqy37ulIiZZmOx8pJsWiFywrbcbk=",
+      "summary": []
+    },
+    {
+      "id": "msg_0745b1c88e7ad2a0016afb2e06fc4087d2958b4f4ba8756720",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "23 Şubat 2013’te hükümet, Pervin Buldan, Sırrı Süreyya Önder ve Altan Tan’dan oluşan BDP heyetinin İmralı’da hükümlü bulunan PKK lideri Abdullah Öcalan’la görüşmesine izin verdi. Görüşme, çözüm süreci kapsamında çatışmanın sona erdirilmesi ve silahların bırakılması yönünde iletişim kurulmasını amaçlayan temasların bir parçasıydı.\n\nKarar tartışmalıydı çünkü devlet, terör örgütü olarak tanımladığı PKK’nın liderini çatışmanın çözümünde muhatap kabul ediyordu. Destekleyenler bunu can kayıplarını önleyebilecek gerçekçi bir adım olarak görürken, karşı çıkanlar Öcalan’ın siyasi meşruiyetinin güçlendiğini, mağdurların adalet beklentilerinin gölgelendiğini ve kamuoyunun yeterince bilgilendirilmediğini savundu. Sürecin hükümetin siyasi hesaplarına hizmet edip etmediği de tartışıldı.\n\nSiyasi bakımdan izin, BDP’nin arabuluculuk rolünü güçlendirdi ve silahlı çatışma yerine müzakere ihtimalini öne çıkardı. Ancak Kürt toplumunun farklı kesimlerinin temsilini tek bir örgütsel eksene sıkıştırma riski de taşıyordu. Normatif açıdan devletin yaşamı koruma yükümlülüğü, şiddeti azaltabilecek temasları haklı kılabilir. Görüşmeye izin vermek, geçmiş suçları aklamak veya hukuki sorumluluğu kaldırmak değildir. Bununla birlikte mağdurların hakları, hukukun üstünlüğü ve demokratik denetim korunmalıdır.\n\nGenel değerlendirmem, bu somut iznin **ilke olarak meşru ve yerinde** olduğudur. Belirleyici gerekçe, onaylama değil, şiddeti sona erdirme olasılığıdır. Ancak girişimin değeri; açık hedefler, makul ölçüde şeffaflık, parlamenter denetim ve kapsayıcılıkla desteklenmesine bağlıdır. Tek başına bu görüşme, sürecin bütünü için başarı veya haklılık kanıtı sayılamaz."
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 148,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 0
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 996,
+    "output_tokens_details": {
+      "reasoning_tokens": 506
+    },
+    "total_tokens": 1144
+  },
+  "user": {},
+  "metadata": {}
+}

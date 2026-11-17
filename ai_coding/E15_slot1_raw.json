@@ -1,0 +1,112 @@
+{
+  "id": "resp_06ebdb0e8bbeb0be016afbb9b1af9087d2bb6023d852e4972f",
+  "object": "response",
+  "created_at": 1794881969,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794881973,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6.1-sol",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_06ebdb0e8bbeb0be016afbb9b2a60887d2852357aed51fb4da",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-7m1k1Fgm0udU7FDIENmkSOaLqSfANx0VWZ5kGFrkTi_mCO5KoUuV-G32GRh5VfaQGfKpwgHLSSJXgrnxjfXJBNGlpGjOBBn0rpSIpWMuVaEip7CsGeL4AJEjfqVJhm7QQlVXtJvpASxkvUp5evmh2MVv8DU0Gdrwehn7Itoxk_x27Ze6f_xoiQsox7kgR3SICg30wqSLwxpouO3nNClvzkBYrkEPnL9B6XUpGafc4-5I7a1E0DPXpnTGpVsE3GYPuBwp4YD8oKLuIe57mA1gb6deQ04xlxXYpMr76CcaLepm8nM6JVbCTSPBkg5toWALpUh7LsZXnLKS0BVfGuu1HYkHIhGYpe8sXtqDXYvKelOnJfGx-JFXywg7hBfr_6M8VoIf4bGFDjdhowNlTOXXiZa6cuTnYttAdWpxDAbyceOARTq_nqyzr-YAyI_aBkkbXJULplkvXNv2DHkIuN3WSgvNZVjr2Va44aUnM4pogPSyDT5fCYefEpom8PUb2B-HTJ9DN3Egp-IsK6e0H_kjN7nTnHkO2X8NvkiNB0Dm76LrrhiZCzcpUFHiLGhDyz4syfRGHXeVX8PYD-OGgew2LTyc4eNlTY4DU-C6dFcHIBTFtfoaD-EB3b578tNzepc5DUaOfkWYVNZHOCPjtalkNvLykpQ0FQoo8nzCkINTNgXOpJOJyJVSLKSwJCMDfksyPhd9wfzI714oViecMn0wQ6K30SS3GCLSqQcZx3TU2OhHWwtKM81nMsU79QOfb6nR22wtrUE4gB6VyNUbBvZwHgFtKGjVZ-5G0NaXJMbciviiy_fE4XpW4Zlr7D5iV8BQaoq_z-R9J3HO7EYIRYiKs4FC6oesl6l-mS_pdSzmCEMMCS-9e82E-HO8cYtRcqO2yemd7aaZVKW250wGSkQWJ0iIFn1Vc5NG6Jk8Ow-WVl4MQV7gwqWwKd7pt2ubnAzVEgPoZWJ_guIAcOeS54g3dlv1kQGYM1HLEyTDDBQhxUh6xWBH6uHoZshCXvyzghDM10oey43uJiunSYYkUsKs5qNKUs-2tWXkmwRXdCGXeRZuf4t4W8dgID_f-2Jkjheukylf9ck-zdBeZc97txq9Xr4kpBj7BMcn-rZixrXaFLwDIU8lV7cu9IV6VWOQBP7jJ7myXDGmVzMJywOd58eSSbmjliW0GEj1q2BuotlptWMkC_4n3n97xdD9T3qvIqZmp8Hg60axXP8dH145DBGvGJlto0v3tir5DOs0KilFY8GPc46qCaH7MY9jFnzYX2_pe8i4C0eWwn9dyosTY603NZH7ypWdBKBk68w1uikLiADBg-ZJJFZYaMktmVGDO1SlRUwG4csX8O5tgjKA3aTz9bJMmrYiHv8nAv6AYvasnHPNj8kWUIg2b-ACJAmlUUGvo6mtJfZ3K-yck9XYUpXErOCcsu26Zgy7Eqlr-mbceVGLRL2wGTHCdIdm0miNen0BNY0tpEEXBRASOosnSMb_VrWka8omKZTbVS_bD90gpNaskQbdieEVumEX1pONMx_wGYgLKpVERYTpjPNOc8stwiF09DoBt25kJ6TfoIoWLgQUJWJdHgioW13qEQU0yQu9SI6uZ0upamTqjt21d25dYwTgoYDBzjf2Cu93-xBs7yJ1zyFNKJfvZJN2TWEAh0Bf7jKPIvAWpu6fGq4m2O_hNkwIwiJKbML6vTl_c8Rh-4ip_qO6A8ClHD9Tf3WLqL7xdmXiEzSptazfgoQV8j0i1WOKruD3ZOUHrKcATQiNl_h2wmS28vy5eS9QQwl8K8BJjw5VjKw3orJh6ZKat4hkZ7wRK8fji1fajOMrESzjNea1YCVpzBNfYNL9uNoakFjfuYS4v8875aO0X8S1nxFK5lygoVwWl2dIiPcDeqpAI4_sG4uSR7TTPIl4UAGB-QB1EfZ8oBSw5dmi0QnWC3EpL0HJybvIgWk7aSVaxHoKadwwWPgDZ1Zyf09MCe6Fnpkix9P1I8i3CTY5oztGzZcMAixiMr4NRbcUKzPwLmXgVrMpbKDk6qk_Wt4IYMTBRXZ310encUcPTVV6GH3F8ihyb50WW9QEpIXPidIo8WELuZ30HStZWwW5BeYV6xjaY5EOpWSpHH_cj6j0IaTw3_19Ec1NY4L7835VlAQBDJAhJOj5XdzPbYuqmKA4bFapJrAWJW_BOdfQnYz-ldqqcyMqw0OD66_T7Ug3Tm9fBfEJ5mdcrKZeW8_AQqGSBRebwyvncIYu5VRt2-_jqvNOJ0Q2Lh6YVF3PZaF7dcSP40BkkkKCkhAiEwP3RloMGKozxhcWyqH0z7BvGz2DdFd0lmeUMwCw14owEyv5Nh29_pxlNJlPjjG5v4jbBLM6HSc__PFCxwXUnkXnw7XEXD6_eGC2U4DkQZm6wg-tUs3ldTh1qRR-b_k2KRvEN5ZgRaaT0wFj9IrwF--t3Tr5eIvQrIQk30HRpRtCs8AASFXjnJeCkrcdFoyshI8gKSc-GvzAFYFpCcZXS3HIsD7ioCVyw0nwHE-_g_Bc8-f8E4uJkzsIP_3Hf7kWS6Cqv5SVDzRGATO9qMFLPZclSm6Cdms2-bOx34tre1bk5fV-CKE_XTke30nlXTRN-uy9mEEmYIe_C0oarOoHBEmFjtmhIK4W58hpU3KY9qi9oPPrf2ZHbkkRbstsEr3_j3qayeBLX0FVy5m3qmXdWVN9mGJkyH9EuPbQ5ICmM-IdxrUfxAdVzTwxs2nqXKtrfibhvJXIuR_dvGU0AsLedcHfuwdvpokYVenKf9emixy9NsrQQoP1FyszetczABej9awv6DeNza4dg_CvVagdZ5GeFUfJJj-OaaxEePmfC9QFATB6a6cAUTLbkkrlewaMgu2khp2EhTsxfVPLt7EDbhHUHl24Nni49yh0jwXRxiNv3gCeGJ2m-vOwL1zNf792tsIsQ94-An7epe532ee1ZbRI2tdJ2EGDPr0oAKu4D3no34NdbrPxvr2FyCpQenBupanUwsWNyv80auki_rcac644i4Xv4lTqTjDKz24EpCheFWqW-bQkaaSwZzgv94dazkpsniyucSzPGXVeEq0h2e_qdRTXFTbGS1Ym8sg47BP9Zsbf8Zf3g9pHoTM1bM2Or0Je-hlPNoDOUGlfaqaRuAXSGNMX2-wjL14F0bTXCsJUg2QsXz8yhcQeLjsPXMkgmACwIN9n0Pr3_LhYXM6FCemfdz9BTviuMb95eJarj-44uCbjV2A7DzIHNCEKH8=",
+      "summary": []
+    },
+    {
+      "id": "msg_06ebdb0e8bbeb0be016afbb9b4158c87d2be932cf109a73355",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"valence_category\":\"favorable\",\"rights_mentioned\":1,\"state_responsibility\":1,\"brief_evidence\":\"The narrator judges the authorization legitimate and appropriate in principle because it could help end violence, while acknowledging risks and conditions. It explicitly discusses victims’ rights, the rule of law, and democratic oversight, and links the authorization to strengthening BDP mediation and advancing negotiation over armed conflict.\"}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 1248,
+    "input_tokens_details": {
+      "cache_write_tokens": 1245,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 1245
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 140,
+    "output_tokens_details": {
+      "reasoning_tokens": 53
+    },
+    "total_tokens": 1388
+  },
+  "user": {},
+  "metadata": {}
+}

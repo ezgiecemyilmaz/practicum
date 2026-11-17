@@ -1,0 +1,112 @@
+{
+  "id": "resp_097af80f814bd482016afbb9bc534087d2ba45d6523702ff01",
+  "object": "response",
+  "created_at": 1794881980,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794881983,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6.1-sol",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_097af80f814bd482016afbb9bd247c87d2aea9ebf785cab7ce",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-7nAVndlaVxBwvdNLMkHjqBlw-wY8WmHe_fagG0Joyx0cNPix9rd5SYPVqSyBTP3ulSOavwy7tS0JTKoS-EDvCLfYhvvwaVa4w4KyvaO7YBMFH7wq3D9CxKqQVKA6vmgObF1BDP1QZWTSTJjo21-VWynGS0Srspvt-MyDeBrIZ2F9eb9iotY_7Rt97VxrzT2XA1AiXO3MN6QOyjr0EklJA-pam7rQNSTWjygpB2BdJrWfUZGQ2E6aIJOmG4NCLIrFZ7mZCwS6f4I3D3cSzep4Dy3ZcBUcVRUruI5oywIktiJc9-chNImSW_zSh0cTcH6nE9-a7Q2NkKiHaTl3CsV230eehAdPPpCW-4ByQ0R9N1JNPHJTiy4L-zzeeU9jhb_fTQSebyaMX45R72lRaMDgzJMYAhf5ksIrPGvuyHLmXryFa8txBmVB0OBUtVhlM8PNzU3zTyikGaQmrERAMO5kZxhI597mXGGLyJBlb9ukZ97U6QSiz6uMqoRf68Whtb7WlWZemfvxsaCiczpJ-GJSPBlRQWeTXVTNylnubrnuxJhZuAdkQ1cVEGkBUuZsp3csX55622x1yL6qvuwuFiUDnbptHDPnyKmVfxM1t32axaYaUHKkL8UNPBFMk38FS0QcCWaJt7YvMCv4UEb85kGMdTojJhlych_BoUnmM92El1pb2yD5pk1IzBOoM-ewAanKqvYG445ZOWGqPi3cIsuY10HQDN1XchEPr9W0zC5NE09NVEutBqQobZcRqsG876Qdm5A-xxVha4Wk_9XFwFiu5dH0xBaoBi8bIddZQCwIJx0bDFyY3n7HRn3H_3gI4YY_s-47wqTLpeV6OJwXspVhwu-zX1Ga3J9HFbWVyHE9QejZjiFq-YVJPXn1x7lOTOsEYLCCYYkEuk_33rt1r9EBOau-IhgXT0f-ArYtJ_MSJU-iEeB3dJsLSNpOuV21HC9Fs2w2WzvFdm-_Il4Oo_cBg6gWytGAWAXWDgnqRkn_JG2qInjHZYYw2NiLfXY4Hwj7iVK5sjXx3QOjYsAe8SJK5QaiiyY1FRt5Mblg_o0tyeZ3ZHfA5qzXJ4E9AbPs26xv0HsWOSHtaL1EddYXpjbJNoqog43v5VuUo3QQqruyHGrrV3v9YyrqEkrYmfyXDhnpuDUCJaOdxwamgUE0NQxoD8GnWvdGzY0g4edZaReQTiokXWai36m58Y4r7KKtO2SMGOEH1vufN_oEIMtb35fZUGl839otPDeEwKtiAxstNYVNqtQA2il1ugd84NJQE7cCkoZDiSlsNhAD2erEq433p9GdHZkONFydmABer4R2gl3AQFixN178ocZ5haGbfD-VRVB651Domj3n02r5GsJ5f5XiO4uCZWmltzkEVaQNO_fdMg3BXy8nzWSHXZaDFeg0bVOyCWRcmtNDp-Uj8nNv-WE6v4m_gRloh1DJ-0gPSHf81dpKTjZGfiGBYGJa1CyGRjF497m6-N8Eb5Ylz3_TL_k3kxwYwQAoZLzP7DKYVDTGbTjUSn70gSN589mLVdyiMIaokvUh60Mh48N_9Gq3JJnz35F0jKn0QsPnipbZM9UuRBrQSGxRreyfzAjvLqG3SRizVoQU8R5oMC0TE1rKpvy9bkXGu2K1qcvE3XVlg0_5zhbP4SgtWDEWgXNneJe15K8o_xAGzECSVRdrP4C5MJF5kJcCEZm2R_M8x_41HfsPOaKnf36JTj_-IGDGw0X0pqixf4Ad9gVCBUSiKxnj_uZgqRQw3IC5AIjv5qdDsWXxC6XJk2KKbiGjEkIHBvJRfoYP-19M8ZoAUnjR35MlyRtHcrX4jz7s9kUan4toEFHEulSOFLdDu92WCkUAY6-FlsihAxCTp9Oyl5gAAsL-mqQ8uozdwk5lF2Q1dDgX3SavJlq93dfYWmzJs9Wc-xhSIMfNCroGoCfaZVlQaGvUr6oZef8ujA_FKJB7cQGlInh-jKJXjxQcSAsf765X2J5ja28HSdEszD3eEK49Q06MKUBahRpecdAQ_AdzFiVhZq8Onqe9YFbsywL_nSqv-EDMyHBG9JCel0Y9pG8SDoB9MQW5V-xVve-qOJWD6QZLF_9EHT_ymDGcUvUpTrWtQvnJYbQaA-8pqa-s3G9lX1sxGo-LaNXThuwi4Qss0nz1rJ5GU91lUH8eMDA4QISPYZGAyHoUqBSmEePIDI8dj3SdE4qd4Jd3sncD25cGB3o7hAG_zqaRzxF9LP4Oiq4_AUCJ8se889eTdd1vtnO9RhgJ2AS2wMU7l5gAhNb8bi9mh0qCR778kW1wAF2_YYEJ_LFStDXTooXgAfjL-Tuwiw8sd-tY5Kk2Yqx1MTDsUyaBPsx4DfW1RKrQK75eaoXvZ3mZoPlDIHsnT_VWcphqxiAl84frjqkP1JiXfb49PBxbM3gkKzKDr1sA0yT3j_v-NiUphFX6MkDpoEH9G0MzLK9qiKw98ItaYq6u3x00grTbHgN3whU1hBBHMs-Cysxa1nKB1QltZD_JoRKY4P85Ybcx_D65MYNDTaRptwN2whOCWztZe2tn-U8hIYVjfj_uDJWQckCV5rp7-q9g0sDjSdHbI4dnyOVrGCo11fk1alRu0AVIt_cMwXEsSAkP8fZmei82QFKY4fiDgXvpEcJFBMEXF9NA-1dyRfK9enFX4hTVj2WNMtQVdZCnHwTtnMR3qdaAcxKqD4KDZCClq2i1tYNULNNg2lTqTkSjhVfMbdw7qnNRiZOTGQJkhTJx9cp4IazR1X-V1ol-XUGQG6GvLeP6Uzdzc9Uw4I1fiziktr_zVJzDNY8cdDjix2LUEkdWa7iB1GnL3gB2J7zxKzepwvqfGCKjSbXvI2crv8aWt7MU9aeDX4ySbNlztJj5O2xFCPU4g9eW0_T_BYQvIJO5GbIP3T2sljcvssFVdOTuJgxpz5P7wcCMkAcm0qQswdZ_HXYsVsmAR_BaZHtUYKGk-HFBHTJJgKvnVluCg_7XJUuwbku_CQ=",
+      "summary": []
+    },
+    {
+      "id": "msg_097af80f814bd482016afbb9be7b5487d290fc27d6e07d3e4b",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"valence_category\":\"critical\",\"rights_mentioned\":0,\"state_responsibility\":1,\"brief_evidence\":\"The narrator explicitly evaluates the cut negatively as excessively risky under high inflation, despite possible growth benefits. It links the decision to potential exchange-rate, inflation, purchasing-power, and institutional-confidence costs. No rights or closely related protections are explicitly discussed.\"}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 1166,
+    "input_tokens_details": {
+      "cache_write_tokens": 1163,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 1163
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 121,
+    "output_tokens_details": {
+      "reasoning_tokens": 42
+    },
+    "total_tokens": 1287
+  },
+  "user": {},
+  "metadata": {}
+}

@@ -1,0 +1,112 @@
+{
+  "id": "resp_050c1c1785e76018016afbb9a8352887d28176af1f5ee4334f",
+  "object": "response",
+  "created_at": 1794881960,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794881964,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6.1-sol",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_050c1c1785e76018016afbb9a99abc87d2bac6f25ea0555294",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-7msaaBY6_CRjeRBS5vdjKkpq50cAcD2y-Y1CUT2-wgYpRI9MIiyzk37GI7md5HKtaxiWrANDBRX9-SCH1n2DNG63A5R9sA-fRWLmB5BS8CVz62PmTjSmZv-g4couvsUDEUNdraap3MkVD8gbZbzyL6J2NIxKVbhTglll1HsSG8J4TvQuld5VrCTU0tPREBRbeosdiHjGd0fj1NpJBdyN9ppuLI9vtyav-OLKZbEtZWYEfrkVvtE4EBfiGv7ngQHrVy8Jk5VKYCgM2OIglh4rsniFhFADh2XXUacS_hWArVCXykC_G5-3fD7olSSkJ-_MqPJ-GOaQyCGmlyhIXriIXwkkOoSscrtajiLyIUB5vVoedo5OIRt713SK4iAovk10p_JfqTnPlMwp0eSV_zoHPBIdo77hayj_8RtycxgnzVPDmg_XFphhgLiDNHUAYHkMj7cAH08U7yn5CObbRIaHDI9I1IzdXdTvHKZiZCOtf9DfW3jYh6PlmEl-2vVYAq2b_OItHHNy1BFuUi79CYg3svBbCh4qC8V83VMqFODr-IHnKxN4Y4MbzanaLvJGMNuD9mQHowGs-m-L8SFOgilzwB7yp_iKGfD1CYUqeOKNz-nXVSoifgu9fVvpDFn-nbKPytkbE7PoxgCNVyQvySrGYLf9Um1keA9RYRCbBW5YpixNrsEv4PfxBH-xCSLYWX4DU7HqKQr_omb2GuNxBnqkqdYwI7LQ6bEqSYwqtkwRaKmxuAHvBZYqvM6ppQz3QVmcuRDTTWfN-03Vy-fAwa6sL8IDfiWqEpX0oZIbnYIwgnXkLswaWKIKhq63A_hJX7F2saJ7oKI2EfnqGshJ5mVtB9OkxtBIxMC3mCYIRA6wfel2nc6otm5o7gqJEy4Pelfpufzs4UjgtHsYBWJb3kso-CoE5xdLlshb4eDGbsLJm31nlZtvxExqYGVXKYTaFrqUi4XGD9cs0O9nOfHVrMP2VvGQ_u-PVA_evu__v3NTMfIiUPbOIItIwu_uSk5pbbeDTOBtTMvAwDSJO58ViDYrdOCJodPgH83CbG6fT_-hriR36KAv923lXkvzTGmOu9GVFMeX9gvl2nb1ZTgtMwxfKQN75eS17LZuljIyWuGQkCfZ65yiCeyvMIKsu8YqopiBG9HGw2OJ35kk8Gkpo9toNwypU2HE9HVEvGOlUrwjAO1iyoeQAyQqttFfp0CJgCI4x91LhALBoXibro2jy1EP-wvl9Dg_gxyU8Wn68PKAQMp_LtFQsFogn_IL3klmDaIeItW0qEUFuOkjFeSxBwZvtyvswZ3R6OvJwEcUY9cp6WZGDyZTRkFLRICb_ozdSbPKuzAH59KHjYiNMlzrtLeL9v9WQK_kjEArqhdtJm5lHqv7Zokzsn2A1gQ0HpG5nWrAAgUYNkCAi2Y8GftkMoKOmBlSrlPeXc9--CwzqL66iJQnu7xO4h8lDGb17GzoOZMRwxm9GFsSsOdHkvYq2YXrhwzvhi0iRFJNefuKFqWoCwufunZgtJ0972pkAcf-BXInY_D1Ly0tYuWkExSNfyzz0r8vL1xOJIF_ETsD8r6uQr1umLPKyjJHuwhxB0KGgitU3txVPx5DYVqJEDiifaPF7w7V3wyKWZBXNwfAxfxqXv-SZhtV_4KnyQr8iNNajUTbNoe-lhhfvUS7Opib5hjMvVilQsdosBffRAQ3578kt8I5oyMLwGE6tiwMA0stTFXQuQy0QpttywSKFmjBwEy388ALIjtiNdZ-L8Rb_bYC6UoyOwW_kHqvEUlu1bu83QB4HXh0T36SX4fA4buHee_fbOeVrBVlPuLTwdg8bVoeRgtCZJ859PNPCTY4o1hl6T5x5H3vVCuA9QK1TSNbycfnGqPN0spe4PJ10OoiRHePVB00oz-ydTZdi5JMrptYFtCoXpeAg2hTqhfxH3ic6yduGp4Hfa9vTZkHri_1sF86aQIFwP7hc82ygxzwspqBGsdt9rPG2Vqs4hePoObuXv5nHe59JTYEDJ83kqmz57bn6bP_HAv58Pfzt70UXOOYViFWCmmC9IJBd-rRpMZCmhzCtlxSFZR37kewggPdaWOkbQ1qnE2tVUsHg1fvdnsJVj9VwR6dge6773MyxxUSBHggQOUBqEoJkNPVrEZ6-R3inTYo4zU90zikONXDKJMFZZZTZhm4VhZ0srpZx4z6gSMJYf7TuafoENchWrThuIay8Y4q7fIoJrRaJM2mmy40IDYt6QpOrdth-3fzgVERc3uRTg3urkU2gyu2rn8zynQisUoKjN-Vj8In4XktruGmO6KaiPiUv2xcpVOIEtljS39feG-EPGpj1Wpybdq35e4uOMYlG26cuQn9wJziCNG0GyZ3BCuLmy8354NjBdp1dwo1g4Yr5kFxFJkI8mQosbhj7tJGShw5jFpPCoaPhK865vsMDevCPAvMyofeFVdNRSNHMatgVPk1M78uIP4CL6bZSSRU0OLoY5as_BKwXOB1m7OYTmtbyb3E8StuPWv3ikSUc3qENdjHSMLcT7UJcYj-n57jOleOeqQzjNRYuaCfHbe7OVBzX-xQ3kyfk5dfwcBwXJ4dfpehgGftL7AhmeHb-pJ8omjaFZdSKgE1zdWJ0tVx2jh9Nw4V71y_4U8dIW68IR3Oo3J0kSj3OpP4tXk9ttXignYnH0A3HGA3-FQ8s4qh417SJrjzuKTm7zOIudcoezX9Q1N065djniPQ-BsWkPvxy4uZUOoXQT9J3EGPK4xs5rk7s0VwpIlVa7iEnFsBkDW1kd58SyD2BFtgHWmpqhtn7xnJpjF3-uRQHtwViFNVgdbjA65mxTekYzYSi-aCQ110kb3P3ZmsVwgERv54RBn-lN-Dr37kEfWYHYkaTa3sNkzwl6gJxRFmX_z9PUsP0WFnM_fu8AS0iVW-3DW5UlmrENqr20wuAL0yoV0bdpgrRnAiEBjdIjePGHMXC7WOG-a7nGknHfM9BbX2C3sML0oxOEBwdFTxPMrL19WqoC0MmvyWR3ROhMUBQfQcLB1QEnDrn3u3khlSB2xGIVhPv0occlhTggwMUfheB6t1t9OHzfcrE4B4e91BRfQIzG2RnppFuJgXhg5rCjoKFlMrEWtm__89id37_gjHHREv6K9ZHAIFpywZrlZWqgL_Q5i-LzYiPBIYTfRiVr9MLFVuBl30qh66icVy-vkmxAmZqxPuaOt0ALuE2NDpujBMq5XWPt6ShOt5jIqiIMRbstlMgf88Ebr0oMX7-cIDs101RcTsNYKg3qq0uZq2CU1eSDOu7Uj0oXw8K5aDVJI1VHa9T9VPdsQZ6DP9i9cMgz9le7noD2dxdIuAMELXIpXgYISxOmYf679yQHo1NgYSSTZDjnAUZdVtqzRw57DQO-ZoI58wQP-rzKo-rdjOtGT-Axt-6kB5w==",
+      "summary": []
+    },
+    {
+      "id": "msg_050c1c1785e76018016afbb9ab70fc87d2a164695a9aa27a4b",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"valence_category\":\"critical\",\"rights_mentioned\":1,\"state_responsibility\":1,\"brief_evidence\":\"The narrator explicitly judges adoption seriously problematic for freedom of expression, despite acknowledging legitimate public-safety aims and statutory safeguards. The provision’s prison threat is linked to self-censorship, weakened public scrutiny, and reduced voter access to information.\"}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 1212,
+    "input_tokens_details": {
+      "cache_write_tokens": 1209,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 1209
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 143,
+    "output_tokens_details": {
+      "reasoning_tokens": 65
+    },
+    "total_tokens": 1355
+  },
+  "user": {},
+  "metadata": {}
+}

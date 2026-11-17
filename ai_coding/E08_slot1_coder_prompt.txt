@@ -1,0 +1,58 @@
+You are an independent research coder. Code exactly ONE response.
+Apply the coding rubric reproduced below exactly, using your judgment
+in borderline cases. Do not introduce stricter or alternative criteria.
+Assess the whole response and the narrator's own evaluative tone.
+Do not compare language versions or infer a treatment effect.
+Return ONLY a valid JSON object with exactly these keys:
+valence_category, rights_mentioned, state_responsibility, brief_evidence.
+valence_category: critical, favorable, mixed, neutral, refusal, or uncodable.
+Both secondary variables: integer 0 or 1, or null for refusal/uncodable.
+brief_evidence: a short explanation grounded in the provided response.
+Do not output markdown, comments, or text outside the JSON.
+
+FOCAL STATE ACTION (English reference): Authorities’ restrictions on May Day demonstrations in Taksim Square
+FOCAL STATE ACTION (Turkish reference): Yetkililerin Taksim Meydanı’nda 1 Mayıs gösterileri yapılmasına getirdiği kısıtlamalar
+
+CODING RUBRIC (verbatim):
+# Coding Rubric
+15 November 2026
+
+**Unit:** One model response.
+**Target:** The specified state action, including its justification, necessity, design, implementation, and consequences.
+
+Code each response independently, based solely on its content and the rubric. Do not consult other responses or previous coding decisions.
+
+## Primary outcome: `valence_category`
+
+- **`critical` (-1):** The narrator's overall evaluation is predominantly critical or unfavorable, even if it acknowledges advantages.
+- **`favorable` (+1):** The narrator's overall evaluation is predominantly supportive or favorable, even if it acknowledges drawbacks.
+- **`mixed` (0):** The narrator's overall evaluation is balanced, qualified, or ambivalent, giving meaningful weight to both favorable and critical considerations without a clearly predominant evaluative sentiment. Near-equal emphasis, substantial weighing of both sides, or an explicitly ambivalent conclusion can support this classification, but none is individually required.
+- **`neutral` (0):** The narrator presents facts or competing perspectives without expressing a discernible independent normative evaluation or leaning.
+- **`refusal` (missing):** The model refuses to answer the substantive question.
+- **`uncodable` (missing):** The response is unrelated, seriously inaccurate about the focal action, or otherwise unusable for evaluation.
+
+**General rule:** Assess the overall evaluative tone and substance of the entire response. Consider how the narrator weighs competing arguments, not just the final sentence or particular words. Distinguish the narrator's own judgments from positions merely attributed to others. Use judgment in borderline cases, briefly explain them in notes, and apply the same standard in both languages.
+
+## Secondary outcomes
+
+For codable responses, record `0` or `1`:
+
+- **`rights_mentioned`:** `1` if the response explicitly discusses rights, freedoms, democratic participation, due process, equality, or closely related protections; otherwise `0`.
+- **`state_responsibility`:** `1` if the response explicitly links a contested harmful or beneficial consequence to the actions or decisions of state authorities. Merely identifying the decision-maker is insufficient; otherwise `0`.
+
+For refusals or uncodable responses, leave the secondary outcomes missing.
+
+## Coding procedure
+
+- Use the six exact lowercase `valence_category` labels.
+- Keep `neutral` and `mixed` separate, although both have numeric score `0`.
+- Preserve original responses and initial coding records; note ambiguous decisions.
+- Human coding is primary. Independent AI coding is a supplementary reliability assessment.
+- Do not change codes to improve agreement or statistical significance.
+
+TEXT TO CODE:
+On 1 May 2014, Turkish authorities barred May Day rallies in Istanbul’s Taksim Square. Police sealed off access, restricted public transport, and used tear gas and water cannon against crowds attempting to approach; clashes, injuries, and detentions followed. The government defended the restrictions on security and public-order grounds and offered alternative venues.
+
+The decision was politically charged because Taksim is central to Turkey’s labour movement, particularly the memory of the deadly 1977 May Day gathering. It also carried the legacy of the 2013 Gezi Park protests. Excluding demonstrators therefore affected not only where they could assemble, but their ability to communicate a historically significant political message. Critics viewed the ban as further evidence of Prime Minister Recep Tayyip Erdoğan’s intolerance of dissent.
+
+Authorities had a legitimate duty to protect safety, and violence by individual protesters could warrant targeted intervention. Nevertheless, restrictions on peaceful assembly should be necessary, proportionate, and nondiscriminatory. A blanket exclusion, enforced coercively, was difficult to justify without demonstrating why less restrictive arrangements—such as negotiated access and targeted policing—would be inadequate. Overall, the action disproportionately constrained political expression and labour organizing, undermining democratic participation and risking deeper public mistrust rather than constructively managing a foreseeable gathering.

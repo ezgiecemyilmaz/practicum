@@ -1,0 +1,112 @@
+{
+  "id": "resp_0c22fc93d6224e9d016afbb9cdd49c87d29c033e2837888687",
+  "object": "response",
+  "created_at": 1794881997,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794882001,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6.1-sol",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_0c22fc93d6224e9d016afbb9ceede087d29e4148860d567965",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-7nRgCMw3TPR52840QU-iwQC3mm8juM5wh4QNhumhimqXvVK36C68zAxWyjGBSOZurXeJIgP56Hez6LP-AegB-IBIKwzHXuYNcn8xJQ2P1VUwUWCOjYHgMxUU9bIylyZsckeuO8ltIfQu_X9BVZbsM-3rf7jBeejHU1hiNm_GS4Mt-sUzCZxQPX21lLV1PlcSClhzm7b8QPtCKAgmyEBbt1jpmHOc8YDoGJyTZNIIGvKEKWxUOWvwR9bA6FMwt0qb-pkmowo5CwxdeMopF6k3RWrTSByg-tQ7CH24373Ux2tPDbNp9ObmRoOsEfJI4JYJcdjbLyd0zdsNZ_Whe98gT8G2cLOc6ozTQC4IOz3sIvJUxDGoqS8zzNhXhX7k2a4ev4nmHoiRmxa8AsvMIZHR3G2YjptuCQyBGlgiv8DkXIyEWaKB_HmjTWDkDH6jH63hK6mva4KZUQ7Sx00SY3Ev8OByECOh_9JJ6czdQFPOZnTs7ISr42NCURnPaTQEWD80bNaOX5cTArNmtmQTe3f-phzfgL0FJrsoHRkFFMXsNzN-8d1qFroaO5ahfgmAbbZ05u1icxOw5Ak0ZfvbnnAv8lLMCq0wUYfyXaOBiGtVK9krzC_zz6X5zcYWPdJkwmD3wbz9Fpj36TszvfwJow8SFee6D4MZWY3BE0Ur78u6PVBolrkPAeq3Jf93AMufMhicRUTZEqBp_ujn16kRm-R0CCh3peWAXr_oarHI-sTRTGlANqoumv0oOtMEP5GQAFOVLvc3RqKVvT5AlzCUfjj53AOCqgt4VrNbkW8W9Fl6DrgG4Pdt36YIMq4z8392J_1iDRfQBRRNlhZLujwOFYv-5rb6tumzFn1_he3xewkW3gvBFgORR9rHoBc4VG3BsF5WLoEO4zG6dnZVPoskk6kCVqBvTuY9nPY9fX_kJFxpB8ZXjYhhfZY7GIZ21ZPNCg15eRCSx-KsumoFL02bePeTwkBMK7y3YM9J_7GYV1pYjnjAU2fHyzmudATPBOssbuhgn-hGWMMU9I_kPP_gWFsi1ZU9r1yQbHGiYv0AoPgRIk99EqcvlY4TSS8G_nFpDpeH-O00zG0ii7C6LpOJGbwkk138KbRZkR-SRZrdbTkx55x7c0H6yaIi-UIcsea_31foP5mk5pSQoxXRDpqgKpTxQIjBN7Ff59zh688gIZrzJhLmgH5FWRYrlLXDZZNWrXOZR7KC83IB89fZ3XzBH90xdx1kXwtNarmWXAlHuTFOF4VY2XADSHILQtqddffnvBQNusLauNNITPt2XE2wWj3f4A12qwIwzP6VhI5Z290aIl6GsBEdXbi6TbaQ8RQllDyVekF9f2GNRkpXUlt-N5Fb-l0sGd7Owxa9OBBR97nEVW2sFQ0Q_HbvJH0z0zLMjyIwvxu4RyGizmxhvP17Igiulbyzl_bUmiZqK8Q3bBnN2KTueLGM7KEK5Tyb0lFBRbTDXweyRUJlvkhfkZR8DZTTiDACCPgWOrpviNksoDzKmAcrI2eygfp5pwl2YUf2GoI0zR2QUAAQyZyKaiymGhA-CKl6NlmHhvEXEOnd9KlIA8rhPxDwQyd5o6YlCqodfx4qQ_9CwsGxXIx2Zc4riThOS0DxOlum-JBj2CRdjvOmL1DTCqU4GWiEEeeI1NwVKmpMCqj6ILUNj6rwTlsbLOoULIYC6IieZ2DR3Xb73KMWAiSUxbsFfpF0lryDFqB3QOLNUU6p3ZKVvyQizuhUEQtlwPLmOjB1xmvfPWlU-jaPBfhZv5ySkTZGO9sIVJs4AF940isTpnEoOmmkxeshTBfA4VsZlUNx3cfD1Oqfe6hsDGaSh7k3ZNv6bhG6NWp32rantKyXap6VzFausIpFVDCe4EXen4ClCx2X3Dn3kSePQCUjIXyJh5qjdoy8LFTpAz-NWXFiJXEO4sHjdpHkfrOjLnhXuIfSLr_vIp42dMe6oo8nQqfcRdt_6se4tt4cuzergaM-fS3wIG_yogbitRk4R4cGk8p44YRvkklyOnhYcsdUH-IhMYoDbnoroRoEl7GnP-H4Q9prqvkK4pIY3FZzczKNnJTyNNyfDLmeVujJi6X2-buazDbT5rJMLaJgCE6kh5uw-vVmPtX3DOWdq_gCToaOmrNDqyD09ShyaL_SALvaOF_Ya73qwZfjUDxtI8Fu_hUZGF9qZ11RI7yqWo4Yzb_CQgXISUB3uGKa8-F5FF3OE_QTCnjwleYUqHyYSJKpi7qRInrjOWxF1vIkQUh-5wnMxuuhBa2FVVINGWgchvJh2x1NihRtl0sadzd2ce3pqqpay6wKRgUHjEd_bdIOIuUvBzZyKrd0XqLKoeg91sstUAN8i3eIe8aNzWzPIEKsRu8l4sFZJdFrnjvciaLYgsEGhoyPTYaKodfgsEC3l6q5aq6Gejs6aDp8cG7YDTjy54WPrGlzfMfsVYCndMF7n4lUCYQn8mIORrXQ_zmGhe2a5NZAR0FMsDdBLc02Y8UDe_7l-TE29Vh76Za7jsA30kNcgULU_0dniWKn36X0_fYilY9NdrLXETmjrSWh6Gq0b_quiYkQ53a05u96qC0A3UwlBqpu119qwiIVmDAuJZkDvACaIXaNaNKwxMy_iob37wZQ127eY2C_c584tnL7fDn9IzFMThaBWi8ltT0aYY4nDBTFfDrjwhylCBdGgyofx9SUuANEZkd0bziQ37xw7DQ434JmVMKfBf2SY7qWMvm2fxqitIJ1xaYfa1pC2UZkTgRvzQN5E7UbMWw6gUzgiNdbov5o2N3Ygj0br8Y_V4u8qHdhl-IfY4FnPan7qsY5Trv7nIOPfGXQz8DmI-58X9HOMLrlHykDmGlIWxqyg35w7t_aR3lkPJfoI3yN8ILBaVLeuq-d1xBZLrUAXOCbGCMBEoQhqJ-eiII9XT5I4N3xcWy6wqNLE-y3bLOI6M5PSUHsSwikDRRB8qGL3jLJ79S_Q-wFQ60kHslpB2eMCzIVwrRsgmX-dATuDgwSR-4CCOCk32lOkLnFjpb105my2GyAPDsMPSfpAQUF0NJ-vQn9qqkX966zvzhAAqUsqvO1isYgCNq4T8jESMM8oI1qsfKh_MWl9M6C0ntWmnMPlamZEXMWeWydML8IF2P_zpxton5",
+      "summary": []
+    },
+    {
+      "id": "msg_0c22fc93d6224e9d016afbb9cff94887d2a292c330bd8e26fb",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"valence_category\":\"mixed\",\"rights_mentioned\":1,\"state_responsibility\":1,\"brief_evidence\":\"The narrator conditionally endorses support for families as beneficial while warning against coercion and exclusion. It explicitly emphasizes rights-based, nondiscriminatory support and links beneficial or harmful outcomes to state policy design and implementation.\"}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 1197,
+    "input_tokens_details": {
+      "cache_write_tokens": 1194,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 1194
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 127,
+    "output_tokens_details": {
+      "reasoning_tokens": 53
+    },
+    "total_tokens": 1324
+  },
+  "user": {},
+  "metadata": {}
+}

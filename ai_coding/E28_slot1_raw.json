@@ -1,0 +1,112 @@
+{
+  "id": "resp_02bec660de30f2c7016afbb97db01487d2ae490ee1291a9e9a",
+  "object": "response",
+  "created_at": 1794881917,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794881922,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6.1-sol",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_02bec660de30f2c7016afbb97e828487d2afd8fd71a70e8b63",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-7mCJKZK_GF57zfsQCAnpOOJkKaPXWV369J8p6tEHypbWNydicaNMNajXFZwpSEhzl9ot1WK1LSjdwOkCKxvK-4vzcqnMq6JTscgAFVfzkCSHaz-V1WRwU6vJtqcbO59Ahh92oegnJcXfan55S7imOrHD509vIql5574ZCxgCpVHekb2mzQTPYrBnoDewCimeXlOfZ0CJYHPNLSa7THwSluto-vFTHASYsPdo-6S5whDVdKzKOJzblQXPaAFRSOEsL6oOw-jQego3s5UL6Djd1qwpGB36VYRcYI_p_e8uU1TEG8CIFj8DRW3EpTNZS60nsH_JBc_VBTg6um4I3gYpsykwzU1-up_G1XI33YYjPKkEponk-PFyqQ5vAkVTvlPXdd-cT6Bk8VVAb5FCBBSgivYsiE2jN_vyUM7RFQWppP_egqqDZrNJGR_GsECzYmvLUveP__NdAmY7FEjFNedYz-MT1XVrMnACjH9wyAkIIlzouQ_ceX1cb8uSKNCmNechJNE5gz7KUmK__zc1h52oi6TZSwuMTxlmt0N5R105JsAKm5rAp4460yXD86LqpKibdoyGosuG0SNteBbf4Ih0Ug6muSP2m86aokBT2VbVNZreJwDT6VohnIcYwqB5cWqbPDTyXZWi16lXB-8YiFTzcxPIfNf2ktIJ__JLtlqgLkkfiSYWvGtjFBQ-NUxlTCtPF7RQk9zO-lDRODuNX2jGTOkZoKqGrhKCWKkGAvDW-QLRW3PD21yKi9gr0kN5YnKwtycwXuLojdQ0fI7mKWd6gqgYUa6c03V1UZsFVo4Ahi-wpZOWo9Ao7ohQptx9TPbpAZi7_hqAVXmZEpRPQzj0USisboaCL2AJSZiY8rpQTrVt6mtPwqWnj1Wxe7c6QbcuGfF4FHBx29UJfVV7yjsHj11MlY2Yd8I6F_kWwOf0tmDX0EYW6CCJMbTiwmHqzi0Su0n3mXD3ZLGhBtpuKFf_zmFQ9CvWGCYF9bmEDf9TR8pvreQj9u-K4TltAsTR6G1kDuXEAwu_D6CUaNqdJCGhVsgoQNTe1dsjxP9uPoKbUy6MxM611Zv4lUPneuOFnUaZKDPvun305belfDrPsQuNYc_lnU_1NB6Cnk0TAmunDIisxs-gTQ4hJ19g-Jg3_ZqpA8E1k3j3Nx3Ljx8H5lQumc40AHx623PbXtTl6fo5h5YipwfQ1kRJ23OxXjFOpYp9YSnf9kLTiLmMdvk9sIkYDJ64tF0TMIgCu1xsqOyZNvK5PCxsc4HHy74z83Oc2eZTtWzVN29T4_E2JmyULZ7a2ZFHcLprXKPe7xz7sEVYtdIWLSYvzJkN5lOfw8eHvdV73NzHQpbXv3m7VoteviT56vnNHr5c6KUY3GMScteFwuQQGSHD5GGYX_G-w5IvhNOEV-yJ7WY-jlN2KuCLcA4UKOn2fR4bjzVgFqml0mNNU5D5ps0jHl8UIfLgaKuMuB_1lhmJH2WSr2dhhN9CLhl-KD2DXj0JwiVWH2I9TQa2ECBm-qXGBuFusY_rNh6F1g0-jfH86sbUb2yZZmej5VNMv9WxWMlZZTCHdcxkG1im3EFbXNZ9Z8Opti25wZj-adyaTeUHvsFtWZSsQvB7_dvU513JS1bK9-p4cR8fDAmY_ofe50gsKteZH8mbzN8yEPtvVrLZI5aO_DBaxJZmj2daXYOYrhQ6Lhi5NX_LNmWukLMO2ZNcotDB8Z6I_HbBupJnL2E8n8dJpiV_pknJmFRxplHPxuSDBWl7ge-tX-GmfaB3FjVQ1ZVXjFHrseHEgDmxR0qOJrVEUN0WWl15PN6iMvVBIIi-kbUjUP2lwndH-7megBfv51vsco1QEtxvPTiPlDhKZyZ9StKM4oY6npAHNJr1yKyxFtzdzpYNIR4vk0eNUIg4EXHx_vHK3G5Ld-8u87Uu3vCNS2qbRWCMEU91YAcn48HamstI1AAyuOHH6fYb4Tl2zqPXonTbfRFx_sZ3tcPmBtLrZtcgdxd55hadF41KWiFaGgat2v0NtqADK4qlF0KSBdmGgljwMDc9JEtvNzeMhMUOfkVfgVPQFq9xjmd6GF6AB_l4AC3-X9D6H8x49B06bfHI-8I5kvL2hV-5NeozcV1au0fj5f7NBvuMsO2JLakcrllvAQ6VgfwlUA-snfhyx9M_7XTr-WPahdn3VPVhS9cxKMMX0QgKYaJ59b8AdC0ospa3hUxtRA-QhDSwWovDqtTgfY2AK4LzjeB8iFctcReymXdKUELHGiz2VnKFbbnc9wvW4GplcqDxxIBtKPIkMkHlXteVNBESYgv5xcm8PGHmybo_syKNL58k_eE0zmIk5uuOOF25lgOdXGRFg7xLHguLscdkqFyzqMowp4-pvHAqL021ElpJeo9elm3Kf8iDFZhpqZZElj09-nvEixBj5yPsZe1eWE9kNIt4lI8HrLSl_U-AGuFn-6Q5Peof9gjfXVzX1TEFBhlr2sDT50saCsVtcMx7niTkkuMo3c5ZUQpKXwI8wRkIL112s67MBaaIi4LJDjnOB2Ev9AORASwt3xx8P23voM3TP0vGNvAyfBj6CpYdnkU8O5D-DjaJWgGSN53IUq0o_qwmIYyXoFgg5hrFZBBRSY2s3DRkDaSEj2udf-9zq6hN0NWCSXM2vX_jw1wEsdrgqEJAHWWGDaBIMY5juyfOWDGrXGcOFiM5r9PJIegloVryQjLvPVdQOI69kYcQonNghfVU7MlGT-0GPV6CWDRTqL-QiWkOLbhpTtK4wLrHoTELsnsZavDDyb6YeBwjTN4NVjNI_y0yCdldbtDRACS75KHbgm3VEu6scIve_6aawtiD3WeIwZog-wDc9vCygDTCigZVEptfP_BP340fo4ZakUyNioup4iaDzseXJmO3-HUKCtpy2sjXvKsgy2FhpQ8ZUcz8NG4orj2HHR0GBDVXqgGckwoBlo-LFm7VpivEXN4uUy2hIOQaIPtkk6oct6ZL86_5lQeLlk-xxjFlwA3pIuCpg6-PpKJEf4bmuCuYhdAW3xffJ0gqn_9YDaTP95r6HacGc_zywFhFOe-MgvyGLsW4QKIqN7Kr0SRR0CvpekW9kWZ8mdFZB4SLDLWKVx-i-gKk0aQ-DPyNP_cYmKcWDuxf_mUIrjd3XaEE8CMb50ZHiHdAACdSpm2xEChUp9Cbxmb67mdSlDSEQ--jJbfydNK6RuCQyMAT1ugT4RP7t3zRlqFxL6wz771s7zYrYPrWLCsBHWkO8RwWIqSDXQZ1kem2pvKWRlhAnJ4yuwwGoeeug6DXoSsibTgdrCrcEAVM0LI5pnw6_Us6qamKlXhO8RCcVX-aw-isjgERFz2ozjB3Xnjgqc_1g==",
+      "summary": []
+    },
+    {
+      "id": "msg_02bec660de30f2c7016afbb980635087d2bd39b0c386c8a355",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"valence_category\":\"critical\",\"rights_mentioned\":1,\"state_responsibility\":1,\"brief_evidence\":\"The narrator explicitly concludes that the law is objectionable overall despite beneficial wage support, emphasizing exploitation and unsafe-work risks. It discusses equality of opportunity and worker protections, and links risks created by public incentives to governmental responsibility.\"}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 1240,
+    "input_tokens_details": {
+      "cache_write_tokens": 1237,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 1237
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 138,
+    "output_tokens_details": {
+      "reasoning_tokens": 64
+    },
+    "total_tokens": 1378
+  },
+  "user": {},
+  "metadata": {}
+}

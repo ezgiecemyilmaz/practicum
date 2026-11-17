@@ -1,0 +1,112 @@
+{
+  "id": "resp_0eb7500ca41bc9c1016afbb94a6b9887d2b7ce2d85441f0ff7",
+  "object": "response",
+  "created_at": 1794881866,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794881869,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6.1-sol",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_0eb7500ca41bc9c1016afbb94b484487d2854646388c730df4",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-7lNUNlwmmPYAlcf_x6cFXXnGqPKZoe4hwxiCIMWaMZnmEfzjm2C69jzdfBor9qn3BBApczgbTMWU65Kjx5pKJTYK41a4KKBzQ2-dJi0dBrgkYV74bfRV3eT1szT0B05pqvbDKnvUME50jwkfwpiWcEAjzLiL4fbJg8-N5EVjuVwovxIJ-RtZsoWRXKbzFMcuPmMewPxJ-asAi6JtmlvlOr6Ugv66PH6ZLvB_tNoZkVnzXm3KYO3MUdA64N-lU0_JoLjHwbxoBds7bLFcUVoSZru0jFJB128ZS7Z5fzusKsFYmqfwXpTutm0m2TtWLmS2N_dEU1cvcMcgDqzC6J4Us11S7zURZB8ougKhS2mHhY3SBCSFAuY65Rsba-7NJcyZEGzBB8IoSIrLMi1pFnyf8u2L5pLoL6TRxqpQRY0UyrJSc62a_Z47Cz5kZC9VoRS5u5zsGlrQ5auuOWuO8J7ZwL9DbbvkX7lKWGP2gUOlJdka_BFvXKNPEE6voilgxqfUg6y4wUBdNBU6bAfUldRt00obwLLkkVBn8cjOSIL6XteSEfRdKlIwNqUd72BZ4L7uW0_fofzFD44sNd_Bk9omqLjyxf7iZH7UCAvsj9CvUTXiaADGtjU0tZIQBQwDHMEOMPocqt-QNfoa56ApyngCGdXUAXxWyBL-zKmVxO33V3BaB20bOgwte5TiU45eztiixUdv2AFC47UcCSBInz-R8ybcHOlzhAjzj2c7x31jp_HeLNeAy4jgdGnRgyQxc_Pp2z-TWmsRdm3H6LesQ58jAHYOkvKhvkX6XBLlrIGs9DXEy_8btUMs7dCeJfH4--PZSYBHTAenByT26FlmA88XmIWepnfuw8NIsWkSZpRQZwi7dz662yKF2G00M9_irXBZ5xNx-zJTbEfMD1L0OrZRXk064IQRgAVWcfCLBHI9q14O1WNtV1ab6408pGzt6VIeXeNh-MW6q1aesKyJ2YG4-N6WSuUIB00wFQN7hq7mnwyimkpqLv2bBjtJTxSdsNGXqdsPZqgE2sHYF7QYQGnEPp5lU1cU0uHXTcVWgDXH33V1JQEMPhVbOhdxmb7a4YQ7K2ey_AUzAxvPcZdRfdrlrFKG8B3jbw4OlZFdanVpSWm3Gohy2QOivcx5F5tJfsxZJ1weHnGpL1NEbr_YbDSBx7hiy5tV7309ctPTjozSNoWZM3Bncbww70gB0tKN0zzBwbwZRI4E0Zr00Nh3WcMuwCooYdOzHfcd7SmOgPxy8rndY0wDPIZlCJ4i11F1DMzmzK9uyuQIc-_c7BWeI_H7eAGnyJV2Up6iVHWe3kRxw85wNM60KBVYyGoeYU1puhoRj_fvFFnDkp_ngv8HZA88H74xRHzN4jEutx_fq2Xtj_c1uQ-OktVpqzArVuKQoxFu0iAmU61xlLC8MvwQj7FnaxwlnQknLn9lplMdu9ijlgCVZO5XqRK5JaQPFpMz24ckuWw--VYaEH4JFcehvJTkm9Q7GS1DuNgclM17YR_nLyWIC6Ggcm9FDbgncPOhLy5cXLryLWVFk0vpRWCde2VCKsDk-DHkH0fL_piZ-Zky-0syT7TdAmjc6nP692Fi-Itx3-JSflGXj2nnyjFBwubHyS6uodf99a6dtcR7wX7tXf7Wf22qQBoSW-7kxyux9D3ZQj9ghWpH8I94xxbZJD1Eh3Ec2qDRPkC0I1McY4tkgDsgm6BMXID5kUJCQdOCXuLCoiEoPHjUTozZfF1KKucgsVYF8DmY8L0pWlK4gfgS7YLcQ0gcwiDL-7Goi9S8hSE9gONyZOWvvXeMnETNJuXYZurYvqfRppEmRFtPcBIe90VCXBmpqhHNZsYEWqRmOZPKsq6Wha0uQLzzB9XHzdUDjN5FCzlP_FrpE2veukfaYNgNSzPLAKLxFIzEyhvkwjL7DsB-J_nhyNgldClW3Z3UsZQtXEakaENTvIjDeDy2n-qYflW4NWQea7oFYW3dMNtDjeb7tVnuj6pyRr9k3XdynV-uTtbzbRojaVDJ1sIPSZK6Jx2w1zIjrVY0a_eDs1YjiTpwIpgwd7T_ZfvNoUXmtn7Cy6wEdKLMUEngcWmU9qiIHsUzgMm80jUG0svIEr1Sqm7mFDTQUKcNyQQL4Wx5ckhO8mvWPJvFvIt0QmdsbqJWiiJyV89RvUT8v4647o4TS8c_L-AjEwp6iHsGcZygvYxFhnMa33X0da4CeQOH_moCPjzK5WXzFVGi4plIF5VGdA5SDnoja0pmdMol079qylOkD3eZzd1lK11K0gsZmeKhoRs2sYhNjvlB8EB2N6lG-5tpGgVsPqRENGhJ6GKTV6LKp-35aKnuzOUA7cJd6lN_gDh-tGzAs0UDC0wnnZ1Kj8iu126saCWuFj7HL1iU4ap_VSqiAH7OykAksPUlXNK9YPiurdhygGmUiECVh-4gXaQ78K7GyCBBdiX3Xb_L-UOwsDRsWA_83Mzn_b3n46fBK0ZB1ClwQ9UrvG5fXhA7CAJNgRYkqJm1m1x6a8xD1LR4AH4B3dq8zanlqQ-oM3HXQpHDAqKf3T4PdJttMvD-4Nvc8bCA0Ak9-Ox3OxCDztckUd5ktmE7qn0_LZZfcCz_AYNe6NaEjelyh9s0G8TtSsZM7RPOZvgIEiFTR130lML5invBTkC9tTYTi5-H2xQhP1g0RYXShJBZLMgY7j7nsIBe9X1orOb6MIKZc8_a-VL6F8o_4c7nM1klfquGJsgCwDjaWCL63jOSUYVekYpj8GSyBaXpNFFRAfoxBZnGIiooFKTGvTUAcOv2-BEmRMwSQ3PG78cMA7S-vE5_RnlweCSs_jNJgCzqD2-_keZ_I8CW3KeO5IWC1HYaCmAmeDp6QAKnbiEwuPMrG6xbWfqKpgXRCmChZfQ9Cytd5u6k3Y4tjwDXb3alGoYmX5RuU--lS6H8gXU_h2pdL2hNnsfe3mSgKGezXo8lxAB8-TDuTcKItGYTVDYk6rQgpD9edYwaGpWSLLI0w6LSnNuFnsmRBmh1hOxGGnJzJSDiGZeyVPyNnlAqhwJG7QReUPCZVocYl3QS5Vv0D-BAoABazRR2u1-vTt4LtQtYvft80fIhx902l6vmBrt7JT4pxQ2Sc_k1O2C2X-scOUidDTvnp9ATXtWY75JEELBFfCSNEc2ROLjqX8ZEZlK-E0VTWvLRUNMLs7YXOlr1EKtVvl3uAeHGdT2Waf12Z-hTWa4ovOszJtDV9v-2iT6_osyLhESa1Gd3i8Eq-uj-WgXzKXptrWkyRpybnP-6wDXZe5Wkf3w1iFbKcCVCWFNG8t1c3bQxyJssf6nomqDIuULqltqPqjtft6q1wbT7LqwRG8eBzpjNT_7wHx4pwdNcv5xdrkR0EV-C2FoEv9JkS2o3qv7HGWptY1ZlzK_dbrrd5h8z90Oh3GgfoO7DIkPHozmEqzWUKg0ZgYlhfkDXQSQJbGw_-OMMj0n",
+      "summary": []
+    },
+    {
+      "id": "msg_0eb7500ca41bc9c1016afbb94ca15887d2bc7c57dd95fbbed0",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"valence_category\":\"critical\",\"rights_mentioned\":0,\"state_responsibility\":1,\"brief_evidence\":\"The narrator calls the amendments insufficiently safeguarded and links compulsory removal and punitive enforcement to risks of confinement, killing, and overwhelmed capacity. Public safety is acknowledged as legitimate, but the overall judgment is unfavorable. Rights are not explicitly discussed.\"}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 1004,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 0
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 148,
+    "output_tokens_details": {
+      "reasoning_tokens": 70
+    },
+    "total_tokens": 1152
+  },
+  "user": {},
+  "metadata": {}
+}

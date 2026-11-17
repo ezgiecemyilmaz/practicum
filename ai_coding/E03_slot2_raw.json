@@ -1,0 +1,112 @@
+{
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794881977,
+  "created_at": 1794881973,
+  "error": {},
+  "frequency_penalty": 0,
+  "id": "resp_0512dbb45f31cdc1016afbb9b59f4c87d28d04b9017ce57d85",
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6.1-sol",
+  "moderation": {},
+  "object": "response",
+  "output": [
+    {
+      "content": [],
+      "encrypted_content": "gAAAAABq-7m3HFK4h7fnZL8UmVYVMbWKNF61ZlLYHjCyRKWGZWhmBIvPzmvklgiMOuuBPGlNKsWcusgPIclaiGffMixiLEnI5NfJhKTu5vES3CMTiO1dhj3M5y2cuoS6CL3-HedqzDS8-kJaTH7e6kQxTGUbGnwzne-enK1TqzaMhAc0PgqAMxTEn826FXjmnv1NvXAPAo_ZHfuPLhYxtZyt2UQEUxsqKXiiOE9_0S_zsDMWBu8Z3_NfiUPy22ARWLUxQ_fbz32mp62BpWYid5GxT_w0mavMYiOyINJFfgnom2wDRjG0_QZfZwcjbHp4tZDVrPldDjfZtUg6TQHYDIyuoGy5pmh7xsANEKcSCa1L6bE32qtR6CU9lke7gdfEHNIjWyx_isrGNbHHkob-KlJea3jUUJ10YkBUcBMosIE8XlAU3Sg7CEI8uEB5htgZqF9QkZ0mVq8eZ1kaKckfuprx7JAVFWydeyGG-thl3PTBwwHNVPYIny_G3jU7xqTEewUo5yzlG2XVDRcK-1o7ucvF8fWzeUBCpT9jhRSnHluuXWL2CxluviTQNKb6OwLBKc7hMpy1m2ebLmuR4yC5IEDudG6XdliqznKEz_aqfaQs_HEQlV6QziGyEHBekxePF4Wesdk1J2HmV0hf3_UeydvMENceMjr2K8wvHmnA5ZICVTIzdGzDAGKeaooBvWDO8sy7PbDDHl8nzh3rnzDw_9TlvQjt8GYzqJHbakPZHUsrpdEWRpgi9u6ARIKWFildKwEY-FLvP7-Emtht_PmmGW21RHm9NuU7h5ngNCTICqxPT7dO3k3Srz9Gt1ftLzX3bvJt9D3vyYwOn0lf7Mx_PqEW9uGiDF0phwpRl4bIpiMYJB_lvTSWktjoMpXi6RiFWuIBFdk9kr6XDDp9hZHV_aIPDA1gTqIIOvVU1G2yp4X6oOIROtqvTI8Oi5yYtXau01GObkiWvVs3zxZWV7Gdqzbm8-FvauxSXuQ-kmRVkTlVHOMkeyrkEV8gn8XtedhWDgvC6GDaBHXdlujT2xNEn40t3mbPN9g2KMNMUlEr_qM2kAd6QLqIG81hqU4ebdke8MyKA6KpMcU-1WBjtdFRBezN8f6RevqBj3dL0NwuJFNre7_8dgvHH-KH17V2MnoK8Zc8MAT7TuVhjduq3f6YyIjq7XMsT89Nu0SfpZQ31ChjQ3zmCpnklF2PSAJ48X8zWiJi0eb-dBaEmxRhPmkxvDH4huEvUXm70IoHX2g8FQt9Oly8_qrHyIAlXDsdr3V_5La6qFaJ7Rn6sHY5VZv8qzr66Kq4MOpLAZ0pIa07BXJ4B04fflUD7o6Qvw_KHGbid3aYzdi_gGSvWfDqiO3_Njy5t14iOG5sbpupmldOA8sZZaj-BsCQxt-iwMf630IujQZRPJuKKr8FMQZAhkPAjJfOC_LhEhN3Ddbkod5PB-n-fLetQqk7Ser4imzA5yjBhN8mGCw1VmqaT4gIZ5wGJ5EFreXfK5CrQIBIRUGMjs_HOGF_S9f5VBvl6vwQWxD3uwr5OYK8OPf5-7iQGhXAYaPWalDBYSHVS21B74dtMDkkmMw1m_GPftzv7s-womLJ_jKXju2T_Uc8bfkQoTUl-9LJLJfP3Q28HY-0cHroDj0rvm9Fqvk2-cntSvDGdUdFaPWs89lWVDfyIwqi8LWw8aOjb0OwhwJNIgduLZtz9nGJVj4iml6pja6AX2z4TVYG0eSO9YYwyC1Xg5PeQnca9UcNN41_dBLwJ9O2BU0VATBDzVZi29PG8SA21OnY6bOgVMZRsQ1FA-xfwqqYkFd0hD1pYN9JfEoBrQLrNHjKJXanL5rvM7yLEDDPhwIQuOt2IOlpaMlPNiFWes8rlMhoROKeX5wOElRtO3HJLrcy0CwmbPMYjT6CC1d2EjJ9zhqSghCZ0vMsmc-ePueyzpd_cnOACANrp6HJyUd9OHzF2GTjk_a6N_EU2gvbdG9N9NWbQXaP9_XBp7eZtKNr97aZaI_gblr6gb4ox2D4-ZNaaI7JMZXPsX4VtAbl7XFHbyyf4kHzI9diHgKAjuKBmDnICNA6dUTwQz2_hJuLweKXRQ_8geAAzU7UMecwwD_BcdJVbGqcNI7S7SzqqbUlLsmnwZqzGbiHbCvVaj4KZjQKXcnw5kZC0R6I0UsGtGQult3m5MYsSbdqrnTu8JjOoBWyEcyjO4IENvMhqGQHRSAme2FXqHKnPIGuhPAGNymBZ0KnBN3TbkWGLmLM76_Bl0qRx69gUGwRQbfIfsGMSsYeIR7kE6VB24fmFP_G5bSL7cQ7qBvl-UebOOKIi737pNwdHUpAToODlOm-9P0d97IdlxqimmJE2EggGFebUiWct9jBITA-S28WbYjFM7mn9yEgwCR7WkakYFCkFsgs4_oBnuFBAB--kp33iaRlQInnzAWv7dr_UH7ZfXgLLsv3rODD5Ai0o6oz68C5zkImEdUnSKrG0P5Hq3emFIvk3zQfA_R1Ehz1c-esQmqBXPUTXVTRucgHpzy24GQ_cSYo1c0Zmw5NPZ-dx2lytt0iS7QUKhXFMAgXm1uNmOJxAg4DoCpEWyEM9mBnwzvyAKXxKtyptOq_t2cNA_wHvPG-sKKpBXjlLTqRDS9-4W49bLy_6EBkb0i0Kgh20GiE2oT9Qf6AJhFVS7TToM-P2Hif1dkouenSEehl4UeP7YU7sLv-EPNGnb3rmRe5bsRCfh3_UQ8fBT1I-0HGs31RU7LehbW0wI5MGlBBswY5eRirR_47W6e-gmTCVFb-MwiuBPozePBokecyv9Zs35On81c7Cvn_tNRop-sBHQS0ZrCQzZAypsQ8GHkytcH1RrTgT05GpXu0N0FNh2WeHTrEDEtwfTkv6YhO1cFDam3F5awLkeCkmIih3JOfBVqSqS9RVrrjw8gJYY4bTERnqOV9tt2qPClJR8xO8cowpB6YksETifH93CmcsoHnY8l8bczdL7T7DxtTA1YoOQSC_udkpDIZFJuHZjw9JEpmeuk3LbOXHYbHlBkQpkblqX_GJTrhPu0CHC7i-ikARoOAkWgpijCpxIHThjnw8hKmlscSNDkMixoz4lKadBntycs7cXvK0g==",
+      "id": "rs_0512dbb45f31cdc1016afbb9b7ae8c87d2a45eb3b4c4f68012",
+      "summary": [],
+      "type": "reasoning"
+    },
+    {
+      "content": [
+        {
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"valence_category\":\"critical\",\"rights_mentioned\":1,\"state_responsibility\":1,\"brief_evidence\":\"The narrator explicitly evaluates the changes negatively, arguing that weak checks and balances increased personalized-power risks and that removing confidence votes and interpellation reduced executive accountability to parliament. Fundamental rights, pluralism, and rights protections are explicitly discussed.\"}",
+          "type": "output_text"
+        }
+      ],
+      "id": "msg_0512dbb45f31cdc1016afbb9b7ae8487d2815df6d5a0ff11f1",
+      "phase": "final_answer",
+      "role": "assistant",
+      "status": "completed",
+      "type": "message"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "status": "completed",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 1204,
+    "input_tokens_details": {
+      "cache_write_tokens": 1201,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 1201
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 125,
+    "output_tokens_details": {
+      "reasoning_tokens": 48
+    },
+    "total_tokens": 1329
+  },
+  "user": {},
+  "metadata": {}
+}

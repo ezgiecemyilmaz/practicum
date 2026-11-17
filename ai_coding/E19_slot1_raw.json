@@ -1,0 +1,112 @@
+{
+  "id": "resp_0872672e394e3f55016afbb9def48887d2ab1479592d2073c7",
+  "object": "response",
+  "created_at": 1794882015,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794882017,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6.1-sol",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_0872672e394e3f55016afbb9dfc4f087d2a1e982bf27429e3b",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-7nhU_42t5W6PHsdRNknpXwxc0bxYCzR8dbtXSrqI5tGgtEoH0hPd3o1EoBaNNXEpHD6Q6uZI1oVya-aJNHiBlmcOOYYkM3NTBW3uu0AiNCgOd0sIPFscGd0roCaqiezwjuKKfHBLPh_EaIpDnsKs80yMbL1nge4cpRO-zWwmpHGlIpct5gZGPaB8Yg_gSDMjKMlBpR7kROgYQsH7I2vmhb4a8hLPOxcV2z1v8w3seNJ5sCFZHSmdHjIrTpdNfjp3dUhv5DrqQT6RVjX15pfPkDIzQxqxS7NBhrdD64KeOHwdx1-DFaQOABJe4djP4skqDiJDJ8GNLwHqsVaZr7iJPH2PmHXqeAACWPRf0nJg5-D6qDLcqDo7LkZP7rAWzV1XYMt05rVP8Kz1PQatdUL53el8GChjoNn_I_mkOlLb6utr1CvIJapJF7UEaMaQuhbXioXv_V7HU4Eis32Kkfsj1ZqRmE8GWMVlISTGacTKNuWtpViMedVICwItf93fsdXNoTpDQzNyfTjW8NkcHngiY1VVd2sbiHy4uKilVu0WE7IMRLWHB6QPZJqoH5K0d01f5F6PnQIU9gAWH09jQppCWR-D9VIJe_OaczEFbABdyd3SlWWL84OK5_pS9SNtAWQ6cA5m15GS955dPMj0h-7Eo5xX0Zw3IK57VVzxZzLgO0-koSOkfO-XthaYZHpmgiW0rA_aicGOVHrevut5bdWk-XxnUgaoLMyK5X1XreQwWZsYPJAKzpxPlvjNEzfF9B5D0EkI4PMlCcoI8w_zJifdLU1L3rlsXAoI-IrYi2bZitFNLfOefGJy0rRUV9JMh-v-WcIevmAr49LuGKxcK43tgpIws8SXU1cXWy9ilaFCof04e6K66ttQoNu-stsAxOEvMrSlP6aQhu7lgRq-mFswktVS_PSxCNndv8KzAr2UfJ1FdemIpqsWzW79fESkTPACsRRIFlWZjAac2PTR0o8nqhyNrUXZai2d_ZelKk-oitODBT49zNNNWRKrPx0Itm_p-e9EXm2KdkItpmCZdT4TCFlxM_cMP9GKcQNipFvt_jaHZTYW8b9BPypkV17SRHeSj9M2Na2P84qqXA2yy48Hqxo0nxYJ_KCGzhcQOQiiAc7I3pUi9RPI4AGXZ6HWk8zdcZrZA0z9LPiNZ2oo6PhP9QeBCx4D5st3fOjnZx_bZvNVr_yykL_6E-DiqPJLzjI9oYiO9v4Ei-7mPP4o8LFNOlqD1bP1FMZUX_cMDkyTFBLdcezNzaI4dTsHLnQfTFbkL_jiovr4U2hxoRuLUZggV4Iy2MQrjvgm2jnVSPNzMASAkD3UmggDpATaG6tN4WXq6PvejlqeIIG3egyF1j_JzphhoG7Um2bgaVr3ZU5tyoQlkPdTMS_WifO7A6Ci4TdcjucyHmrVS-M-unmO-b_06X220Kviq-5POuT3iBN_etC85RrkHVOlQr3Muc7Kr5cvK39NLwEyWh41TmIlLSnSwAKH-0KvbnyYZYXnRIV-jicUghLsFA9sYDFGztbmcR5ZuxOmAOXo2n1SPj7WPGLUwAHwTtDFMAAdoNU7K4mqvTgcmMOEoIqjQo2Q5ogGVv1ybWGRuGInE0P4IcKndAqNHNPuojLp0EOgQuVpxN939acx6XhTGzKu1xfTSQZvVmZWc6nxw6jLHVJFmFgOZofMoshB46-1ep6zTIwTPihcLcXcvL88QognuRmvYncWy2YiGVP4tbrIhm98-Kd4xzCJOkRg4CMkOl8dI3irJC8jSk83lZb1cur4Q2s3xtlQiTUWehYyv4osQO17rjqxlgdvnV0Wv-WgCQfAE3OVURw9ex-xoU8c2ZmKah48yrpodDHQDhTshsSkdOYbp8T5CQXhlyJOWn2ZGFufIVzFZge3D0hFyg5qEgupgBaOghoDgy6M4daogoAmgaoa5zGokeigyMg1fAzNRwDv694YYaq3kPo7jGLv52WNOMutP1y0ZvA1A2J-L5DGffMGi3gDoR_KigbQWH1crFHwMkcOlC78Lg1o-W26W7mbvMx6IJpcOIVAvYzX3jASrMs7DyTPInzrAFKZsN4nqpCw1yYFjnVEBp_VGx5CflO7v5zRqCmXxhgbbbd6EBNSM_YTFWVC3BI49EI-2gt50FRFRBrxG94vUcaX4aQ7EzLHeZv6bpFjiORD8GX4XZBb2PxXmBaqomE9Vt8rAg8RWk549Bi9tjWXi-v2R8YGQEZHTSCePYwCAps_-L1Y9fdkeIB5gsI7tGHFu7-vRAYta4aACRqf9wll79bFdh0ufX8HSBHnZqus0GhGWjN-sJspVGJhPpT-FoSVrusavAVCn-il6ciyLxPAXraHhEP-TNPehQy9EJqjkWqVg-2Ge6faPMlf_TcrTrjozZTfVjYb--QP53FZ0FvAbxZxh6i6DJwOnhVhw0YpNWhFLneOgjpdm--IDWOOLP3X7GcWyXn6wyrAqNZnWAK_SVI02QRih5vyU-O94BqrouG6U7kj9wCXw6LFZFxYQrhWR_yNfeYZO0np_hcg15UhveKEAXfEdd8kJ2YoqEGFYh9T-KME_Xy4ap2yYWFO7tTJMvEtSXXeBRjRDSrxsQpFqtXtZi0Cwdx0TKWoCroD96_WRpotjmgQC_fm-SftM8d48lXtONMgyeClJE4zw3CyKrR-RWs1ofgiCumZCa96opyqaqMbX2SdGQYnAxvOYaORtWnj4gDdFeNokh_oS3162qOtzpuTLGPTr9gQoqYZF-CvKIqluGhMZrDwMOCahhWf_vOggAF6kFcwWU1XReNg8R57VPUmcepotvU6BFYK-onZeXDomFx9brDdyWkuq-YYyZOrBIU16EynyHunzjILak-PryscmlsI0_Q0-ttTcC5ibmXiBjKSxvkA_346a_4JsCfeSJSzMY97MMQ2OQmUA-Ja8oEyZxOWb5elUuTaRBxEvatiLFB3PO_3B86gC0-wfFTDiMpFpmLgVvzanvmWpA05daWgRq3JY7q2UNVBvWwz__otYjN7FnD19_b_45IkErH4Yhw67bowoJFfBDlDQQ1mRAXg1ljoqFRiIGww-tGCwBFzS3ksaY6TzBTB9QPqDq91g==",
+      "summary": []
+    },
+    {
+      "id": "msg_0872672e394e3f55016afbb9e0d9d887d2802637dd0830fd1f",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"valence_category\":\"critical\",\"rights_mentioned\":1,\"state_responsibility\":1,\"brief_evidence\":\"The narrator calls the withdrawal a 'regressive and poorly justified policy choice' and links it to weakened international accountability and reduced commitment to combating gender-based violence. The response explicitly mentions LGBTQ rights, democratic legitimacy, and protections for women.\"}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 986,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 0
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 120,
+    "output_tokens_details": {
+      "reasoning_tokens": 43
+    },
+    "total_tokens": 1106
+  },
+  "user": {},
+  "metadata": {}
+}

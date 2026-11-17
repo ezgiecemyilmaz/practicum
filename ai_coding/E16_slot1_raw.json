@@ -1,0 +1,112 @@
+{
+  "id": "resp_033964348ffeb0b6016afbb952196487d29788836171f69722",
+  "object": "response",
+  "created_at": 1794881874,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794881876,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6.1-sol",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_033964348ffeb0b6016afbb952dcdc87d2a0bfa5142cea850d",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-7lUMHoGMH1K6CFYObNDQQV2qLA69dMRNd5YR5BtnWtxarRZ7Sx0TzaPYzyYZ3mRLZa6buvbq0uApUkkhAJi-mLiKDE6OdcZZWg2PK90ZTyaUVOc2ynS057X_iNl-z3XtRD7UAUzU93f_9WT7d6Hrys4_PDyKhybJ1kVy70g3NsiAFfpXYvjzKl5bgxcwAYAN3H-aVGqlwiZCtswnvS2FOm5tTKcJlZsaBCIOVQZ9dbLFd6v6-QLyuEpT97T8SbnpDl_6m_3rqseMfGwyLbMjnlWjmjyOK7PjAGtXP8_FF8jGDLOaen768EqcG8Xotjt75XtJ4nAWRBeQrkms7YzpjvReLH6bkNrVlCLkXcuDSGsaxpszSPqwt7ZN5QqPHce4rbu3l3zhELHJDGoBXIBGePlsQo6tAS_gJfpc9_Zm2VDf1qje77FE8PavmijwNxHbIuRyJ8ccDNH-RPaar9aGDhR-5prEJn-Z_xvDbQHIFvNDSTKUQgHVF72ZPXPLCuZ2BxGcSQLx6OWJzJSuRmkBOkZAhbnsXKQPoNLXQnJlygobXBdsJauIYiaibyLo4Oo4agsJBhLKI1Sx7DuEiCnC-bXhUuRMTUQve6CLalVZ0rXUoT6FLqaE-wldbZHpKz_CBmYKG9C5d8vXxijs2ETH_h_uIgRvFWVWj7pohvts950dZM3tZ63DxJXurTGVdZtfo99j27alO9k5ZYh62BzwOGkdWOcezd_YymLvNfcqK7qaXCBWfvFkOt93GAegxoorf4QKCd5b7iWkgjX0enTlsKwkIWvncrKLTsLEf9jDmHxtRajwi5tt3pKPlWhnR1FGH7DCa8ItSwnataK6leLkotOKJzYXDs_G8FIwvh2FzIqEtPZdib1nCzozaawjcdRR3syKzn4WgWDbBB7qMgRTd8vAbOM3YBzJULmHciPdH7mXXUg6DkCdYU5nhRzNgt-TuTUmfe4d9zY1Xrfxsrwx6fMRtbvJayCtPq0VNLev2Jba6vOjBSHc4VOFgv_bCggaYtZ2Nr8VlRsfv38DxtRZHtX93P7fzsJUYaeq_7-VWlYT44vAKjDojFn_Pag8yr5p2IlQuw6J8t8q7D9PkyVUoJYGkaSbDdUMZtwVbyHVy8RcrnxdBJR1jkw3JbptJrb5x9e9hwbm2N3asVhHLpiaInBPx_yrKk91BD0wV-OjJQixeiWfb7Q8xCjTVWfYgsA173oG1s0K4psYht0y3vCd_Dl85VLOFthD26gCHdbvHXDr6SaEEnGl2-ycNUDqY2HTCArG6_ajgXwuWBNXQ2zRIgG8fUGZvdciASGXKN6hFLnvO_mzDpnVw1NoSCHkkQfy9Qs8pWsUIu33Bbgbz-rSxKdTtqGvwayWQMnZXVAeMcQ0VUsORxLKCHiTT8CVFgaiKV5zEjRTHeGH3AbXDhsQ_ZARPG4H3f0P7mhKkaltYoPHieyokFxraQODx6_BVKrbL_j-joF5lHaK2lDKi54zGwRMRNJCFzVVQgLXqMukykPncWoRmGsQJdPk2owcRFS31U1uzQzpDNdEOpqa7pPiPKNUn2kD7ZfzqSfS_IXHjg9JOVkJ4pLuFhLg0KXTeEgydi3msJSSteFN3nww0saBBHRzoQHMkBLR9StfTfcgF-KmgzrRhXhplzlyMNRqCVLrrQ1yv0N18rv0-TLr_RyG2BF1uxAqfaLw9rXOrWOMJl9kJ7Bs5YRdYHHdIW-bTcm8_qFzbDPUmBfDj61882KQlkZHDohBLXO8WDoG-tt4axTdacONlpZh_FEds4F7CTtcOsmnGyKesAkJlVVR3bNqsz2JQDolihwmkGzu7JmDVKc5gZKm-0UIL697H-n6HKM4L8e5LY8qpuC9RN3PvkW27WhOlysGltyrIhqtT0gbnNqmYN5vAKTIpzh8SoHTASlNIwi-K4MzEXfkhqgfgLDPSmDiFh9hgnMp08Fbd1rxGaFVvBP-OYtBBNfJr1hhg9VsqLAG4UFFb2ul7qwTI8apT6uu_bq6PmO4n-JdM6rQTsoW_vp_4UqwhFoZgU9b7jCliOHKuBBBmZS_JG4pz0Af3r-zf_95ErM1tKbjbwN0XNxBtcq87fnjjxHnOZPEeEQgIGwZLEQB9lTqsXb4-aOHKmoiQow0DtZDoKHrtEoNfQPGKee5zo6-kgAhIQggdSW5B8g26CPWCEScFDNZWDNM5E2E-JcWB8PF90Lvd3jI50115MosOZbPkZR_47RdvP3rssFhP_NsjHYbB19ndzNAoMOb5sxV6ZBh3f4YhWtnPhYMKgnXzIj4qAiG0GxZdXsPrz7jtWhd2vX0YJq2xLWrdgNReuVFdRavUlWw5DAmIp7rFXvu293tdCjz3RB6JXF6T4y-52qbOdLSjZu4oy1nSozSxyoQG6CAhDxqobwCLlfxsd8QZRvTzfae02RrWgGqXNFarZOe9dmxnGePIIZMaEVwCPIRmXhxKCrRbQ-hLRfik_VkHDy7Rq6hEfzfRoIfkOgYDD7b9s9MPQI6a0QRWSwWvAEr7Szuqu6FJhrKaMVKqowSwVpnQQ4_5QoCpd90s9Et8GanZ9YoOcx8KOWp_2N78-K11kow0kJ7pSoXT00b7h99rHfOU8aReQSFIyWDCBRjDRlf6kF0sZb3Mr_c9WPcgJeRN09AK0ohaKH0WLg6SL9CvDHKpS0Av24GYpq1HmceEKbB0ml8MAsY4bkpLm6RXDi-i7lkp6DhPKkZXHyOHVAZ_mNChJBv-Pi7b7MMnH_WQseVWWY5t8lnUgb1HAdhlyF3qojXtwjyypA1mitSX1PR4QNdifj_LsQCgmAIy7y_8d14v_FSU0qwshMIPPFOCQ-FTF6AkJFyZsjamEGBsfRPLhQLi7ZVmc96olg25oeyr8U9Df35p1m6_wv9LcuZViFHhQmyrvvnuArEukmm1hULck7BToFAnf_7vGJ2UQbYE4FOALrOFoCbgGwMRX5-w==",
+      "summary": []
+    },
+    {
+      "id": "msg_033964348ffeb0b6016afbb953f7f887d2b721a39103ba9bf4",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"valence_category\":\"critical\",\"rights_mentioned\":1,\"state_responsibility\":1,\"brief_evidence\":\"The narrator judges the measure’s sweeping scope difficult to justify and favors targeted acquisition with stronger safeguards. It explicitly discusses fair compensation, judicial review and residents’ participation, and links government acquisition and redevelopment to risks of displacement and exclusion.\"}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 1024,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 0
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 111,
+    "output_tokens_details": {
+      "reasoning_tokens": 35
+    },
+    "total_tokens": 1135
+  },
+  "user": {},
+  "metadata": {}
+}

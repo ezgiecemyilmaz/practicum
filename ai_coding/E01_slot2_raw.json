@@ -1,0 +1,112 @@
+{
+  "id": "resp_0e6a8a6321047e7d016afbb992940887d2bfcab89170a8df7d",
+  "object": "response",
+  "created_at": 1794881938,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794881942,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6.1-sol",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_0e6a8a6321047e7d016afbb99360f887d2a391b1ae9a89318f",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-7mWh_R3WCl6vfXyKfxOsffoynkMBv0VKe_iWoQgr4XcvNY_rvgvX5roZhwRILuvbZF2TtTRBwM9WaAMP-HUT2ao6xT404Ye3aDu0OK9KeFSJYe9xbOWtMnCeIA4wUxYzX9GdpMsj-kDS-TwU6mLUGp81tgt30dOEnrMH7sDYjtS1u57cu0hbolcpj2sxepgTQSJmpdmTXwLr9pQhUNN1hdaVKT2BwON4OddMSnR0vVXK0ycFxwDOBt9QgvkCB7Z_G58ZU5WCyDB4UnYt5ztJKvwH_PwNReVWWShVC6rwh5eMOlD5ohnOnYGkbGEn9OI8urDd-rM0EkT6ClIkP6lGiSHRNFOfLfSi-m2mzQJgEdy9MCaFk-owHFsbXiXqJamir647ZY-aTe7sWK7ntzgj-SuwerYKb-nFMdYtKnZ0aXap4EcPJnNQRKDP-LquMf3GG4Jl58H_GnhmRzrcaHtYkz7gFFHsZ-ELPxs3dYQ8buJtq2e0BwjDWJtqWj8HUuSw2jZvQ4fbxSDoAB4HhKjcTmcedEsehCFNfhrp9qqrd6g4d5LEwRGDt0IK5rjup3TQMAlA0gTZOA7dOwLhYuRJbVL9Uk6BRTrOqui1KgBKC6CBG6NUscXWB5Ryb7z_9u54x6zpdv52RDRv05PXR6zQh34bdTq5h3m7cVEnvADTp1mPyICZAA2whfT7UUMxutFWYctXtdVjHVftfnLjzlFgZScYzzJEDFVt7Euhgffs31dthSfi1S9tnQiP7FsJ4r1bxW9hYgp-HsDiP66rB3Ruip4g6YDkRnyqPUchkLCSlnBSsltp7wQ2WbgkKwvPB97_Di1b-118byM6PISCtOJeXUj634epjwMLCaYmnLqVcULV_Eucid9k5cnJnqHU_zxQ22oGnoOjldTf7pE0O34ifxfp6pBUpyp5j5eX-tT9TKnyn0MeEX6aNikkuLdCostCQZ88pDhAwRDONBOF_KllwI1C4g8sBXNOTdfBq7ykyMxZxe1UEH47yVOpdPfZreJD7xMCdTQwB9O2txBdH6AHMG7ynHfidRbHokmKU2Ij51pfelCYCEOB0OVqgXZTlDI8tNFI7aeScj69zZU_nkMhtXdJbqHZCZWNhSYcgEBoVTbjzXI7p2F6jUbpQZKps4WMMHQn9SFzG04odQjEydBxjyV1S5txzvyuODXn3GAgX1Tnt7xz01-lyZM8Z4VzEDBK3otmJVjZXLmVTmzlac6XPOznIqT8XhMv91nKiB2mVRzbyawgKl-hx8Yj1X7PObp9ZdsVFFl7lsakMuUYN3c6G920fsQYGhrDWxgkX8yNf27ScaJoN83yT3y_Q9IcsSxRBazo3iM8t790YDXvEyzOeD9wAEA_ABb6BIPw6zPJGSoxO6ceYLtJu0fkFRJK8l7JSW39HeUc_nrLigdfAEH8T-wfvKV8r4YvURpq-NJ79sjTF7G-fvn9QEFQ_EwnC2J37YMDL-S9GMPZyYADd5cs3AY2DF7XYPYF6TfibGjNbF_48YvRYjXNrjXYxn4c8BiJpZ-DLyBybPAFGGG88Prj-25BWrRZAedTaixiyGLmXNmXbSURE0flECbYMHSCIj1EdgKXKDXKkDTEwctrnc0ZPpwu6ZnvZP68a9RM62Zrd6MTWnXJ-n97u-YVIaQzZH7qpSOZXaZYNO-hhUgRdIqf_gmyPnnyVSQvmK96RclMjtTvrOBs-RzGR25cfvnNE0HeCFLjMR0OBn5Ml_gDA-_71x93cP3hd72yj-XXmPyPpBrWHdPs_kmXbxix3qL6QnTF3LrZ4oqy0J2vglVw8lzt98XDCNmKpYUAsiSSGo1jg-gVeAxXg4sd-B_HKA-tfAbock4kc9vvkixn0eMyO3LzSjW8OvOMnaqQf6L7bJ0d-i2qhxJyB64IdXo54AHYfaiETjbDxEll5lbBQrrdNreuoh5TJf51JhMeJyOkGl-_Wy2ypJPco4T1PUnhVlC7ONqaQa2bZcuAZhbYOoTbMD4R-TmhgNgm8kTyEJ9CbCEGlpaoUUT7iyjdKyh6xkyXFtmM_TFWZvbAn5VcXTv_cIDRz71bEy_eY4eA7kRDcJhy8OXYd1dtTI77nD4mIH2xNfrpA2bOqZpg0Rxx1TZELrjgnr-Z3gpMUkKnUXmJcfznoINiih599puNernER6boMx7wpxrdJG09fynVYWe7uOgAAJMhT-alAVCrPR3tw-Mb6P6-p-Tz98RkaEkagyvBGbwdXdDUho_c1dTssyKoQoOmr4Y7E6-01aLosg6EZPEDqZYkg8rAtFt88XtyghKtuz0WrIEtzu7tkDrM2KSOQKHvAJn4gNBRhPSGAjTE2Gss30nuD7qnWBCDVTtphZJ0uBD-25yEc9Fdo5X82wWw2ZA32N-huiDP695r1T6pwFksRXVTryv_1TAnlAhgefaxe_ELo5-9kVy81z14OAPCXMRK71X23nW6zaj8pREpzcsqPpWQS6yjN345n95Oa186fCDThOhuncb7pkpf6Jr-z2WpXxUn3FMDD7hbHg3PRwM852gbfscFU5ISVDk8Ak_am43zlYZFMfQ1WkXbd6ssrfA6stHdWb4jEFqRIfT6UJ-SmThieU6AzWon8TsMeHXvOIBf1LT3nfsBWDtQLygSvo6yj8UI6-OUcdbBDhFxhmjTa2dczdVYytsZxcVpCCxG9ai40MVE_v2pITtYxHNmIyXOYx-hrgX5W06x_RmDP8LhqfjBnZ_i80TB-ULtpq8MnkBMcVpYcguIulxSKH83L56gQzlLo9zglWCFE-7PbpvZAHhRd_MArcQ9MxWNGo1aUuO0qxTouOPQNlqw01IOucUVQC91TghQfzqkFRQN6YBh1_z-4B4w-xy7eJPlEGcOvIfj1cooDkzlIzqSJtS7oQSllr-Kz7ZF_2LIFB7LvDVmQbLIN-3NmtY2nglEhqOvGbvmb89ZaQwVHzXoGrL-kNUJZ5JXMn4QE_houZQSNb01R-cBVxsu90uZ4pBIQjqSL7doNAzBnt8pAxtE91hcvaMze0pvApt41674oQAyOJSWacgrOltbmMQcEbqPCYe9H9xJ_fNeJganZu1ssuJqvRA6digAbACy-JrxmFByYZlrg-Ipa0z7IdHgLimA6LBTkopebYFXv4s8iIEdCkRpwAsHoZS7FYbyn-HW3A7b-OKfZzLePs=",
+      "summary": []
+    },
+    {
+      "id": "msg_0e6a8a6321047e7d016afbb994dfd087d29dd953761c0736b5",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"valence_category\":\"mixed\",\"rights_mentioned\":1,\"state_responsibility\":1,\"brief_evidence\":\"The narrator credits wider representation, stronger rights remedies, and military accountability while criticizing inadequate safeguards against partisan capture. It links the reform package’s design to risks for judicial independence and limits on voters’ ability to distinguish rights improvements from power shifts.\"}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 996,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 0
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 132,
+    "output_tokens_details": {
+      "reasoning_tokens": 54
+    },
+    "total_tokens": 1128
+  },
+  "user": {},
+  "metadata": {}
+}

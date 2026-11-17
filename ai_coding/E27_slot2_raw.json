@@ -1,0 +1,112 @@
+{
+  "id": "resp_0b407008a7a238ef016afbb94114fc87d283a50a8f932c7d10",
+  "object": "response",
+  "created_at": 1794881857,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794881860,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6.1-sol",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_0b407008a7a238ef016afbb942116087d2a48c9a2e178e05ad",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-7lEImQfVxdmsepR_yC-rNENV-naX0w1Q0XkJxAto-tPjOvyhmZ-xRqIvAi_jBUnRjZG_Tjg934vJSjJUHPwah_TU43aBcedIY5kx7kBZ7aKDChCT6W6dh7seFAVGVa9wS7XhNazBfREFcbA3QFxxYsgJQz-QPl5btPuX5AewYTIhgUZxZPIcd5k9ntAs1Z7XMqi5ApN3VEqdicjZEBwF3jGzo2VKGrmNsKqqHtMabe95KypMxbCFWqKbjXcK7WVrT4N2el9JQnFEdNw5_K51TL5Bz_l9QGyGZ-1Q9CVfF-SzaUHlxeMLXn3HnV_kKV1eJ9il-kOj0Ug6MG-87LD2d8KheRlqLS2qVooEuuZVwnlY1RhW8aFJ1vjpvcYU88Ja7PUPo2CU8ClHdT0E8itUG7cDKjchzknpbxml1gggoigj90PARFzjP93JOxEAicQkV112r1r_oXCBlB16_7LrRGv3YkY6sZNTj2No5tInd2_-1_STrG6N_nWOYYRgCO_2tmwYOpJbDjFKyPpuQnsi310OWjke7lN550ilwJH7nhs_oBEDSiWNlUI4ypICX-UMs7wVWIF51toml0iRaoOsue5U2XvOYWsKl-VX-W-Li6IwjFoLYfsOl2GAbrWaolKgmHmJB62qfP4GruXETL_ccSK2PzsuS1AtlpqW9EmhOL4SvJAeoTFY9C39wL6eyPnVDloPFy8XGXgZTXnyozKcvrvFftRYzHboQQsFMxk3wwqLtZQfo0UzIkwhMaexcuNLNiDYmNViZvBbXdOZFYFiRCJZ4AHttuBfRL0YjZg1CImqB11kwW7TEq_fA-sUMsiBtgx6xnk_1ns5Etf1P-cH3gFo-TBX2kaISaDQaZtbK_1xlnQkYcUHjFmOZLUpYk4s2XVRBLvQP6YLd46o6-34Uiy6WVH7zCEfRft9VRCYLxTm4Nl99wP2qCTzb4fsZ_yjWrx1UWVqpudptXryJU1PlTzNEeIgVEDV8iyH5s0gL15xI1Tt-bm9Zhdw2VIV62lLmdGaL62v-XU2pS7BFc6WVn2B-ThQ64-BOCt63uElXdUS844irBplATE07ikjpQ7JRSveDRPYPlf2eKiIs71X_JqVEH-NIqtnnbtlYYzSPvWp4VKf_43HN7mXysTdeQA8A6-E2uPILeZzkweOxRV6IlTtYBjcIXMYrLtGpE3sodKK0eNwkB8C9L-bQ6K5GURSPNiyb0c310YeoZA8M0bk3tI7QoRhQfseO5WRNfVJc26RKHOSOPSWxAJVMwzmZ-Gwi4Wtw9dFbbrHmmjLWZcgbb1q2vZ2-QjPAGU5Owhuv3l7FM26JGcqWLrJ-i1W1mByI-wizdg5pvseDItePsHUuA39xtJE2Kg-7DZzpxAHlbUkaL5OaZYHY9nqwtlhpzs9LSeven_OfFncDPSN26YhWf9fK6CAfJ8Bji41eOggrmpy4U_HdBS4FjVz4GJrIl2r8m2CM6eMqxKjt2x7d2idiX4PxVWlY_3_BnVG1fTQXE7ffRiWEbgxe5ltQ3oJTSs40B_3lkvVFXaDIaGGGWwiTCPaFwpFzc3iAADOScSnYKkWglHUFVX8hhiY6qVzuqzdq84sjngz7UKeDUkNFe3GNkhRcJL61BovEnZ_gFsG5pb1NdBv55X2vI9MQARfN0qW1T_OoCe4zqr3MITCVwL8Kh7BncMmjM-jt2ExcIU5c4C46uX8uuYiABJpc6BP4XixQL6wGI4hwMiAUPj5UdPC_TmIUUdLLZVDUsv3sohP1zSQsgzySX4IF9cI7pwHdPY8ZdZmJH5hlPB2kphcYQbzELYJ146xNhXUZ_XaxhmWbOq7Zapko2C0q2-RT-LrEsKOY_mO9B_NQ_wLdZSdUOD_yBv5PuBCG75r0BpTth9kSda-Mxgaef179gYheeeHAhwBeE_s7i3Bpr5ouLTynBczYM__DPRvsJ218veMWldIRzFKKOx1DzxSGYrPXLHwuprTwgxvK_ssrRc0XKPpZ4sxHKMEeHW2QStAsbRIcZjuWNIzlPZsmB9VOOmCuU-P6aS3IA8GyYBLAlB8i0s5OvNIL0b6p74Lg6Ec-19dxXO77sNi1gcV6ww0tmRDNzXzJdnyY5KFOGGtDygIu5M_wpEYqeE46amoD_OKSiSgGFakpJnrym2Y-R2TlcjnVbFyzkYU33HlS6bige6MUuel0pzY3LkFCqpKGYGzd24T2Nth57a9_iymI-8vWWg_RTyp19AWrW3HLE7cn2kSeTjF8r3ricZBzr9t4oB12EVH68zTAJcrfMUk5Nv93ZPq7dFQMXNJ8xMLYBhDnUPMLF3Nqv3m2YIsc7gNw-5B-u7YDHqyRQTIGxtKdrtKyrMAHzK-OllxnuxwyV80TjQc5tUNMQKDTndV5wrIBQZT5IWwo5zerdg7lL732AflDvd1Aa_RSdqQvxKCvdNcAdygSUtcYzKn1sl02y2uWdowS0edRAvULmXqp3c3Ch_zpuPl94_Nph4S0HKqR6iqX62CqgNPFIbZx5HNWXMqPcsXjAFXplkpJOlUtggCDqw9xL_pV5PUj5dfVhl17qBNmf5pl3Anf0mJ1GRlA8OxUvf5MHty2hbj7Z5PmEGVHjfebZqsqo-SYoCqMcK9wGm1hMW3Cd43hf45kt42Cw007IVJRgZvVNFDvnszDk6OFF--2n70iNUsFpP_-tOCouSElWD_h_vJ3ViKCdBiAlnXs8Ru2zYKxwxTDFH5p7-eeNG_4Yw8UV9t_x1Fz773aM4bI5q7NeRaj1JZudrJEIaKXGkCQlRVK70YCvV4jzH93huGO7E9MC64hMKOZ5pnGojDToM2vTSOX5hLViUHGhdvJyV6GunqgMDBYNDI6_15Xvo3a6a9C3dL6wY_lmqDkkIUBHR55Da0Ca_rEO2FfHnFiDC9Zh8MilJPNQS_AGZlrl3holcqZvJLfT8UVBluPkUkFtQSs6ufIMpVd-X3R-ebizzekIncQxV96d2tUyCQwD9oyBT_goXUGkq_Dle5KNp7_IDSNhuTah4_DXMEq98jiZoVh6P0y6IU1X4hbNRq1_ZnQBft6TZMf_MJm_zMMBe-Ofu33MKxtChzY0L12bBRckH0PMwymyhRLe4hyJn8VyNYLRP0pz2DZZPkT96G57tOh5Ugv9yjaBwhgr9H6oLBq5kL2i_rqytwhb89xwLb3vUdOo9U9QhakP-jpK4ey4vzedWVlAzYOS7Jqcs98dctnvE77JlUhkvQpOcx-h-xCLnfCmjMIl_lbuOxAmry5yLbet0hglZtkHKdYhPX_EbBYLaIA6X0rF4JP1G8V6lAh0s9E_L5h15GIw3bbpf7ZKg-sr4wgeLMewH_pm-SQ==",
+      "summary": []
+    },
+    {
+      "id": "msg_0b407008a7a238ef016afbb9433b7887d29d1adb44b99cbaa2",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"valence_category\":\"critical\",\"rights_mentioned\":1,\"state_responsibility\":1,\"brief_evidence\":\"The narrator explicitly assesses the decision critically for privileging one identity over Hagia Sophia’s plural significance. Meaningful consultation, minority inclusion, and equitable access invoke participation and equality protections. The decision is directly linked to deeper disagreements and exclusionary symbolism.\"}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 993,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 0
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 137,
+    "output_tokens_details": {
+      "reasoning_tokens": 57
+    },
+    "total_tokens": 1130
+  },
+  "user": {},
+  "metadata": {}
+}

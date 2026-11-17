@@ -1,0 +1,112 @@
+{
+  "id": "resp_0ccebd69c9d613ca016afb2f23dd9887d29a7a128e1238ca58",
+  "object": "response",
+  "created_at": 1794846500,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794846527,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6-astra",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_0ccebd69c9d613ca016afb2f25928087d28b752eb569f9c87e",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-y8_gVYnKLnaTt1RUslDKYj_fP_f0Zyb1kd7njTolJpOvleqwXJJLVmtF_aSV3GNYkoDkRqN7Feb-yk0VevaAf_YEB_8bfZ84EjkWgn5TOrx2g8vWGQFEnyQhrR-5OJvCVW8OPGQWylLgvOropyTXiPialOsutgfK7CotFJmf0u2jfPCOgQzfG95ntfdFFwTpd4jdrOJhP3zlCM1vEnuqOk8knPW7tiqlwa4owZdrOMc-G_ukgxRl-deXUd0R8cOtJOOKtGb2suYlDVIT-UdJRWbaYHvnPgF7Dind3M5xdbSlQmDI-FN40vmqq_4bj-k0MDseaAxlXXMHGQr_rNaNhdYLq5_b44bfUhP5VbaJCFMP9LDq6TlxQ-Updqu6mNXQbC3ZQfVYfJQ52-flfrVqib2n0o0m0879DHvRHwx-c1_JYwMuFQfUoqwt88PeLCin1s8KMwNXgBBucJCGU9B1OyqCrZPLONGSHofHuNVSkJ-DBABJZlcGcVGbtI9e0sIqXiyplyklFIkAjvPaAOZcSOdpBE4LYACnUxv3Ps3mjIiHNoEMAA-xpCE1uWszilxTFg3XuTrV7KcOl9YAojxxN5VHzwjjeojj3_ZkDAwupSU09vTe90XeUGs5zaJSTaQFhzYnGivsE_AphneP6u3SzOzS35iHOWDFa9fm2hgEZXjmuHFZr4PgA1215bV4YbHpnzFIeN6UWL4KGm5QePz9sV4RBCyx1E1EFDAix6rjAYqeIyoJX4y2kMf7XyMCPrCn23xygXKtkDKIK-sogtenFZnhJd4c8GGE1JTuc8YEJ02e9P2E8rQVsH_p2hMPBp2B6xoO5GSnYKc9IfeJaPcaual9mOCxEyMsptNkcEhaSms5_5sVKVj_wkRwy9WyOI-exMNQIe_AS_feIikByiskctQc2oMz4Pd5Kq_mlTSt4C17_PtGCy2DrhDYRDYwYlsWHSb3a5gy05yj465V3P9mGM1hOvGBxA3XiqYk2Q-tkuhiUPOPoEoPjRK0DFAkugPOp4USf1E7WkDGdCo7MsasOKIG5vJ7lo39PhofAY7ReL2xJXh-UGeqL3bGmgvs6_gnmY99Qe4Y0E9dcaidGsMP5yTJR3GGdWUq4E_qhEvUxcXTfdr-bS7G9N2Ftn84mVaRDN7TWN2lmS7V8g3W5ZqUM9GWHyV1z0rBaaMrD1ijYVXWWmCn88Sxs5OtsdlSTdp4JYqzgji874zQHUj9Z73A9O2z7F3Cqw6Z8T9k1BuHKOiwrCRVQsNHCpoTC_8WAFOak7U6JxmnqZ3p7kUhzdRqY3ET2YP5KXjxihKOici3a4xT-IaGyzjmjzfHSZy0P59R4iWkWWLJSiBXLIkU99na2tJNmBX1fAjUg4gwVQLoBiKWgT_sHPeeunqvYUZ_LFuQ7ieW76Eek0KNyXOMZyFHY0wJxq5GgZR6puWUsngdkPQmXpp7GzzuBpUBbktofQC8HOQkQiTcrfigIabQ9ILj5mnVOtte7Irr4DEuyfTo68CoBZ_N6uWCkUdXLaWSc5DDstJQpm7-WWddQ9IPWM0VS6IYOxGU01yR4824d5NB6BnWoktATEHh8CGm5TZ4j_lDH-QTGnhJD3tO4vQv_Up_8fqC9JgkX48KS6f7QSQ5UZaMIKruET39_p--_XyQX_4bIvHs9Z19KFsyXRF8rdrJ-qwV52XZG9O2DJJEc19gOqd0b6WCvCGQjsj2bv7o5V3YY_eI2Y4PIw6nzYNYwr42mZlzji8dW_dMx1Sg4Alikwvv-cZ4dA9HTOqBtO0kcRK4w1s_wyRCRW-6dcCJSVcqUFMbpBLJPHS_qwUfcT37qKUutb6g5DhBAOvUszhYlfpp888SBi8ctBRNaYz1KDsykdQ8ESkWv1FojQDV0iq9NwPlrQoiNpdqLDq1Zx_MBJ9BHDEBuM9UNK266880sdOPyRNTj_o8KonMdaI0af7Z9LSZoknBWwzRDwMF_Gi-K7o0BKfKrdPlAwc4nZJ-el4544VgroUErqdtLJrWIhuhk8456eYK_KZRLx1mt4wI-C0KVCz8b1OBhXYn6lO3cXP6jyKYQ-FD_gi6yTjcAd6PcHIxGifL50fEILCyfvK7PjoGYaHJXH0vxfL3J6mmIzwRXkeoL1FEZa5P47n7wAb7qeZ1wAy1AOZc6gDJhZwgi5xzA7Tdj1t33xZeZrtXK89Q5AEIPCHACfGEVCfpw0CQKPDCeGX_W6K4s9vYnkZy0R2gcIFMA1X7qiKAZ8Wrhk89wMpqNX1vpGDuu2tzrmlqvcGmX5YNSD9iPEOsxJDIkHmZPxJl35psqdZjB6oTW_GY_sxefbDLw1BFRek7SqlNa_KP3K32w_MLKltv33a7nQegCyiCGhjJnCYLhjV6DD2xMOPxL4FffhNkpfbjhs7ONkq5VLE2j1JGQDYSFiKqsj491KdAy-sUTDM43agiB8iOT5QBuCbWU1xfGSnUaEYEL709wCdwtg4rymgVsXWrBpPrp_Vg56hnua-eXoTwdG3hXUdOhZokeadc36f_wqRGVHX2kdjXbAwjYcrAYX7ldDGSp46G7zd3cSIjXpGosdlqzGX3Dl3c-6dmdo4qdFAA8KbAZLvoMU-n3aN-Ey4PqAc-lkZ4-g24CmyT01sVcPCNZ2PqSOMXAzuefUbgCDKB2YnjFLuBUuENn696cI7KodmC-qqeSt7klhriKFFjzwuqMs7un0XsRrgmNH3I0B9YZdhGBTO9U9UcyYmfUcnzPgcuWpRbQp9paDAlTmpx7hTRx9wzRiVIwxM0rLYbf8CyKRDvgkGh6w8NRbrrdGYxezHfH4pT7uf_iuHvIQA2_sH9Y_RUdUshsN8eNNAFX01soBuhE55BojoDjB0JvDt8DLZdo-3ff1oT1anKKEBet4RII8lMB-R8qmeEYTc8jFS6iNRrER3CYXXvYZtp3qsDCGTvArqZx-MJbyTWRtA2p6WqAfMYbC8pvwONCnUewoJr-5NS2ejAUzu3np9YyZLv4StnF7iIgWQROIblgOignVoONEJu7WV33NVvnfaR49RC6AagM0403FAEZIYDwsPRJUtww7vjxNWroz9U4I4VJ8jS_mQIAFwcdCtqV-iAvNF24nTqFFhhhoRbDoZdTU09jikrN-yP1zMuDxWqPxJKFnAtpWZlMg_NdDXFLTmNtv-chdxYS-hhd6TRAY1X3JR-zKLiyN869mYxXP7Pvfyaw21Gca58UNSfKnx-Jf-ryI1xYWnrith77OqODEXcUkHTBy18KSj0U42ASV0WLNCUFsRvKcZGD4rSRPSrzxSLEN-W2zkA1CwBi5XI9z8vdavG-Iej1cF6wuTSbRy0qPDizkP9iQPjlhVWkKn-XwGWSRE_jNhu1XpeNQLh_AyNt_MVQSKSl89xLZWzXQ-vUU7BpgP_Z6dtUFjJh42quf3eETnjfYzu6XfODEeALLxocRwnXynsx9pXv_dpuKzlke9ZEfZFdCjyxYfVRXRFtdtX6jFeSxBmdcFLMkMJ683Vb48S0jnuL845dOaWUVwvz4nnE9RVhN0ROKz03Xw2_HMVikSKJanLW1tyZsWgXihQsQWCKlU3vkhO8lf41Q-y-xOubB44tic-LZgZgj2ywVjSsRqlQ-p6ta38XWTDH8dkaXv7S8vDref-UGYEhvhQyNjCnU7mYrjUpHaq_SPrX3qMw6u4syGJvjaG0c6kIJ5Uz9IzbpfmdYCQS7GY-wGj_5-D7if1np6-XAEOKVzTPzAKdu8Yv7EFKs5zuLS0Ts1mbHeikYGWivDbFZuWhMDZGVpPJR2XpUPCyWwIyW_JSi_6IX_In2Maqmn8Zt1XeedlQbn8djbYtuLSmdZrVZSMvGzu09jHWwkcWlV1oaZQyvyGXzi3ige_uL0tFMu2nTr3-wkNM0_tBD4mHEA9zvX3Lhai6-4N25ZdNdBoZCZNs0KekAeotvbvy8IENyxFdx_GsbnBXAD7iPEBULkNPS_A1_5OZqceiVDcVNmnvNk3wzSd1aKol5fcLV_Z4anC6X7GRugK5W-VdHOAgSURFJEmrkRXAdqRHplDUxAb-ul9WelWg1bYnCh48H7XlsVFLMW4mfotMbP3IpsSkgAAQCvM41K3Gt0g4knxr0Tw8mPVvOHg76VMGvXF5eZBvOZvxr_VGPUKiAcQnZKm_23xpVsLvdlUVkTfHWneAoCaj0xa6lL_IEe2AOxOjSFiLUgQVcuvMkZf-wQisye0DJrmEQqkHtiStTHei3OI27yWLczIniQHiwyHx5I58Y8t1RNcdVuwNn8GKcgnQJKcV_dsD7px7qYBr6NxQVwguAJzaLB4c17kHki2S61Eh8tx-ZOSCWOxbq9kEAvYt-PFQI0kggju1w8bDgVUBmbG719Q9Riz2tpjxut-LykiiMl93HZPWcfRg8JMDkBYQ8Jc3VmpaMk12LvpZi4IVzV8U30DUrCDDaQyJ0ts_QbnKO-fZBWbY6qEVAZBJ7GLJnoe38lc3F6lIwB5GcWbnDGgpPHhrWymQvwXXFx_7YvP0tAk7Asp0MKpJPx4PqG_bD5dq9qsgnXGvKybNNzVMBiV8ZFJ_8eJ9MHPzGtP4Jr2OiLezAlLAX8s9y9z4IgmPjT2cYw8DH8AoApvKG0K6rZZC_7lWC8_CMbY9TcRBJ5n2FATtJZ8-7NweczbM0iLM8Nbtx7suv2Ui0AoPVMjLgvs0PektSpr0BCBencDyIrQowKlEtJBk1LZyrBHEYytzlIWGn64ie8B5O_UY22AE7fZ3KLCrBh4cGcxWNBeQY6D_hgWl-P8K7iYfExL6BR-vQpxumjt7cLx2ac19ypEQ5k9pWTNlGyj7S0rke5P86WwYnw40fda2t_LK1ovteHxn_Y8c0W6x1zmmzDntsdybDM-lCRpYcgsOmmPxebCHLbCs0oAXvTPUg8DaOvpWaMAkExLJbzqgHt4Kj9fpYCpeKrKljx_b3u1rYp2DmSVG7c45xsp6gjRR9NT31YmvED5BbBF00J5dPq3CEe_GvJhNH59Kc9OI4DCzCopDssilp83LPttcYWZJGXKaUvzh7_mrrl6TsHiF_LEi8NmUuvnjpB-YVh8OPB73ACmmpyzqsIqX5xQFIUceGeg05shSwq101lNu-JkfV_OS478wSNwmOh1f8rCF2DdZBqaweflj0fyQP3WpTODPhNHsAXJqCSffMWSDIZFVBgKvEgbZVaLF3wKF2oysNo_UIMAm0lfh2kY6E8nud-qNqJdZzXM8vU93MwGqNbvYnLeXiOVlcrTTpBBwJXo4V3GnZ_ClNo8qQGZsv8Wb7hXYVriUfFeEnC2hV1zebtCUJp3bfRRoyJM4sp9YFzHQ6bX5M_QAj7cARGM50V95sgtn7f4STADIhX3AVARb5P0fp898rjicKttJ2ZuEqbKrYUZbRN-W21kr1hxABx4l4Y3_aR02jSWZgDpzpBrPcjOtWd5uaVCK3DXH00wIhQH5Pl3lNPkWxF16Wov35yRj1Q9XBpPrGkCayZBJQAq_9kh9Xbj4ssH0hJDO_rTJMXxi_loJMa_nd19MmGSjtxabAOE2Cf3Ld8T0vmrZgzcOy3_9gecrYUJ63rGDxcK-StI0MQozIJbqDc8kH0Ptsx1kzUAVwvXZWffMn_l-7u95waVaNepbk9M_kzkIFE3Fi7vqjTgk9_Kuex073YIPXTbAIzHMrJr54mM7VNIYwrkFfLv8vRj1r1E67Sk4a_BFCMnzjrp3ePcRTJjPvDbGpvCEzMfE71mBX9MhlZO_25M_LsTRl7oN8J4oosjhG1ztlbut3nxf_cDvzRBzD7MVnNh5oYGGZHdSm8XcZeCmMmGrVcVh59z-90QZA-0cNa2depHr0ipCktlnmUApCUhNOmLK_kA_wFNMbY5Wxoi7Ra_BmlyPjRqBvPezlhigUeeQQE1GAjxGKx_9CwgiLT_T8Moi1cfsrO_TTyq5dRNQ8nnijEeMorLXtV96eSY4Gw63cvFjuATzu3O4gePgtDKvv7ewSx2BsSdVi7VjskeclBCVgtfAJnWz7IoGBpYBinAugDCtrzcq2Qs5YSHX2MWYrnYkPJ0VPijIK_fAXOwqwpIE1zH179vca4jiRXBy_b9qz_ICsmJJAEctnPASVvk_ZcLkLT30lGjRsY-vdGM0zRRRz6zOO37kvNEQGKyeUxtSeOVhJTYKRROOput0vdeehWgORsmYoAFsRyZY9uDijs1nWSTqH519gdJlXzJMSn821ajBZLz1XPrOFZ9d12kLiMGDxD4da1ofzVf6Sh6YznoCGZXvet1MyXafLRH5brCvQF38CHrW2NqwSvAH4mAn3JPTa_xqKclcSb2jes32M2-w7YcJPFePEqRDF5ZRDia_eFqfc3jTOR2TLlF6HcCriXeDOTNW6Tq0JGL4B_IMsmqapTZ3gugAwKJNECVJXsIg2Y3Y4A4MjiZX4SCVaYi0S2yEqnYLcKnJJOhMpct3IEXoQiKpFq4Z5PEZvZ0V6_bLEYoUPJmLyTIt3wj6pkVB-uiQg2dgTWCNJEdGFhaQwjLcdRxMyiUEC5XxBtnUZ-qnDByJbaCQQefzh4PHgNqFfzmi4KrOn5NeLAnzKbOaEKE0y4PbJoAfqHq-10xvI-Mukm301J1BpHX_YJ8xcFNTM6PWv8ZXP_05vAciVTM_xcFfRnP-DwSO81Ssr5ZWmQgHW3apmZgZ3PI8wNG9zbfZ8ZONV7KI8doZX-LdHLp239ZVJ950p7BrwN35f4IWmwajpF2RBPNb_WFTkETKIkq5Kyl42B9_Iagx--5Bvd12zy_Lxjtzv4NczhEYbpo71_cCF75rZ2DYmksr9hMWjbIwvR__tm_9eiFD3o_8RPZcCZHf1kN8ObSiir6crrGwnlBfV05eNx0f3RS9DGIMAN9gb3fcf0-oQcjkMJiIx9ARGT5K4HzG1fHp32dJVyOF2z9E-mYS7vMi2Fb1bFsEBqOniYY54L3CRCqfTgu9DkvLRE9NoZ2vpLq7ogP3WhuvGZhIy6I4Gf_PGUKT7dinOGmjyYIm9k--SPu1fFoWuHDyvW4GoDJ7JJ8DnjssMjC3FEvA40x0dhHYrOCbNikYCfMqRy5znov8b_6pBKWS35yoO6jWF1K421bpLQTcSqO9SasHmb0rBt8CuAEQ6y_sjlQG8sj60c8syX384xU7zKdIL74EyJy4mkjUlZajzglGbFRYvqgcM8rW42Rlisz7y17ts8-xxDbNdGetgWTa5gX7dSowwpAVLKusoV1gnNG3Fk2qbo2UfVhxKJf6KWdu8QrnTlE6HYQ1pLua3sTaYReOG14TK9SksY8wz0ac2byxTiwVOLn_a0VHax9hk8xzZxwAdXRkNxqEgA6-ABuyO9eq8mysbQS4AM_WFl72XFnMBj-Magq_EenCjQRjXt2LZ10MsHKKX4XTytZ1U2HBKIoggxuHoVrR8WxXKS7HXIVJVFFWj-RfJk5UpNhgCPGyLnYeI1BwhX_iy3ZKPRWQeSvnSPP7ImFsqk3_7f9HhfdqDwEHQnSLy_1OzNuy1mh_UQsYFf3d0-6x4GDU5kkJIk1Xq2fnj0QzA0_aqothYZCsgasXYF9C8K9eEqbz8J7q2hkqnZbyFixeS32jPl3McgjGg6_fdBUjgiOt4VlI1DzqtVzWgS5aUu3vh_yNxVSzVAhY0D_ZuNvcpsamP73SEB1P19uNnL-MZ7iQtBHG979xwNtsOxzQ-y1QBnjOs2ryNICCImzskS7JMxuOL0dgv3GopL7FaijRDdNV3AUp3485iyoa-wFt2QhslU5C1s-OZacoI_v0zB0YQurncS8DS900YnGx-R12fcUG3D9MErTZBO8DEBwuer-tvyHAvVn0-I0k7IaJhXh5MLQH2rv3nRsG4YFEFmHxDTmSen0IVGVxANjw==",
+      "summary": []
+    },
+    {
+      "id": "msg_0ccebd69c9d613ca016afb2f364c5c87d2bd386a5af95adde1",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "On 9 February 2008, Turkey’s parliament passed constitutional amendments intended to allow women wearing Islamic headscarves to attend universities. Supported by the governing Justice and Development Party (AKP) and the Nationalist Movement Party (MHP), the amendments strengthened equality and access-to-education provisions. The Constitutional Court subsequently annulled them in June 2008.\n\nThe reform was controversial because it challenged Turkey’s restrictive interpretation of secularism. Supporters considered university headscarf restrictions discriminatory: women should not have to choose between religious observance and higher education. Opponents feared that the AKP was weakening the secular republic and that permitting headscarves would increase conservative pressure on women who did not cover.\n\nPolitically, the vote intensified conflict between the elected government and secularist institutions, turning university access into a struggle over national identity and constitutional authority. Normatively, however, permitting voluntary religious dress is different from imposing religion. Equal educational opportunity and individual freedom strongly favor allowing adult students to wear headscarves.\n\nOverall, the action’s substantive objective was justified. A secular state should protect both religious expression and freedom from religious coercion. Its implementation therefore needed credible safeguards against harassment or pressure on either covered or uncovered women, alongside respect for constitutional procedures."
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 99,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 0
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 641,
+    "output_tokens_details": {
+      "reasoning_tokens": 384
+    },
+    "total_tokens": 740
+  },
+  "user": {},
+  "metadata": {}
+}

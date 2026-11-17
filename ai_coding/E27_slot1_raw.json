@@ -1,0 +1,112 @@
+{
+  "id": "resp_0e0a28e454c8b021016afbb9c02e1887d2ac8b0a1694b0c710",
+  "object": "response",
+  "created_at": 1794881984,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794881988,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6.1-sol",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_0e0a28e454c8b021016afbb9c1925487d2b25b0aad1f2f6b00",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-7nE7VaP_gsKmYjakML_aJTRxCH6A-lu2h-te4z3nYR8pO228EIg5lW8HkSwdnZIl1Mlm8GiPEfmXk5YA-LR3Ejn1Gw003jGwegR6suKpcATRvBR9TlQdm82QI8XFrzYwoHrvphDFGc_faqyOOAHNf20aJ_-9m-Fh-JXOy3N01NZJ64TxQunqRWYuXTBkarEjzb0vkBLynpqBdb_lwNr8N8G2AHy78p2tsu3KqExNu3MLfPklqELSUOimixPcj7nZzivieVLnMsNFiE4AJuuXybS2_49FIeoj9bQTcDatgzYxiArBly5FOG7Pm42E4wuLkA3n3PMGzEs4NlrIG0pZQLUYA__AZHTNbNGI86RvfFHsecwJdPndemLasuzIZH8Csti5-YfpOPMDakf3PfZ6cqr3soPe9FfgSMdUW5ooXnnLDzGISqyW6OUd9lh7s-Vi3SyRn5uMTdM_qq6-pas3iCizAP1defANmikK8oRhZqDuZMTnLZ83YxDiOdAxIVFtdK0iVTcZ2B2GUH5xvMaXPySFnCoGeT3nlen2ePN23LNZMDIJOPHhiQbcqU1CupP2IteGnbyt0XYWWO1mq7zkNsMiESDQsTuWJRz2ku7J3gagRD-kSJ1I4X8XF9M-OUUoet04MKKwUbPlveLcFxYdO4Aw4CQMHo_wh38x74JNjhvMPxErd2-pFX0Qmzjn71cDIFhFH84f7p-Pn38IiEKPjXmH4zOpV1yr3W2bOLJ36V2qMyqhjPxbPvNspEP36z-FRfiJyYpRR7a6yKyV0omwQMHKR09-9d_V_Bk1syeek8QWkUalmrQznw1t-Ms75ZZzwCotIxZw862VPSLxXDq5TFsXn1OgJiyiUYpmdx8elfk_BSiu7DuRedyLZDTdf-PMP4hjpjbSDmOkEKbCuimb26oZRtbEb5NbkK0QN_bKfr0bBzwJKaGgbQdoEUYXj_wKxXzmLWXvPfZXSCFGlUWbqrYOuV0iXMZxrAOBr4L2FtX0ETfH0QM6TQNwlTIqAADwEi_E_NUzTNnwcMf3Nf57cQ2gF2NuBfl8Xn2DitSi1aXdAehnSHDZhGhmV981F5X2AhLy9Ihm-KR8UtaqASMH0ZiabBu798lYx6ONhIwxMjOaGv2M-Kee2EMd97MwuiZ-M1ESc31_TJkt4MW1gkVLJ0HjP6eZ1lBXJ9PHnq2dNRN4KlozAqmiimJeh5F2hU_m9wcG_Oaf37Hc6kRTL84V7r0ce47IhkCqR-ONfg0Vj-sWT2i5d6oVnuywrJYC86Hd-XD8VlLh2nZcf1Rg2tCVoCGSYU8y8Fp2c2aCEIoA4MPs0wGs_ObsJ9ti1LDRExCcYWXll08QbFfydXXPYIOGhtvGfVY7uRVZJLtr0Na4cYLe5z8JZmO7-ZsAIOHENY2BRrMV8LZB-ozORqn2InFif7YIL5RIWMIDBtTMV0l_e8TJS0BBnX1AndVTUCv8hYM6Nc46OMelnVr8fq6L0Sv0pket7iKDA8rtisv29jslMOTpCcNYAaZwy7khqEEN0QY_ggu4L7Ft9g9xkC6S823asL6cwZVWZ7sTm89_OnrdWrmgtWF_BilmPJYE6U-0uc4rs4mVlgW07jt8apfwZSXsqKDk0nsCBjufGwQWEH5e4SYmRR7F69Rn20wjXntC52R3BntV78Du_gYn3VETjtr2KaDbvG1MUos4ChyhBM1-O5RJabmr8vBALA5YZkKfnvOfGlhXXNz7O9IRjqs6zcGNQrAuaJC29WoBJoJaZt_sSiqVTpppRY5xQsMfmc18d4eTbA7NaJU__77Yjmu5HizqN3ZXF_T3rEzIOpEl2quBubmqJWwZl5eTlf3zCnGBOeV1JrP2hT-oEV1tbIyatSxKYd39YyBqPsIdWbUR4Vyth12bWuyZgvp68zXc9mUghfIx9VvvvkbpxrXMArFjPHUKIwg5_fuG43NHsVBckqIwurSaVDmvMsgpNJDC5bBGF0kyObBsqqXkM2ztuFK-ku5uAvL-TdSPlYR6SWrvmC97wvnHzXugqSgmDAAjL7l3NgYJTo6hAgVIEFVIUURR0rQGarelMwLu5E2opcBRir7ElKgv-IFjUrEX0-xPftD3dUJQKTE8RNCR0AqLMbEjMwICHlNdPH9vk085l-FZvQkpgl97mdJnG5LrYseVkOr_DMKDVE3hvcKbCxcUaINPveJ7FxacQbMsttDf7CsC0LFPo30hU41ZDM5iBOqnggA5Is6KiqnTEVQ9DAXHreV_2msFfrCX7Hf8RsvkF0mdnghcuGqcv6G6KFGVPhRlIgidH-u9fzXNsEs6wHn4KbyFxQbKeiuZGcZJW1v2b04gZj43PHCr-9ehSe5QRjjmXOuOc7oN0cE3mhKoDS8-OID7oqfhwagCpfBvSpJTmyPgTFoh30vXJvqgFj5xfQk2VgTp6haYMfQCY0-ovKvQJHGEYqDI8LTpQeTT5SkSgvgZmpE88aboIM7KUcgWWmhKrbT_nWnY9E5d4mhCwFTTGnJ5VpHjO1BkJSKgkgl7rzg1QhsdlR-cw6TqlyHo-Zw-mO4Pydij4m9JF3evnCLJ1vrAwEyF4R1yPr-oSiTpR2bQePAYSsmfqYMoLeORcqWbLOfW_qE6XSGYCcOWiCOUg9ucrwa7rax53NNT95erh4djFgaxWpk9s7NxDcZtpzHGJl53xNaZ5hPeamjNEzHW7qYU0EvBSaeD6rNOuJEn4HZ2xAooSSWYx6u2-EeV3GzZbxyakavXb8qt5ZoudUyiirpWJZq5hfyqdu3wwp46UKz7icTY8arg9QOKEajroowm8wQKrC4mEfxLQgnzhA7gP3DtYFqEQzQMBdn3hAYJghpmjzzkWIOH3jrb_FzEeCQOHSLyj_PSuoBN0Qh1p3dD-SoEdsPvQNW6sIqGFv03rPYZQ0ZBp644Uu-5IyYuyFGYh0W5hgPl7GrWSQarY8AoncQdj_Zje7Xt2zDJvXsWH2RbPo32iTCtT9gSHigmzqB42cp2ADCzauuPoG_sBhYCSVy1mSAZgzGmv0YHRnsuPmseloq1sCtKmGnLx3HDhYKoM5xh_gWj-IQKxb3TtvySNTK87saKg-KHJlAUqahInZqArjUkEUzDufYNogSGaxOvMZMP2TN3_v-QEWi3aooR9M2WGm8Pw2ur82wNFC1MI64voBOvnvHnNlc1XWgBEjLhFpyo0rOqlvAP2rAmbTgxGd-yT1LfqhT1FswbeesMLszg0pJa9U-fJotVJkGfNU7G4pFrCIkkmLYAxPDHZEi6ZkCQlkpL5OV2Q==",
+      "summary": []
+    },
+    {
+      "id": "msg_0e0a28e454c8b021016afbb9c3494c87d2bdaa8d43d86bf205",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"valence_category\":\"critical\",\"rights_mentioned\":1,\"state_responsibility\":1,\"brief_evidence\":\"The narrator explicitly concludes that the decision merits criticism, favoring museum status as more inclusive and calling for broader consultation and preservation safeguards. The response discusses religious freedom, equal respect and public access, and links the state decision to risks of identity-based polarization.\"}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 1199,
+    "input_tokens_details": {
+      "cache_write_tokens": 1196,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 1196
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 138,
+    "output_tokens_details": {
+      "reasoning_tokens": 57
+    },
+    "total_tokens": 1337
+  },
+  "user": {},
+  "metadata": {}
+}

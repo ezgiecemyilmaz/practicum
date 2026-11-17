@@ -1,0 +1,2 @@
+"event_id","phase","slot","language","event_date","model","effort","response_id","completed","created_at_unix","input_tokens","output_tokens","estimated_cost_usd","text_file","raw_file"
+"E14","main",1,"EN","2019-08-19","gpt-6-astra","high","resp_012f6f6348cedfaf016afb2fb6f63887d286aed7ba471c9914","completed",1794846646,108,782,0.04018,"/Users/ezgiecemyilmaz/Desktop/responses/main/E14_slot1_EN_text.txt","/Users/ezgiecemyilmaz/Desktop/responses/main/E14_slot1_EN_raw.json"

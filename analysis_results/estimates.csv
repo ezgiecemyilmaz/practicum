@@ -1,0 +1,2 @@
+"outcome","n_pairs","ATE_TR_minus_EN","SE","CI95_low","CI95_high","p_value_randomization","p_value_exact_signflip","coding"
+"valence",30,0.2,0.0742781352708207,0.0480841559817747,0.351915844018225,0.0295970402959704,0.03125,"Human (primary)"

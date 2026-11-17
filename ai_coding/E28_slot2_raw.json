@@ -1,0 +1,112 @@
+{
+  "id": "resp_0537e3fa4df6f2f5016afbb9e1c37c87d2aeb9f2a0a0fbfd7b",
+  "object": "response",
+  "created_at": 1794882017,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794882021,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6.1-sol",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_0537e3fa4df6f2f5016afbb9e2dd7487d28960ab7503d6c179",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-7nlAg3FLe1EvKsFr32KHjpLaO5DbVYejPXABy7lxUfO187dK0D_LvtGytpTZrLLUFggHsYLZj4mza8jEqlRsLvzoOAguvK97hYywXobyWJEv6lNrjm9rGxrJr_Eyotj-3RXVhis1rhr5ks8ox9_O_xZpvZsNU1GQFtO505tk7q8rinzFyS-MZNKu-9b49w8v2avjwzAT0rIntj1x9Mngqts61-TasYQyQIpI7h0hmPGzZwjY4G-JlB6Wv_tg-QG-EhqVcLUWN_JjVuUYtRfb-abK531tCbeRn2XoB_oGi3yed9qzzvoWVIC89n8RkkJYjTKfaDB-IU9l8Za4eTmSP4KEZ-8mcXu_UE_BIxE3uU_OSkDI8H5jcJKQvz7V_XedOduhca_SlpNeEUsp6SYXESvNQb6fVhFUo2NmzD_WgJJUJR6vOCKY0lha-GDBfB5E4alrmv9Vv-OY9WI4SHcFet1GGs1Z_qFZSIblgYsD1txkpS5zkQqoMPrajvPdmVSEtIx_OEGMpZh3d326dnPcBBCWGFF8rwI6U6jkVcu49HMoeKDWzh1BC4MSkPw9ow6jZDRuq0dFHXWVzNPHNSB2tzy7_PIpDLp32Wn6qg6DXHrCa7lBO7486iSQ1hROfH9EN7ema2FW9MbYVF1fvk3510ypSc8BiO1ePwBRWrl0btrxpHihpzUHA7hPpQ0x9qd-lBO8IZ4pEmusbYJjJXwatG3P9dbUi14rfy7tMan9Zmr8NtMPzvR39wb82ayx1VzkYHLhuPrIxtocboWhYaS1lja7aMN6q_hMknWFVJrycMYBwwE1Us4SgvfgEdhjzFsk5ymr1GP__N5arplQ_JgpRwyiMGUDjywASDSJCHTWgxD92EVHclEGwYKpE3mFohuaabSnjGNGRjojaCH1aiQpM8lDn4ZS1Hsw_baplsFj-7dy454_IhF3YpQ8BHNJkN4TlxZlB3Ae6Al6kvn95y2ITYWvxEewFgukXi-dtv_60c7qDD37wP7_nV02t7k4Da3VfcKLuOfT-pGIXSrxwwjRCIyxvb11WcaHS5zX5Fk_af6ea31q5jvpojKD4Vv9CAmwX9aYTfcjLwqYucO4-RFuvn6bvYc3oQ9ACcvK4xT5eVnkaKaPAb2mn_Nhm9MttZ3ahuJwnTKFS2LPL_bnr97VEdWH9mzgJrO-98kGLuhrDW-oy3SLrFu0GkStGGtf7VylNBi3krGH5zNbm8EXoAEgUefE62p0YvaCrO6T6pEh26Ddm0kD5xmNaEspF3fRXuVd0Ce4JmWOuZ7ywW_9vFurMALNgLxEC3uFiijatCjKN23CH6JfNvuNEqf9N2pWpQbTWMKiGVK5CaZ9yqpXDYAFs9OPd9KR0fKtzmpRTd3Hy8oTd8eADCZpGvbkeQUaDSwT2I-LtA1vco8YHiYMfKz82_oBXVEh03Kzo0rGWhpk46uOW7IRbRiIAmTow7nKQ431U5a7yGr5nYfi391CSbeXV0i7ZZYZF7t7L72fKFlonhlPUNnPd6OgNW68VO7ICMtC51XMczlFfej6uR9SLyzh_6klNli-FTQ0lDlhE18RWw3KMVj7WgO_Exh3iSIMkjmvZdUQ8TJugC8jt36zjpz_qUXEzeOaFEK0ZjEbqy3YMpj4K9vdsofo1lG356mNRArSXEtxI534cRtlol12X7unby4YglLSzwdfFO471Zm6_Goci6SFg2ZHsIktIbidpfnnbvCCOXx2-2gGcMjptix4LAuMGN5DB20UEib4YCA0OYfBwe0adKtGIc1ppAwxgy0saxRZwv8BusiL3Q5e529g-7DAKq-0LbGs9n0CHcP6YWw2MfmHoxnRXQwTdWckTLR9D9AChcAeL9wxNoReqVmMGwhUDzMgF_LQJfA7SFYyXbymuUDGh1_v_DEolS8JJaZF3ODl0Gz8WIv4P2y-EWSP55kpgD7PnlFGR0hi5FDZiHC8JWYTg1xwmC6dKcwSkpw_9bRA86YeTY2X6pv34f67Acs13wvDZogqmJe0XWdeMkqaRno7L9O_PwkSmtvS7bPzq7jYy6PQ_s90Lv50-b8PHAZN_Tl9seQ3V7pKUGI7q1gFpGHNdqhK0rXrmWVKTLtWEFplCnZg2KYFJyCkE_9t6e25kgc_7tPupDCZ2KhQywfvsvqhq8LRxGbQl2JKmAxAtw73tcoo7eN16bYbZG_k89n4uI-_acTXNeZIquwAkFYgaKcB9aQoqVX4pSzNbRUql_5YCZ30JBwd-0rLZpe_o_6_AMCx8AWTv_HcncpsEOLl1WTr53G9MfKGxC2KZ7EoggeOIxyPYxDzlvA9cDceeTAHY_WMp0W7p2yi6pqLkeRcUmJg7SPnoOJxNgeKIOdD2VGuQKpchbpvKGd3MV8kdA-N_u7wMi5ATxLZYiHRoC9p4cRcSl9Z187jTFkG4he1h_vR10bItVZDUUrFcKiizvbLbGYBmK9-4eBqqTyqdL4ZQGL3LoQsNOJHJmaWAS0aKffZ3LfDprBlQcGNRufJqGXplJimjOk6KtJZQknIXBNyNdqXQhpnt-UbH5INm0PbdmbvosOHCZFNAdi1a9AlrAozmrwOVnCn0q2ayOTqX6qrSNIDTaV_D859KRLgrr53VUPkuZbz9c8YiAXP_tG2xCCxPwDDkk2Rx-ZL5OCzqwAqspEk9kUSAa3NYKs9MPP-pP8WWDbcE3ub8hvn_Pqe0m5UNwR8RtchqAs29-EiQMQvkd_NDSpEuw8vgTYggb19x4bf3yC_OxQcJjmLUHroYD-vm7fBYP4MeLELTkmKIz3xfQGWBFg30iEJ9pafm0YU6DZiOu4uxqW1CUh6xvlYCFa-65ZbBl4kyx3moePpbwFxZVEPN5wtHl0_xqIDOt9_lqTA1OoSLMGzgOOb5ibqsrOyNLOdPT9bBqIEi7kKjqtBwJSrsFUh8H_sSf-C5FIWLGYxcAB7M0IiKlCvSbgvIxE5sgArZuK6h9RXVWhaxdFIbkooDpdzDcpk9hWJdzVNbJcEDWfoYrq2NsZZTCJDI2D9QcZt8RlLoyhDjfkXcYPkRGgaWSmKzPQ8ZiDALe1zsJ5k_ONQESFAR7wxc79I9OjYq0Xny5UpU23rTua61ovxFfmymcmGD78fGnRXcbt5zpxxpDgr2hdvuc86hyJAbrLBy-NWK4eeAzC2vXMiv_2ExUQSySTnoV7Ig6WdYJ_UHTdSNm_wQ_siKokqVNNCpqtiVbRcr9IKH2yq8BTmINxKgqoA4hoKN0E4leqSNLPvSYLK1sVml1Cx6Y6MDkbNa4C0v3jrf0eS65PGnP3OlZpns_iFuK-1TkcpNOeR-yHWIqol0DkZWSb4A6OU6pCaGNUyi6zqVYRXKnSS_MkvqSDRYcthf18dEkj-H5NK9lxAN68nwZBTrQKEtyYwTrqJPElAyavNl_oB2pR9LcMsle70NAsk-iH88gXNU9q4U5uHh9jsqRv1Ug2gQ42dFNlzBGq2OLr7nFgoYa6Rv3XvJL9H0xq3gtc42EVUuz5pCyrV_qyNrxrSQ6dOyzRI5uFzZVxvcvq2CCE1rPiEBV6W06ZZIBoJEuRDqUDnIBZ7b95qmgoryo-bg-ld6ra_by1xJxczXpK8mKclqpaN9k8edKz1v8=",
+      "summary": []
+    },
+    {
+      "id": "msg_0537e3fa4df6f2f5016afbb9e49fe887d28e1eae28190dbd1c",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"valence_category\":\"critical\",\"rights_mentioned\":1,\"state_responsibility\":1,\"brief_evidence\":\"The narrator explicitly gives a qualified critical assessment: higher pay is beneficial, but state-funded employer subsidies risk prioritizing cheap labor over children’s development. The response discusses protections through workplace safety, enforceable training standards, inspections and educational pathways.\"}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 1021,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 0
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 153,
+    "output_tokens_details": {
+      "reasoning_tokens": 75
+    },
+    "total_tokens": 1174
+  },
+  "user": {},
+  "metadata": {}
+}

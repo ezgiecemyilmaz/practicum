@@ -1,0 +1,112 @@
+{
+  "id": "resp_0c20eab51395a8c9016afbb98cd43087d2a68141306262cd72",
+  "object": "response",
+  "created_at": 1794881932,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794881936,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6.1-sol",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_0c20eab51395a8c9016afbb98dbd3087d2b762e80d34a83ecd",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-7mQQDkWsqD_DWskEjVUfGhfv9i0QBeB3AvOslkDfxicHeRlaTTkk8MoGzxpknl3nnr6FcSrNO4kkBESTsrrB7tFZxhNR4p5gv7nv0TNX-Wf2qDXgPEvdM5IAqQxrjbA85rfFXdkMXfx0fkFJ9a-lVHGacfjmrnzneKC83zemIClEYyavSzYvQJInS07d_RJS2qSF0Ls3gNGzFwNJ2kyGgyBUMmhtx-QkqX3ynkATAdcopLcQ2wHjS3nNAB8YFicSZTSuyTRn48XBHwAKxCHKpiaOMzn4v-AtibFSNXurTKN7w8Y6vUCEEp2TqbD1pR9B_pYyLgnewS_PO4NosOHn1C7v26EmKSAiu0zV5513cdUOfg8WKZjsNlCBNDFqeYahE-TbTcmyAwKmCcD0k02hYurQC0LWSEMS0xjp_Ng0xENfl9FbIhtLQ6COb389Zd_1GaQKwkrDiGaS0RGVdfM14csBaqedYDFA1xi47bXwUqFs_5EK32H3oUyt55NWAm69j0_jyLJpE5M4a8tcnWbgb7q0TcAFHe9c9Ef1qzjxgcKRCcurnPVfzDfC6gD-nubYSFFUXC2aqQjOWWDIA2_XvT2VgYCITP0lL6SzHhSFZwYqYa-NcEnbUvZ5ay_CzrKwsx59LrBoJmMCP8LxqPgwg4hLhO6-QFvlvo_xDZb-_1iPoV6mSUglAqIgDlyjAUdfXJYODneM6f19CwZo2_zU7BtVvdwTf26m6vdj2703vZMwhIGKVFxS8hPVFqRSRteo8R-rDsEKmKqOxgEsEC7PVPBHVLCaK-eZEMHUBsx199U41GxiPR3QrOpj0AK9jFCfnK6RhFv7tK9AiEmUUrtuDJPh4BVV4nnjDmIxpzTGRED9RkbGCl-BBbeXhIKyJw7W1p6oPosE_YlWLWe1JN0sMdX9ujl72f2CAZkpe5SH5yyzypJrwbAJYefShj7E6ZEdHKYEJZ8T8VjK8tDxUpo7bXFUBcJYC5J8Yjn1dfnbCyueUmRUgDs5PQbJxhHsUEVAcPQ-k_n5kFbBf5pBQudDx10NCnQYJO0TjwhSJjxJiMFrh2Fvg55x6j6-ZcD-4J27luv9YtJC1FTrTmRwXN39BOnK7xi4AmvDKcAajPyviz7Rnq0jmD3uYIB-qvY8jKwgXmKhHRpnzvjmULpo3dP7hxaPbZcbxDYI4L4lHZ23P0h7AUnOtwWUu0ZW_c80VsYus3vjb3Mj7lt8K5chiE6Rv5nvB9B2u4JAtxzHgGNtoqhp0V6FX86GVJaAy5fAJd9Hwh5zZPk7LoHWgeQPQ9qPYXkAVGRY3YZEI-bcCY5YQIMmLFLCZcmhmiMR0bVml0lUTnPvQCdYoxuLvPYUkXJIECVs9Fv-Kgvw0Wzr8vPoAGtFY8aYw8v_0gOCW2o1W1kO2itULxgz6nJy4vWLmJ0-0GZARKnPAsTxXt6conCbjTJFr7LlpQRyvxjyZkggV0aeI9_kyG_Sy87YVmVZ5wwqeh3Y2C2Aa9TUlYy3BRugPmgP-ZQ5_qNtf5SZjB76LMD3BGGh3_IT-zZcbyy90MXLxYAvS_O8kkzKWFmuxa5t7gt-mt84iDMAvt4fC4zmEKExebX87kAbcQuvVPKx-lTODS6_sU6dnKobrOoqNoRR7MJvCmcPzx2TkQ-9-nxMcbYWSnloMYgVY3wL6UMnW5_gM08QkMaq--5yk1KNOQMj0JDuwYyKBAGoHGOqOfrC4gdgd9K1pmLY8yHwizQ39kUpvD8zq0VByhlOdwmd0DQt4LQtf8nMPYL-UBqowRdir19ipMJlfR0Usu5V90c92tN5vevSUneQG7yymKJQusl3PRwPZSzgeS4eyxHlki_Xn-1SjPKVu93SsiZEh7-T0PV_DD48Cl42Lk8g2NEoEsxypMPSn2umVqHklzBKnI2_lMWpncDqUxOo0G0hJkD0H5ceHCfHsXl1UYWcxQiOw8eOvShY5jOUxxOCBHzzuv-luewI-GDCae-zee9LwzfKQDyaV9wABieBodRn38Umy8HucPjyZ9KnJOms5-tbfnhrmB8cvhbNLd0G0P3VgN3ecqGR3H1zEcH7AULNnGhGxp9cwwpbdMkNk965HMoSlHnZ8nuWVPLfVqIAxnkqG7810gn0ffZ4yoN3bGTGTo2JdnvrAt-hY3GHQiWDI-RRIwq_wGqbuEs3OVFZXPlnNHgh6DYN-aFhjUiG9QeG0vxBvUunNzg48C47AiAZ7PMM3VPBZFkkVxJ_ihWvvV29p2ANk8L2oS3PD2xuART-ETJxWkOI1ci89XQhtBZPa0ixuJn-qekYcHT-sHqIjlvBVwCa6rvVHjCG860lm5qAq0DJHZElXrNZSNlIY3h6XQOiGtUtEFnqtjZw62sBYhvKAIX-rUTYayVYWXLSgRCKDc5fai4-x7nmyAWlbcb2SKLXL3jiWfCuEw0IYVnQyw2iy_8bFvf3MN87R-6gxWU2qfk2WPOdltDixuRdh9kzDb57IkJ9mQrVDOlyMLKw1vYwQVi-hn-YiZR2NXo4Vs-5JZBr0X-SLs64jXOtlUFkmMV8ycBV4BmJTaHgDf9tJafVlpOPAkBE7k4Y3mVjgT3smnw4D0e5PnYRweMg_9_FMJTCu9nU5orugmZccrviqPMKYJnU8T3t_Ykb_4-gvwtkv0MtHX4m4FZ9XI7COnmXoRVFDrU_D941yANGX5vHsONaYF-2B4i6v_5fznAuYZZWZxs070vlklGkPQIsNalpeLxrQMoxHoDEYniS4zh6vYRx7w-fMfJq59UQ8VrUgKU_UTDx1_-mB70Ipb7d85dymMGkzuQ6YCPnD61S0K1lj1wqBTrrvx9-9lg6njtxY9Z9OIHhv4xaO1a0zLDPMj-VQJmEiKzWCCyKDNu8qzwdSVXdIl6RXRLYk8QkwCi8A7UXvgM5KqWLlesGjSPHOAo2aFfb_h3wtYpam6yR4_nVF8_NOm7Ix-0pvw1C7PLfPK2wOFUEtQRwoVpzISqRnQFSI26-3g6DT-24G4sm9zoM_zYbFHmMbsX6di9HeeoP3dfY85O5WbDltd4c-v9Y5-OsyP-DnGomy46E4lo4y8zSTmHI_fzXzMyNCbgkXn6mEKvvSAWw4VvJnkYQPLqg6HBgfcyFfslhgs3LLYAj3y5kEwWHEJOaWj8i9Y7Wz8ST1QWS4IXPqccxYrKZ8k=",
+      "summary": []
+    },
+    {
+      "id": "msg_0c20eab51395a8c9016afbb98ee25c87d2bff928d9ecb29dd6",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"valence_category\":\"favorable\",\"rights_mentioned\":1,\"state_responsibility\":1,\"brief_evidence\":\"The narrator calls the reform’s substantive objective justified and strongly favors allowing voluntary headscarves on equality and freedom grounds, while acknowledging conflict and needed safeguards. It explicitly links the parliamentary vote to intensified institutional conflict.\"}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 1014,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 0
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 121,
+    "output_tokens_details": {
+      "reasoning_tokens": 48
+    },
+    "total_tokens": 1135
+  },
+  "user": {},
+  "metadata": {}
+}

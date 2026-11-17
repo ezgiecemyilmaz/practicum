@@ -1,0 +1,112 @@
+{
+  "id": "resp_07c538edb4ed98c4016afbb955263c87d2bb5408fa2ee11f07",
+  "object": "response",
+  "created_at": 1794881877,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794881879,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6.1-sol",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_07c538edb4ed98c4016afbb9561b5087d2b5a819064b98a912",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-7lX6FiFMnyGAFHyUiuF2D1UkU4cLbO8KePHYuQT4zgx92Uo88N1FSXor6uhRPPr3NshMq_TYaWiZUZ4z2oXg_k96ThMQ-kH6SQnPY2BN9H1ne3Th4q-Nj0jofB2ts8PyvXUjNl0VY40iwhZ37D6XLG1wlkdyTvg6kNWZf2z5CUASGY_7Hdz0Riz1Za4CzkXTOAQSLrgKVdleihzH4t2fWy_emgRMp03pEs7zMSkSK7P5Mi5qjyNvasgY5DFt4S6Px0AYwV1K-TlvyOATkWCH64uWYKcOyx3yTvoBiWCy9F1OtbYkXa28KHKOdzMu4YbbbjoPVl1xFoKBQxtVwjIy5RAF3WLczPb1FVBpCovW_H1xB2a2JAcTuWpjfWFYd4P2vFN_agZEd1SZilei3gcEG_yjw-yWzZ9XpDqsyjP_NAD3TfLWCE5CU4bNeJnt3RuSITJPrjvnDsX_p9vlydiuxBekE9rNq5IpDWvbcO11IrJJbdD_F4xCdrIx0W4gfdexFwxNi9Jq7uOX3lmR1jd7kG2HORE-bh4xxkEYadKx30JQMj6tM8ILU1NjWxLy-AYOIndGYhHsUjrvxWVn5a_zZp3cew9mrC8WSkauzU6qg896C6J9Dw1K8yOAoCHpczyibs0cU0PYh-4Q-sG4gjieOqZpI8UXNLbk_qN8ryGkUtsZa1-6VBOgDeiQT3__xbT0wZYmEt_C1Rriy2JYwZq41wJE5x9Tp1QBpim2yJqPsSuuSfhcWj7O-VglQDK9rkoswTYz24zF8e_n2jrG0liGvw46p2VZCPk25bN561qidWZid9EO39xmt4m4EqS3CbIjhFHgM7XG7ox7lsfxkzmVUVKNKmA_4njE-SRRG3_CrkaEW0leGyVyvOZiVpiKpzViqtheKYyUohyq_lKeRXA-yIHdoFx-gJ0sww-dx3apYWSmaPsZkKx9W_-Ymy2TDinbEnQNJrJZOSTN8QJ3_uh69iExxnApCWPO2LBVLYcVKINEcv_aYPlb1Ceij5nhrNiSYJ7YUDky1U7PyjxEYvHnfOffbZG0AGYo35PJtl_FpfmNu3Z0-f-aouDNIoOAeauDcc8aKHgf6IAZfntmYhyzcyg_OS_AxjijVn5n9b8Pa296M3IKoMVfrDe9Vbw0SZVcdcIp1ndyVjtyCzRIHDkMKvR6dRW5hH39CmypGIudJYQgIPxD-CcRPpG21xRx__S-qCK1ZDte4yMXPQOG2EjKESUfeCjk7V4idtMMybmCTVzS7p9E7dpU_dQuG67lze64YU5IDwKGpHxBSu00sjJU9shj3Ly5mP-tBufd7BirEMd_f3W1MEXx2bT5SdOj15DZe3OLPOkgBtCPF2WP28NknbbRE3GO7pjSINTX3WkNoJzyi9BbR_atRh64I271S5Nl953V6pYJ4bhupL2hNEJdTKZlpBpdYJDIIa-_OQBkvUKPGoDV9_tQy9qMDYos0WmH5plw0YA7cAX9BBfRdYR1XMKOBAod-Kfrxih36Fbxc0hYmRQxkKHvEoO2FPC4kfZ0YScxcUMPiHIpeEx-8K77AQ_BPbstzyR5ClObGGRy-ZqdqTK1uFOBAlIs-piuzIGiAmsjNSCRQ8q0V4TzqtTXVkXswrhU7BdPa_LJTO7dKeKmtq5dFAtxOR_6jK0OzcFQbI0cHgojGw3c8nr7VT3CjiusKIh83bZfHpEK6mBSJcrA5_hO60cC4D1XJgQsD_UEQvWb9OH14GdaiOtfqCkFzgSzENeO5qcWq2GeJPVecWlmuVxQNK21sGV4ZyUyEtK_fPYGBMh06SMyQu-XFM8vizTHYisdtHYR5_FsNH1adp_odVHoleaJYTsvuhVhkTT0WoBRKdABYbvHpFRvkPfyPpsOtMnKhXhcU4FZ_0rqo_ay2p6bHAaMDRw0y3RKr_OTXf990k876n2UPF0xsJz3nL8ZLBJlpiqb1EocZxS6Xf162k16cP987g1HnitVUV-uaXIHtP4XPdeCuF4h5sKxTjwbPnHSKTNCDJYBz1V4zCa46-d_QA9yooEy5mg8fDMrDop9SRRM7iV2CtEyMmubRiaMuM4jg23KFne59iNnaQgq_jdYsk-tIUH9fCOAlQfMwtujC6KeJ_Bli--xUDId6jhLsnEvYuHqv0Q7fZFAKxpHLGwLomTfOQBcYBgIuIXU25kJgLlDWn7duePbBbwTZO9Rr6ehLKAQ_EZxalzFAE0mx2-iUOl6jTGw-AL3bL9Rbjnuitv-s02MBKFh9SdCgA8cza-ixdK7pBM67a3nipJDT7eazv3UuMVrfYNS2Dj0_O86P8AsjKktsudjvCIN3u7tueyMWpQwl52SjZIDOnGEX4RgUhLLJJGL6eoUuqtZFF7sy_1xT6fEj-J25TAcJRbo61CaIzMo6-r7rbE02D33uxCUbLYLcqOKbWPV3iOGh8GBlrh4-Ds2IrPNQMlYSpigYs5c4YbRl9_Bj0VBtOe5PO0D6M19E_tqFI0N8yxFV872efdQ7SFKVCSD9o83AI5pdoGB3HipdMloNckBcEEj4JmzB0sJibYcyJ_vnVWRNN10BzMuYrnabFD3E0ely5I0JA5PX00dcCKd_WZKY66B4ckCl9LxQ0nH-QiWr66f9pjBUmzJhcGPEVqkkc21-uMtzBlhsA9K-wArfdD6VWbcwoHIiGVrbOQS29wEH6HMJQr9_txDB3yb94FehYNaKv_laG2Phzuyh2olV9RCQ-iMDV2XxEHueVUcVumpygqSSfbNAxFrMD4c0NBREvReOZjXVS477OsgshztY9ogDVAyO-8jZ5QL42xJA3RVyBN7BW0",
+      "summary": []
+    },
+    {
+      "id": "msg_07c538edb4ed98c4016afbb95696ac87d29de717ce0d9ad7d5",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"valence_category\":\"critical\",\"rights_mentioned\":1,\"state_responsibility\":1,\"brief_evidence\":\"Despite acknowledging beneficial welfare aims, the narrator concludes that the declaration’s exclusionary framing weakened its legitimacy. It explicitly invokes reproductive autonomy and equal citizenship and links presidential rhetoric and designation to stigmatization and legitimizing exclusionary attitudes.\"}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 987,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 0
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 103,
+    "output_tokens_details": {
+      "reasoning_tokens": 27
+    },
+    "total_tokens": 1090
+  },
+  "user": {},
+  "metadata": {}
+}

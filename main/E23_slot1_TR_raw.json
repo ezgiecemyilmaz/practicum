@@ -1,0 +1,112 @@
+{
+  "id": "resp_084c4621fcace525016afb28a7e42c87d29afbc1bfc51d5b35",
+  "object": "response",
+  "created_at": 1794844839,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794844864,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6-astra",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_084c4621fcace525016afb28a91a0487d297eaf1aecf82c70e",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-yjAAHzA-xzI3XOq6hs99oCc2dkGC2ttWX06hrMYdz4dwm2WeAnu34xGvUJ_dXJBEpuGQb_frxH9ZlBXHix_0WCW5skitMZCdwn_0Pu6j-tYDmg0R-JJ_iboeU0r1ReQ7VkHYnWUKo4EJ5nUS1cO4Mj3XCuOj9toMOhEg2BvoiptfLTNyXwxGbl9LHd9hgvctfxR0lC3cxhE_vkISw9Yy2RVYMfpyHJ86XBaEtADxr4t4j0lEz6I-cGYqsgoxMwgSC6H3ehlJ0L26k8BfJJdp0gcSSEFqhh_MKHt-VX6NagockGvqR4Ln7YfUqyvGoQ3gU51Mvgir_u0GPJ73nWzLmjCbY4mZi7sSAw_ofyKt8XBOsKWklq9ZjFpl7A6CvTGOHWuS3XvUfRkHyoFji4ayWumIHAGdvFblp1YgP0oySi54ES5D6tGVGf5vY_89otTVQ-L7mmBfZFWrcxuVsOzD16pwqLbTpo6jN5B2lWiZGNSNWBGZ8MfCWiQhVzEfsiqHLUPbNr-5bt96nczPN3LxnwBQgQIlLU78FPDNwJEfC8a2THwVCqtstvQn4OZM1QB0pnKaIzStDs2ww92DE-efE63iqev4zuVG24vagLj1fmdYQJTfF-3AZrnJtrG5JcDSnOoZPIC3qcDgvOwi8tHV2N2swOn1Se9_dBdYbrDvRyKe_6o4MDaXtNF-v6LWxoJr6yQHFEgFfi4PzmimlUEdM8YyTQmWcdEwwPKoNlX1aYPTsKaiWH_DOgQmwNYzj_W8klfOA_g696-o04PjxvohhICUWZuz0rfOExbOZNQstxOGvDQynBrBSJpnWLf3oU0wN_bVEt_tjWRVpDAvlsEw5jmUzfQCJcgS1K_LofqYCIGcu5Vs6ZSXQF3dgLZ6gAn-nMkXz99bJxrB0oVLLJYFxlOXRdWLQ8K_HY7pr07qLDbVwUZcIuIVBzxU5V0Gj4AfsMTxeuJQvKEfoXaV5C3leJXXTHHvN5g8wzhbI3YJDKl4TvoAV3dRV_20R2YSxzHeGK8aqwLBVkfVhMkaJ0pe3eOQwvritBtWF2_qTvdyuH5LZ4D6vLexdf_ZEfpy-3v18G10caDmezpSYK9hSWRswbEcBfc-O3-h4Yh2CB81orXcSnhg5h8GJO1z9hK60xhQvOukyNr1ZGU5jPxy1tVCR83Ry2jXzucnAt3fFm3aB3Dx4qsnQpnFl-FmNSMmaOMqZIUsyV51sZuFdxnvrM-Zy1WhHeHOq4C6mKLclNzFEVEET8cKg45bN7he5wU9L9jRE5Do9_3FL2trYTohXNQg2z_055mTxEb_0ZLTKKGIOAIZBjZvKy21Klin2QMVBddwe8NY6nvpP5ZohNeLwsXiUGLLR2KYlYoYOBui7mPe1MOIa7SaMdsajKsV6w92d2w53xpP4LNTUQ_Ic2DBzaQT_PY9-9gB8vN_rKaHz7ROHYzPalqmAzK7xAcqISiH7g0Q-IXEbkIdzpIve5nL_dHJ12WteYJpgONOLwfjYmOgcARKUfv9lthUM0ziSaPq3beo5dggvdfd12pL833fT_00NBDcZc4P-I_qceZ-F-9WMrE5Juby4xfME8QFa1MS-HQ27pgIodRy7nB7Qe_IJ9NTbvc2BcAb3Nzk-ats3tRKvMfVoGxB8ZFuc-6m7dBGEEeuJwHNwsCgk9b48Wj3jVOSrKh4XtWAeHExC9FIMWyYYos6yyJQ9nJJloBnvbScX-0Iniz0Ph71T8PKlySL_UuvreeGPa31kbXudktP_TH0jfEQP8ky_hw18G9o8jJOBLRzoy9q3ax0wPpPNoqnESoHOorX-YKNSqLTBl4zA_E3mfOm9A5w9Q9ls6RebsA0fRiTJ-3FgYZRnZ1n8piS6y2N09lgIMYYZVUMLJa8iQnxSWcAJrOdaErr_tJkp2jiYPLRvJiCCXq5exqvkduHngX4fwn06JfH0-8n8xKPoxeXvS-_BD8zEJgBezMmQ2gilrsPesjlCm7blDF0ar8cG28MGaPZPULZcr1UlStGQllguIA7jfQOD_NSDJrwYw3jGLpzQtc4k9nWYDZFbiRg3EELH-Km1u1Jpsnbczq6IwD_q6lwXmjcjjicrtDUUgV1H5FwyIknMczK04qHoA_0IGR8-9hhxST12_IejNg_2TdtMU3bnIZHYyVjv2bSwEp3YyhH2vKuTR_xJkph8ssyEKBvNhc2yTZoYJHHGFH4ALVy8YIo3jzlTLWQon7WQO_5GtwPLR6kEaHDFA1rJezZJrNZh8uM3lpMYv3WWNPXsicyGyjjqYQYAiKOLIpBamEa6gNHT8Dgul8vNAAKJ1-u_9dGJ9SFRuIvFO2cR2rTfrqOkYMi00VNrw5PEE3fvHJP-LTI54xszDpKw5C2pX-UXS4zDbidvZ1a0Arvvw65Yuzv2BCNnROZqB693euOEL3Yg-_cACgfCyOVNS782UORJBSF5VKuiiN7YGJdYbYjN9bI66p7HO7JHN0zLNcXczg2DqgLP4vw8RC568fL0VKnGHWPybCSHXwlJ9MDQ-bPD-7hGd1rYoGi2QdUYXLCOR39sNiMWQAUqK8u48_7kYPJn1jkfstahPcxhz_G8WRBTZ0h2Av0SoYC80ssEnVwh5M8CUtUap0Fv-wkdTcBLwU68fa_iJkHB_w9VTgrk0KLR6-9X10a_kkNsND4sCrpPUh54zC-HlNcjyFxR0fEIDhjRWZKBY8spF2jQMdktHGNoTQ7eiDwdQvFk_IjJjgypHEZhYXWwuF_7-HtiWIclx-NuLPSKJWBM6fXiSri0lASrtqgDkB0j6tZkfXikzqDBtf4K7b3Zc7bN2Dnfd4Ykp6fbmKqrglRKJj3C77kwcsNQkPhF8NjWm0Rn5mkmYn0VNBkUzjA0idRF3CuTT9R7k2eze2354Ni56ljQzipP6H3jvhjWjN3AI1LT4mw1Q3mPqTorTloyG18Qe2lbPdMjvAaHGl-Zfb80RnYprOC33ak2UcuIgo4zm769E2uOTTMZBoMEJY1Pq-cpydcs9y42qMDWec6feYjerpPHW_4SLSDewX1oxINQ-h-aPHGxjF5U_3gfj5yZkG0zzQLi0sIIIGo1q2UfF_QzdfwoSV9Z8mj4PABRCSlukVmmYpMqojKDbUyIrZvJ_h5exkXDewZ7VajEXSbhcxSo_f9xiT0aaL6btHZw5rG78er0UTpl_gTYqge_r9uryURx6C4NJAqjPDfeto_t8iLaYnF4GbsTHEOfedi4bg8OxWoTCsTH4ldB0EvtUy03pVTD6AO5iHvKvrfYdny11OrVcZVV19SDfY38VCfFslCm4525L2BKea0PCXn-sOL2jtLy9lnIxMVXjgwwjmACbz13aJf8G5z7ONcI9fYWMNh-doVRR3130yVF--r6NKyZzczELcUhpzNZxNfUEwrifN-ydE0-lmotzmd33NpjwM5GBtC2_QfL_X8hu50C6B3ha0zPtHQeSUapkIPwxwMY1FgmkdKGj0brhYtfopK9e_YEAyDr3l3U-roaRfLg1VX9IOTl_ZtTqGWafP_YBnt1cRgAHtJUQeElWj0_r498htxbUn_nOj1Ktx5R6eJfHe9rUwfp4Mqicir9WkDc0c3ZZOPE_r8dchM5JZpidoLKxlxhffyAs2ls2H0DnYi5BHpbZsXP5YNzgP-NLC1yCi7zDrYlWsw-T26lBhXJFNLMjyEjgVLOKe5Z65K8jBST82wb8fsHS1-LkQH-B5KBFpHpJj06bCYfV3EBu2JrPGLKjEr2rXatgQ8Pylow8c9wGtFDnZHiMXBeGcEc7LmylWWnv4qbg6Vm5xP9hkDIWcMjmBR607EguocOaJmMNy1yHgApGo68TOTH3mq5vOyB7-39gH3I6ip87mmMIck3IiGlsEfG9z9EvAQpHA__GJDYXXt43wkcHbtVDc186Yb9OP_Z9-rS3IS3IrEvGKtPXqNvfGdNRc9DXBX8RjM3opN7MwjD7RZRncpChqS9dx6Ck1jp7DVHft2G9oVxJleDtgkaM9Ezw1qrtPAzM8zFMxVyfIHTg87yDfab-BFDb_9f5If9QbEBiSnf6wbJsqNCV2T35x3WTajEZhJrIpY6goer3L9jgfksMOvO7ECe111fAHxs3yAK_VsgwIrV_5B9_In92QSotZSvydB_Ru4KtSZ1VykBPTl3-ocEmjFV-99D9WwL_WCyR7pEmRNZy_W5pFNhKtXLIhhWcDuSyttue5qEv3ZjqMgJobeUIBDFLCohFY75Va_ff9sm8ybv0USmKKuMqZTElQAkuSnlf2Qpnzw29-cKH1QpS07u6FO3JCQ_B6yoL3r9iLiz4Lam04Ki_xTBgxIjiiakuzfPxPPI8RkYHPvYUR9knJjkRrF3dZGWbWEXHQEU0Y7IJWp0O6B02Am6O0IKFWaP0yteFn9yITZgGOJ19KnhIZ05wfwf29qMQ9A3tmKWkOQNjrsxNIjMsHgzfwi-JM2Gvv65h6xxbSEMzP2HfkLJn5Vnaw45sVeylrQuafDQ4nGM882I4LEB655svPsU-AbjOW7dy9Tww5NSCCv-nIJC9COgZiZGfqPL05AopRq3Ngukela1JAeE15DpzpTBvBpQRQGASD3dzr-kPa3ia1E7IhzD29D71kCgkzibvr3sMtubqDEUms2o5XdWvb7izz_BW_4jxdyiLzs1DvCUEXAIEXqhbK-pddkrm1VXTi0-1IfCWox-EouiYjOqmWaOpQjHy5d6PV4BtYjn2meIr0ysGaaxFWbluV9zSoDKfci6_xJMoM5vmUIyzE2glklpf-sP1c5WR6sHU1f0DhNaeyBplADMSG6M3zocbfawWnxK4BEPsux5yORqgZsI6qH9IeJRJzFBmH4GAESVMUKs9B437cEgVHZFjETxCJndZjkE43SIhVENUKputab7RbSi4E5v5pDfyrSK6tDPivmNBJ92yckYpVb5af9y69Y_8M2xttfegNCJQT2oBO3bzNySKrpskg8pbZ0-L8d34twbr_DCqCtPV-tdDXYg-onvhKiqvk4U_y6cB_XtZupJKa0zkZyBAfcx61DG28fG7QixZ21ChkXgRa1oqPqCGY-I8ws8NaX6h1llaVi22KgfRPHPdbTSmZUrKRPLvzW3fDipQXiRDJHGeKidhZtDfBxpKpOQQlAu-yXj7zizxgdqS_2lZUN0dujTpwqCu9WyG4TeW661opFnS20v3pVboDelqOmQ4okhAxaAcN5C1VTUyxgHDPUu6AQgOxwEVw17dB1tK8G6fHRMqf7rofQX6UPVekOLGC9uv58DpJjkG7UFWlWhYIsDbf1BBdRCQIO7PPFkTTBET37BmzQesg0KfjcusEcYrbpJagFT_ba2R36XHc3SCuKrjb1DaOrXo5t1zs4hfaWu_nsExhreKUFd4ytFlarcfD7LSPA1yGRz1tH8W9nfJcZNs01hmmMax8Ved3iCB1tQQ_eX-e-0-2Z0Qqhw_WgvZsqzEqRSX0jPX6KytcKJwX3_U0aiMvx8-rEWbsgDLiJZ1oheKSzNMjf6HUdoFw8vN--AE5pHi-H68WLZkiJBa9X-iSAqZO1-0UYKyapEKhs0Amwi6Hgud5PRrx_m5YswYOkfKkM1T8V5yOPhF8IRHhMDd8D9e5CrAUUJXpv9MiN8IvS35JFAIx6vp-qUIGAZuJ2UrUJgLDv8efLmEbpDDI-yjUvC5x-ktl3Iao09MddZu_OzYEe6wrNrkgYWn9xsXP9rMpugBLGwbvvfY-l2g2aJWz7dlrtm44lADNG0Eq7WNaEY8gbLmpx5FswAFXV5crmRI3NzMBKSte0y1QJvpVzQUkBeuU-Sud0wU48dxfc8PIuN8_BvJa6kLBq4bE45urnuWoCX05PwJImk4Azz7uJVPFYp-bmwrJDPRbwOERKoluTT4-rYHqG4-XtoHxQW_y3iiLt-zwKM5BnBCY_Pzzgz-AVFhxUeAcfx4oP6FEynAgQWcvXVB31IVF8_J1lUSmSIsnS_rcjbV0RirgFTenZDmqOtQyPM9GS4R7MmlRD3IaRQOaLNh-_PePm7q_TX38CbcKQp_3pK4YchhGUyl_Xe_ThSOtDtiE1yTAWjsVEm2dxv-vRMrLR7gzX8gc0yJYFNEc4XWpCtfmRftSlFx6HdTRHN4prW6VJ0gi5To99LjwvDpugDkrE_VK5_2XN7_Z5mXh0djRXeqKF3O5p5VD2LYDbIQm-mpcI9j1mXzzxdPDYia3AP1g9qzqp8lXwbFbLrqSdmZ2qwJm6qZGVehaM-WhF9uzearvOr3dTteTHx8ToRUhE1Jea1ROkhc8Mk5tlBWKIZVjyZUd41_Ce4WntYQOEr6VjtMEiF7FqM9Wf6uqqfL0z7HHgX8s8a28E_0dV2RLpJOKxSKRtUVZpU0fyS5SxFAJ0OzpuBRvTRY_kw3vCyB3gLvgcMxE61l7UZ8pJBjSm3zCxX1jyH2xENoUJoPq_5zNsdjmeOPguLZc1jxzX7K6fo-9ZJh3EvUTuwPaz0QQRurQ6fUrURJ4EpGlRoD2LqT2m0OxAFLFWknlsZj7hK5TW8ymq3l9nvZCefWHyapfMDUvYbMLatgFXfbO89VmGcwHMdIf_EF6loG4_wRQeM9N8MT6J7jB7nqhkWuqATqDB-5sxDb2AzbgrjXXlxj6_q-8WNBdkK8ktYIRcuPTQXyFcCouGnXpHXKbtzZtwMpo-YL99yfzQwxHOUg=",
+      "summary": []
+    },
+    {
+      "id": "msg_084c4621fcace525016afb28b5af3c87d29a257d333deed0c2",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "TBMM, 13 Ekim 2022’de, kamuoyunda “dezenformasyon yasası” olarak bilinen düzenlemeyi kabul ederek Türk Ceza Kanunu’na “halkı yanıltıcı bilgiyi alenen yayma” suçunu ekledi. 217/A maddesi; ülkenin güvenliği, kamu düzeni veya genel sağlığıyla ilgili gerçeğe aykırı bilgilerin, sırf halkta endişe, korku veya panik yaratmak amacıyla, kamu barışını bozmaya elverişli biçimde yayılmasına bir yıldan üç yıla kadar hapis öngördü.\n\nİktidar düzenlemeyi, kasıtlı yalanların topluma verdiği zararlara karşı koruma olarak savundu. Muhalefet, gazeteciler ve hak örgütleri ise kavramların yoruma açıklığının eleştirel haberleri ve sosyal medya paylaşımlarını cezalandırmaya imkân verebileceğini belirtti. Özellikle 2023 seçimleri yaklaşırken, hangi bilginin “gerçeğe aykırı” olduğunun ceza soruşturmalarıyla belirlenmesi, siyasi rekabetin eşitliği açısından kaygı yarattı.\n\nNormatif açıdan kamu güvenliğini korumak meşru bir amaçtır; ayrıca maddede özel amaç ve kamu barışını bozabilme şartlarının bulunması önemlidir. Ancak hapis tehdidi, yalnızca mahkûm edilenleri değil, soruşturulma ihtimalinden çekinen gazetecileri ve yurttaşları da etkileyerek otosansürü artırabilir. Böylece kamusal denetim ve seçmenin bilgiye erişimi zayıflayabilir.\n\nGenel değerlendirmem, hükmün kabulünün ifade özgürlüğü bakımından ciddi biçimde sorunlu olduğudur. Kasıtlı ve somut zarar doğuran aldatmayla mücadele gerekli olsa da ceza hukuku son çare olmalıdır. Daha dar tanımlar, güçlü yargısal güvenceler ve düzeltme, şeffaflık, medya okuryazarlığı gibi daha az kısıtlayıcı araçlar tercih edilmeliydi."
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 130,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 0
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 801,
+    "output_tokens_details": {
+      "reasoning_tokens": 332
+    },
+    "total_tokens": 931
+  },
+  "user": {},
+  "metadata": {}
+}

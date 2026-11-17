@@ -1,0 +1,112 @@
+{
+  "id": "resp_0a3628e7baad0aec016afbb95fca6887d281870249a4f932cc",
+  "object": "response",
+  "created_at": 1794881887,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794881891,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6.1-sol",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_0a3628e7baad0aec016afbb960a81087d2bd0e22afd86cc983",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-7ljNBoFCuKY4Oq5W3mPNdYNT5f7olIVDOX9TPQ3gKB2JE-coFijyec1iH3U-Mx9L7jV2NSt_1_TqmO32rpLaCGdDMaZTZyaBQg6Aa_7-r0Nb7dqAHKLbe_b8xCM0010oNfGEU0kxLTD1Zqvemcazp5NlnHRQ2Nokc978yeWECejhWTDGDEYHv6cG1w2-K8y-MaFrO75aFcNXcX_H0nV00eWRcfkL8d_5_OBep8xM_5ChixKbvAPXpO_155fGwziihRedgGznr6If1UQutfpw0EtGc2GfrAaMIOWe3P9iXVlpKiesLOzkL03e3YTfi9GLjnQKiK9OXEAU17OcrSIMAr3NrJlwFpSYKvEKwur5GzeuQ08fXcScGd6Jhh7I8z4VB26KsC8x5pCzmwRPN0zPTWR9W8SkwqebiKeM30J8mQPeFBDkn98eRX1pyg5xr3pY-SEyXy8d70wjPt_SQVAk3_GV0i0FDP5pkmPro2BY8Qgu8T0kV6-xSnXAT1oaB5b5yzzKLSqpC0tBel9NyCz06XzYT7NxRrx2p6b0gOZ00cyLXOW3we4jTad7QsaWyV8Eq3o7r6aqLCQQUdUHEB8Am-fy1NHmlAFeADMdxQKl5WIq-1_Rfz5I7OzbgmSh3E5AC3_lBaypS0MIkZKCVy2P_oIN_L9KYlM2weEr2nvOcKZXOXMpe03H3NrZauZlM8e8Dp2LAne0uaPC3hOyq8GLYQVHPek6CAt6zM7Pbhg25mRrCisP4BSEXNyoUnZfiZwyXkxItNLXNrcMj86fcLKQ7mdYLXDMW1y3SKqCl1VoZj0RBS-jbZ_XnImvqwPa66QCQ3GMXbGw51jtBqqiHRz1xODI-6SAB9u7hAVO5-Vw7Hu_ZW8s4UzBCaaK8EYvEUso_02nBglEeWrFyTU_UkCSc7JE8dx8dHiD9nG9TYEHEz2iycfWZS0BhoWigkCnmhzNfvKfI_Y61EmjM7LoKitDsa55zGT_jgJIt0X2WWmkI1eaAHkFP5AaXleNh4fYADQFV7D6EFFE7NUxE__k6_eqv3bA5TiSb1kBOCLqm4a0kjq84wmAF30gSridTxu-I2qbjx-r3Oir1WCvIPhFET7QiHmQxrq1sZm55OBlXZ4hhjEPm74J8Xo10SKrDA6LRP9jz-DonVvEcSa8XTQ5Am453j9r_Pawf07zQtoDeoTeW8QggaTfqMcxLUuiS6hLe7o3GDe-ajbsZeKQbavXd4tEVtRlsTL8K4oaS2QFcGCnc7ZxfcY6G_przo3T571SyRd11owfRXxbmzK7EOr8adsAnHabnQUY022FZBXshJX_sLpZYjBtk_NqTD8kUXC0FniRyQO_4_btiWwdEZE-OFQH2UDV0y59Y-ZQHIZWXDjeoNZkAI61CBXkcc8Hr8dmwpNcpFqCLf4lb1UN_jRTP-EMjfDYBGcLtwIILkZY13jF3WwGg0XdB9HhK5I5Tr-i5NFKkKvrmcbwatBllu_bzWynl6Ri9uWY_BK2aNU3ORy0mj3sLL_rEjEC-VxU2LL1hiiCrG8slY6tSxq2Qgi6vu_fAcQkP07VIuh4jxS4XXrYD6AuS-fy7wgkbzF5SPPOp77LvDtw5rDLIgVDlkU4Fia7mOSdk1DLmrdvChxGy3U-oYoO4yk5HoQKbdJlJOrp4M4dDq1wTavab2Sj4QGfQ8mQwZH2cw_O0bDwVEfhQgw0z4nixopDu6XLBRy1PSeHOpgHWOw4jcYfebM_Iwxf2U1aoYJ_UUuRGEqLJsiEFNQQwHcayYiZZQoYnslvxXa2pXKvVwUR7gV2lGdZ9LVSzld-xbMZlPOW-fvw_4ztxfx11nuUIfe1_byO0eFqdlzy0icllk6xWf9WaiGFRcuAqFAVqogT0ukZ0LlBYJobQgMoDD-FExYU2nIRBuVakoQXNOGmK6xNYMhsW7-A2Fxrl9d4Gw2HeigbK4TzAaD-x4hs0FiGhlwhuPFBxf7bdNyhjDoEy6yyhLZjuS0vbFdBn2PsLkyuy7oepPRJmkLhaKyOvFM3TbDetC97n_VscPW_iWhVmkI2itUZ9VAEsQ4Rmv05h7w0E8KzHN7wKuM3XD0BIlfu91tpzrXTb1Tjbv9vkYX1K_XkqYEueLgwUAYCxSyVAHb9_gmvsqmLH8pN55HezLNUYU6u7wCtsbpe3004g45wefR9Zr6SqlAuX2N6etdHuYHmHk6wXh6rOdZODW1AOvWeNqGI9E41a25SuJl1oXCFQWsvFKueKN11Xi03xT3pqNdQ-kBXFK2Q_CA7IeZZ5-ta5LQCzrvS67IrkJeG2bha3oKpROJSmiJCN0zdjyUi009WgGsOy_kPNYiAz3wtCx58GgE34f2iGeMSYFF1saRrodEX4mcYu9D-EkgU6lJBzFT9yxiBpNrbFVVcxRbZPA9VEpVjqXKHfbKy33WA7HSJ6SJjubiVr8S4gfCNDy6fDL9qa9s0NqIRpLoxay5HN6Lwb9bfdS5GV2Dea0POXksXkBZfLi2aRH3vO2xor7IKvP1Oq2WxDuFB0ZJ70sW-oVmspXvuyjtOUmqD2ctKmfUBFN1GmZWdYKx1wuo1oFuOGio3KnOFiVeYwKPgztSM50Cthhqz89f2ofXPpG7J6fzeyvPy1yJd4YI8ZMIQKDi45kt9rF36zawGl4DRcW0d-pHaDNlcTJQtu8enIhEmoCJIDOIx0gyG6Pi5JNr01Z_CTRXbxrITL7q5f8nkByjg9HNR5b15PkMFdtwHOjOSYIRBRtumpeDXAzFtvykQM3QUvuK05_Q9G9uaBL25ltwz8EJa0SQT-Kwca-BoYoOoWu1UdbUhGe6L9I6XpbUKflvONPjplrwJmsxa8X9jOIOxz-RV7BAK-5LdQ5WSyrWThR69jBFxCWNRyio3QeEa5B7UclSEOU58--QX-rCh4p1e_GrM97lZQ0uoSVShhB3U88rllWWAPW_TNnDX6M7lLm5i1skyT69OWEZW_wo_6tw1U8qe1mgLaJt9JX_vMdwfAMbYH0fUVj2lL3tfQPIBP6bdrcOQZmonYW5Ja42_YfhaHc4YgdClskF6bUBwbE9QilEX4UvtIMphbnU8LdZfaEonJ3uQIavEhzCnr8jexpFkk8CbPZCMgU4fUgTikqHOeXDi4bv",
+      "summary": []
+    },
+    {
+      "id": "msg_0a3628e7baad0aec016afbb961ec2087d2a0580ae44f875337",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"valence_category\":\"favorable\",\"rights_mentioned\":1,\"state_responsibility\":1,\"brief_evidence\":\"The narrator calls the authorization justified and a constructive, proportionate peacebuilding measure, despite concerns about representation and accountability. It explicitly discusses rights safeguards and democratic participation, and links government-authorized engagement to ceasefire prospects and political rather than armed solutions.\"}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 1025,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 0
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 128,
+    "output_tokens_details": {
+      "reasoning_tokens": 47
+    },
+    "total_tokens": 1153
+  },
+  "user": {},
+  "metadata": {}
+}

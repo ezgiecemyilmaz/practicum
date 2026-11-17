@@ -1,0 +1,2 @@
+"event_id","phase","slot","language","event_date","model","effort","response_id","completed","created_at_unix","input_tokens","output_tokens","estimated_cost_usd","text_file","raw_file"
+"P02","pilot",1,"TR","2013-05-24","gpt-6-astra","high","resp_0694bf5e666fac9b016afa9c5cbfc487d1835f69e7158daca9","completed",1794808924,138,1202,0.06148,"/Users/ezgiecemyilmaz/Desktop/responses/pilot/P02_slot1_TR_text.txt","/Users/ezgiecemyilmaz/Desktop/responses/pilot/P02_slot1_TR_raw.json"

@@ -1,0 +1,112 @@
+{
+  "id": "resp_0ce1cd65ddc45e0e016afbb939249087d285eaf71628ee6199",
+  "object": "response",
+  "created_at": 1794881849,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794881856,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6.1-sol",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_0ce1cd65ddc45e0e016afbb939e7d487d2912692f1cb3bf78c",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-7lAn_YM0GZ0gpY-JVAEsVhpU5FtrSEwGKkTWQAFuAKXEQSRUHgRrWPO0GEZ_jnTmWRty2JSFRNAqT6-_bSC7Zyo229L_JMCKc7Ir3WwnCqpJPmR__BmV7PXSiVtO1KGJr23A_rKb_jqQw3heZOYQ7uLjdX49b4qe5trnWrBXr98NPN_mQHJ0lrU-1-2EOKCkk_XOdmYr2Bzb-DPv0iDt1bfG7KTzH15Atz1SNAKzniOlfpjNABQhrYdix516Pq56orbwEPIbt483BDTJ-FNPJXL6bXx3NooNRwF8FrbVWuVlYukYN3V8fSpUpeVkT_PEE6XjyOOi9rv_5AQXJ4alKGqBePCbPn6T-Wu1JrZfeev4LfXWDgkb1UUl3QBJ93IGFPSXxGUUvjTq6sekrbuG70tUX9h1jFMV4X0QP_GRTqR6tnC2wEtABO5UP4Y9QI4-Im3wkgQVFalF5MsyjZ0up2iMaRj-u-dnoTUAzQ1lAav8SsaChWouY-qdS8W9McGwUg_3nld87v5fxLHEiOFKO-fRAL4nQLbMfTTZUL0BeCU3nf4UJgBge94A_cVHg4LBnkc9ZUh71evatcXVsSuGSgEHPfpE8s-PkYCB-5dxgzpfAo5XGBaGNhI1Cso6fv9sNmbIbWvw00joQVgobEjpdF9k3DFe_wFWHfAP1K_1PhPm519o9KXGV_EqVpi76fzwyZcPUT1gxcyODsJaf1rkN0azwOONzLdpRwnjeJ6ForfVtwvZX7nQhisdyhj6-UpmtkT-9Jhsg8QP1Kia-S4iAk-l4xgrcTskc7anIAXhM7IvayvIHy3d6xUupcVEHhWQHLbZW5Ue62SDeCtyUWAcYHLta0x59miRJ71XJJzz9UFhVRjEnTCg6Djx3pvydHB20ZLYyIOAfeJRppZDC8gZpnclST7z7Gh_qUNu-MNeiFH4qtdC_eR9iJWEnOxcofMyRPhZ9tgBhalhLfZcjdUfAR_T3zbGPCsJE7MjIhD4AGIRw3ptcatuFbtEaw2kaLUfS0rAoUoMFe0i1h40zqFHXg7BvgyMmOntzcHK5BQ-MNF5iig5kl8u85I3gN7x8E8T1cH4C4VEipHFXT5miv591Sli92vuWtBy7zN2-b6fAEFebl3--T-C7YiEDiP8qotMw0hhG2P1cxCy91K4sG1LvYjNigGl7oow_zDQuXm84XRKhNYJhB59_pB-AEpFfKZEjyGeVXKqxK6Io70MYrmm7H_3gA6YR7g58K03Ev98OBxvT0JgkDICoo_5R7K6Sg4lYcx3AbhpcK8bqYADYqcrEv5kAT9xHjcEQibAUwkkSXvcnv8RHN_1SP6vvqIgS8hrgmyR1EB6YShvD1i0B9hVI8X9SlxwlDz6ei-iZmD7Lubb7iAaWJBESQBBbOnnq073j_PkBv-Iv8iGHZdv6nkvLYTA0YjODO_qmRtwKlHmE69c9MaVbsQMpy3Wj0i0o2cqYf_ZJS5ciGyO92033jpdWQ9awt95ymdfnANyGEdUgHTVnycefY69rdmfl3GeFLXigeQTL4dslW11TB8HGR1J3asHjxHYVNMGvevIhDdpG8XdHxdhAdjMhA2gYDUlu0ovoyXl4GCkeYXNWwNIe_ZNNl4O7YgIzSav30qb2c1Hm7QbQrSqnkglIO7eIaWf92sUr8zT3JVi6_MHqgAy5VqxTU0ccFkPheVytezY350tfuCCLE3H6h4uCjWYP_G6jqyt6MnML8U-_HMDAOBWBo3FsRRmycX-VbpDKAg4ccPhbZS1cLc0kVZmJ5DZppf1-aHbqUL0Lh-C45oegXDM6eDcWno9bhwf0LJRCtIb_caRaR3s8e2PAsiAbRDZsXLQqbtjwnMJKbqP66kP6pz6XfnsauHjwDEyz21XN_M_DtF8CQMkpwEoH0holpJV_5UevxYVTmWPJF-jbIBCDtL6uXCPeUkwxH2pc1yzdYx2tM_OwzM-T23sFE7OHS8Ln6EFNnPbqpJXYdLfNYYlkcxQCzLxyVKhv67fbTwYssbeohawPz18N0AyLaqnXseNpFmngwqi4I_5mZNoYyAiuuPXBw4_W_TnpQZ2F1IM8TFUIzcGTjRIwKP3YBhr46hjHIH2Xbhf-KX9QAHSBguEmfYPA-3l-S6cDj6eNFYRvdumtpGwsKpH0EZyT4YT7rRV45snDMP4h8AYk1wDs_Lq7skpuA-84X8mnwUBHJx2-mdOFQ-sR3SLqihoMm1j8zx9gzgtoNiK9iAZBMswaa67LVFaxoWSHvLEgyU-n1V2bEj4r9OkagOPQNIFgOFGV1JL9aCj3BBJPVCPui4bUChKU8IPeNtBmi-Ew33E9Ob4G_7sOhy1ywvdLC_MZ1XgmftNWECQDCYI4-UIabdf-aH8S4KIBnQrQdQ8n4MRiQV3Ek48wMeW3JQM49LWlJkL_ah3qKVi0HkUDN-IZ9g6w-FP4EbY8e3j6ca7lwWLo7bsgAr3oRk_uMGwB4iR5JzrUZOF_BIBbwAHx_hSApJrklxny9iiUdbM-4YWIX_kLf8yDNgmwAlCBSb89dbDutLoMu6kzdKxmH8eZfiR7_mYjKrkNYCYh8cVz8ZTG5Xn4DKC5rImnS_upGwE4BJYtL9I6zVSMj1Mro7lgTGfzgE6y4zSkln5Q3z-Ijg9otSi_ZfRibqb-HlUTunEB2I9UZHC8TJop0XgEVDbBaVit6xkLIA9In7TVKt8iQRgWuB4urQHTmAOuHPtC7zBL2__TCTprNdNAk0M_2frq1puWGzb7jgPxpHtyoEJDq-vUgc7C5GprHcHGH6TZlZz271bhPHPWwBIVqsxCL_IPtYmQ53ywibh5mR3AAECgTo4EN3c7k7rF_7YaAUPO-_AeFREkTH4eu2HERW_OLvdCaKqyyy2MMc-a1gZB8o5H03xn1qmlhNrgHUtmrU3aSTCMu0_KuuFXwr9TfVqaQ-l34UJsDbz1gyMPZmIpWn0giwozKt_OJcyrRppQIO7v9puKLbNLKfc8S3b9hsuFBAWdMrt0DwSDD_lJ-O2XkCobhhaEmht51WfzOPej5pTzPchV4c65PhNUi0CPYL8NODNPeeoQ_xTEki54GYRS9RGlF1UejrKfHD96D_CLCbU2SRRo45RTIk9cdh3XSMZbbICr6COqIE8mbgMmxmZzlYD57dFWkYTOnmAmdWjppuyhhRMFXzW7Nq044baUFSdv9hBxvJYF3hAytMfj2EQrU1jSwSbEPpsBs9fahODcEc703_GCzBHug5wJLbpb8h2H331kuNwXdddIAMPORJuLhoP5H9MB7QSCw2fvBpIOpWExGhJqxanaVV8c5enqYks08KnljCsmKgDwB0vY0klDG8IErWx22WfblKR-dUGeJlgy_mMMfcinlZl79kHAODD8sU_lNn06ojaGmrF-RZrTrUwhcbp4lSWL8rrxKaWq7fZ5rAHhiJCDE8YlmYn3nezrBGFYdhMqGRzC64hvOVNhAEe4czFdihMHfh_Nwq5EGEhUCPbiixDxSlux6xzg80r3f2Cce2c790rnFz1o1S7bs02y3GbjRxUL64kxoSMxgLU0oCM3nH4jp375scsnW6Ys4d65BdvxWKP78E9X3vAsVwJM4Sb1jgWNRdi2VhiWImebZXJgI8yNDNMVBR9_fvoMd2hDAoCjVw_yuWxq8wMaMvKnl_V39lETMs1MBg5qTxOLoXulqzpxGydz3pOH2YU7DwjLHve9tzkjomE6gZLTHgqGrpQWKbAybBGPT7Rtou-Ub6Jrv313-mWXh3YxULbj_EhicboG9kBwly_mGjZCiSmu4_raiDT8FEVYERYi0NKQmgBvfm8KmAZAgWYN7AID7WswFLOquS72pID-oO3gTn2Az0DTjFzEkXmAkOXR7Wn2iykO8wc9aIp-XdHZ-Aj3xUyWFXFuQKYWh2dmZz2qYorrVSYKVApIGXrp39dzUE8z0kuwuHrJxgRCCiUFsNYCVSA2oH9W3vdBYcFuNSsRcWbaazIbQUgm6SQpQgQ0QjkrulDkZ0fPszbW-mB4xAB2GgGLylwhq4-V3-8c1YgxmDjX4r72ZINFlBdkEhCqcMdbWf5DBuj0gVAkmtE-QE9dx_sa8jQ4J0LNYG5M7LwaoJf5oSuP3Id1m1bWuV_iXXrzf6Xpz1DPracaP2D90tPMnKLeXPfHiLRJ36gNShiSEZ9vIfgPxqC05x1Z8Q25gvgA1Itu175_HtL92kyDPWeK7KHTaeKU2H_eCuGOEuo1HZW61QgB0fvSxjA4hi-ReZ4N6RxRFo5Jox6JqaMhmz4Cd3RAwD9dWyEBrn6sO4blVfr50ioZOrUnMXnZxPJFcLHj_-kmOjoVLdBO2e_7naSppwZHyQgzPo14N_SCWR3pkSivacu4UdrmqlsJxY4lUvCtzgSqHo7HsCs3hq7pknev-LML_4VRIURn4mX1Tw7vRil7NOOIHDWgdu2rDK6pgqd05NdiWLGs8Mofllbb2c81VTPF_teC4abJyAzYvMyIe3OugsMn9v57AA2T_skVNW8moUEN1lHXRDP0CFoHDC0otRgD3fdaflSGlumNHvwmtdiO2vWgp2A_-EC8OD8azUxua2qrk5hNDHB5tw_CQgR_3FyEFXtCIPY_mG7DSqd3AcPkCe7Bc-dODpS3fSFl4U22NMBU851-H6syJGaw8PEL9NzxM0eCgb7vLKlqxMTi4eU1qLH0DoV_urw1lvyEqHZY37xRHAFYaI-jaqGkfW6r0n-ilQNqc08G30mbmdYlRiRe1AgleDnSNfmyH6BRxkKqtr3Wj-_cnEYHgvxTgcq9AvFg-SsUAQfivYMntDCKoX26zxVEtGDB50gfeLPysdKqmA2n77obw6CiYfajjgG1mAYUbYvAfIhQP20JeJZ0tgR6i9JRIGVe2q5bTSOQ4_Os9dPH4Q0ldK7N-kGH6JZzy8XejZR1vZtlOgSIkZb9CM4lvba_-dTrTPQ-JHJDA3qyFUp-fAaVsofgO9F5e2xFVGoEeD7QXr0hMg4A8P0-vaBhkMBM1IuQWwOaAVHBHINfRJSrt0cCFAVvGK_9TEYH1L78YzoemX57gZzsaHGs5SIWr87YnVCx43BFPvkPcGk98vVxIoTmHcAVYGnThBz6qrUrOqh01BLIv9qT5ogJh2YdF-pOo6pZpy0P3hD99CVePpREecJ8vfSO4MxeafbjeUqkAnnpg3zllFVDZSvyW2EyE6apXhgK-IhmQE5NPmGzJfvigwFlQAXFKJrgiu2PWNOe_YkRLySEshOsfWlF479MajinBu8OGwchC4vBUjsEMDMvak3H3XBM5tFOuqF386Ou_k0vU88omKXic82RUcHPYCyTNTMLXAG2Q2g0j7RELzpKpATLRazHvQG0spL6lOCSE2WLSekIZqvgE49XN7LLb_SE50fEWrlH95YtJhw0t0StyhbLXK1uzKqbMFFlkqbF1TGeslNC6GmxOUMvmUE6DCIEbUSO4AAFFAN0MRdIQRO-KGj5D0C9IFlB_itTTuCS7BWduFzfp9oTfNbJXmqW96PlOFoh0wgE6udFTvLNzr53T8CVjJ-7FviqSA_Q6e3IRjVwIf7F9bHeQKHMmNl163yGXLu0XCacmhKVz5-nVUXVg=",
+      "summary": []
+    },
+    {
+      "id": "msg_0ce1cd65ddc45e0e016afbb93ed27887d2b97a47177b99400c",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"valence_category\":\"mixed\",\"rights_mentioned\":1,\"state_responsibility\":1,\"brief_evidence\":\"The narrator credits the reform with improving access to legal remedies and pursuing a legitimate goal, but finds judicial-independence safeguards inadequate. It links the package design to constrained voter choice and the selection rules to risks of organized-group dominance.\"}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 1205,
+    "input_tokens_details": {
+      "cache_write_tokens": 1202,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 1202
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 293,
+    "output_tokens_details": {
+      "reasoning_tokens": 216
+    },
+    "total_tokens": 1498
+  },
+  "user": {},
+  "metadata": {}
+}

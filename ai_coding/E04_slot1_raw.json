@@ -1,0 +1,112 @@
+{
+  "id": "resp_06ba80f467674598016afbb935508c87d29a133e856d2f28f3",
+  "object": "response",
+  "created_at": 1794881845,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794881848,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6.1-sol",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_06ba80f467674598016afbb936c22487d2a2b25d54e4fd041b",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-7k4JekrkFhdMB7qpM1Lhg3pCmto_XVszECqDUrZE2HIIDIetPF6PaccgSsM906AgoxOSXET7ExNPBLjy7iYEad--jUNo8H6Yx6O14hp79ydiE4DaAedNaJKE0Nakhdkmnkys81od3Lw8drMNHuc3dU0e9fnLSgadHQw7kzZYMfm4BM_pIA6pO_JUcmQ7ng0lAt3jnSA-AtdaSsGzxAf8BSCTM5K45k5gUJtyrbEyTXKS9-Wxtp9FbKgEPxhFvJV2w46eB8EF7qJ_1I6pSzf1tisAp3a0pljtQ3xtsog0yiO1TYu_LxXKbbcGmkCn5e7FQAtNrWGUzgSxuhnel4GSro9ilTcnO72sWP6pLtKNebWo76ED3lN9dKiWqdiPrNBovZ6AeYZc_uGkwS-dPv6dQ8tmEY12aA4iX0-Qz2mDBiafese9f5l6hG7BeQgkgRbSeTDx1S_nHKYAnsPZFqvmBh96gPNw5IqKFHtmjFQlkKCqAzhfAvhtis_kOSyit71_bJLvTMN0ft0SGphclu1v5MFvINtvSE2MiaA1NspcR6T1cdRMXDJsKKtnraK2ctXIZkntz7wDHlGTQ763TzGf06WAzafDjMRTv8z_90bkS47ZGLj2bokfkCRn7We_0wqm6qrxc_zkLm09ZYSl_MXqtnNxmi1JBVZir8RTpjkhNcfZCPFJC-1H_VfYc2xUn6UOupZMiwJ3cMt0AfFciV4HFNWlYCEgsSeQ2mwb-t794IYRzjE4_D93Jc5wdWmoA0HlFT1LPjLsmGbpUgx4OjRAhNfGTjd4bmSajCoL8rBePBkveXC-tZFJn2DEeFoT9zfvi_Ps4NN8O9bXjrQSipYkKlrlrdVcFb46UfkRyspP3AyF1FFGsqrsrapj8n0ZjrOZY0X0AUjmEeIkhSmiQ3BxnuTU2r36qlpfM6SDLSBcuoUh6OaVFqbAdn2KkpAV0PQ255a7gPZhuzUdK0u5OdEgu2mZKhelVIeuVd-B4ubS1giLG0X_WoppFTyfml1S9Q4AEjUQkZyWaO09JbmxnUjAs70hwec0JpcMpPBlGi5ueUImLU91GTbxsl6lz4o0R3X0S5jLfxjIP_VjiUSl7EJhn70qHjszrO7TuXhjVDe8CVgucn3g-x-wAupFmEkYZzQljEPksAGhq1_5uXHEQvnuNAowZvxgukzFydr7NG9iYPB532K7C3gM-GpnJsMoSx19jOmqqVyp24wyM4n7OMtaa80tTOn_8wT2y1eNEhkqB9Ws_Xbae29c3DVG5ndxffYqLF89eFuWYnnxRIo2ziRKfMbKgV5OEpQOxwMgkLImkpMvQayHIbKjXHyRLEirfiyPWgyHBrL8r7U6a1j9LgPvH0S6w0TsoDxWZnD1BFa5pZxMpDW88gu1QgA66mi_S5XahN_9taEAt5lY5AtMCim0NSwfgVo6YIptA30PrOIrfltWBwCMTkXQ6-qWgF_hMKrzW7eLoU3VZP6_NF_dEIgOgFAW70UoUDsgvNPqNANDY_nX7xo3XScHkdjAizNtpf2Fhv2Zw3IAzXbUqXLKik8FLoeeH_h1-A7kNFWqUgeSsO5nCq38Fpm3wqAfPR-HNv5oi7JAJjuo41D-7LVaJ_TsPVufQ-8WDXv_SCtOQGZykvuMj7uw1GzCFtjltUGdHQmK9xwlwo2yU8W6B09XAC-wDe3ygpCXK29_zsvnFwvGt0Z4dFgE-vZRdebyqp8JJeBsPWEbLELpedEeNDqW517ZrIlI7ZHZCSmlgskAr06XjNrSIJehL1ib1-z5CumeXMlA8Cb5upjV55GEtxuvv__crXGaRgYmDxacXBANjPt6kuB6gq3_IhMLkoRf_JqF-Mng_Q2WvAlGpmLouLpNyqARD7mNnc1CP1IZq0IjXr6E8_olYtbo74lBKXmV1TsKZLhyC_44Fra14oN7eyaLN1LiPZfIPSaFFDKi2X7EAwiWMFYStooxrhC9hpc3OP4brE7ri3IjMCrxozHRpYviMmQhf-lT6-176zz_p0Ek1QUpSjMw1spMOvbvjSIMlpbJPcgpjcw222IeUTU3L2zUdGc72btSIxlzjsKo6DT2smXqwwNUoM7JbvEkRaEKtkeTcJvS1M3k79Aj8MUp_9VIalSgeE5deVDPilj9NWjp8LzZnJF1H9_49Vh4xklDE6pQa-eHlPkyxJ4lZe5qCKxfoL-3WQeIngpOqHOaJMLj-ZTZalAxBYWt2iAuWIW_-LfZWpWm7oGC2B8uJ2AadnAwiTecP4ah9WeLnyTm2D5Jm7zPQBX4JbTv9mbYKWp9EUXnIAB4YtvF0CcZDQi5TWrmFr4B3PpM290Wc-oLuM8u_8td6ro2Vl9Ypfo92QDpDvtBInW1vNd9niEnhgK9TtSFozsebu5EOpH9iOLhL4IykyArJcIvx86ZdWHXEqNGf1e7ga_AmlfvkJA2Hri90TSqin5IRO9vNYfzYAFciBZXofHbYfkq7R7KFyF3GMbl0pXRKPCiBlhLbckcNLMn4zQ7LATsimHctC2XuVkjVrpgv5X8ciZOPazvDmjVAr-wtfrpEdSbSuMBKO_okM4RodTA0_cbGGSePYghGEKM-rZiH5bFvgMd0mBQkc8Vm_cgvA3P1bdvCK5LuJXtKHlZa1UwCh9uQUT0HVbLx24myTV-xw2EVhlqxfdW5Z7j20Tl4roSSGmefBQf0e3ifcaIa5VYhOmavZNww4nqd3iMBOK25GfVX6huDPRUz40cGDSgeUE9zwyFgjMCohHiaWI4tN6OPOvEUrR_VbnW70zbt005dfcyzAFZ-xkDAWA-Z3BhrOda1oPKgg4BeGL7_Qtlho9HWxEPspRL2jcYgR3iVv7SsZZVZLyzAcalZ3y1eHjOh2pHeqx0OYarondbI4x8QcZIiYJdKEvVq2NrRiSprN_6d6uBTJ26xGBIT9kg_CyWXT9wjUN7CKjQH5XYWnbFtvZX-lUpNJkzmBLKxsNMbzWvWAwJETP0GZqUVYp61k4tndFewXFAOMmRnyqSkHNyum0C9MWUvnkNVU_uh20aPHNkh8qe-TJMcJp_L3P69ow5WgrZQEFNPUbSlKKh6Vb6IbfdAE1KnGOFOnc2sk6pmg69LS8JJgz1xE4HSs4hkOn3ry3-VZ7jq2E0vxM_puFUIfQL-fQq-XP15Fr2pCtQQZXlg9qWtgpOqQ=",
+      "summary": []
+    },
+    {
+      "id": "msg_06ba80f467674598016afbb937ee1887d2aa9606d575c2ef9d",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"valence_category\":\"critical\",\"rights_mentioned\":1,\"state_responsibility\":1,\"brief_evidence\":\"The narrator explicitly judges the annulment problematic for democratic legitimacy, legal predictability, and proportionality, finding its justification insufficient. It discusses respecting voters’ will and links the YSK decision to diminished institutional trust and deeper polarization.\"}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 1246,
+    "input_tokens_details": {
+      "cache_write_tokens": 1243,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 1243
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 126,
+    "output_tokens_details": {
+      "reasoning_tokens": 50
+    },
+    "total_tokens": 1372
+  },
+  "user": {},
+  "metadata": {}
+}

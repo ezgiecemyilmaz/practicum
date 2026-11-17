@@ -1,0 +1,112 @@
+{
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794881407,
+  "created_at": 1794881404,
+  "error": {},
+  "frequency_penalty": 0,
+  "id": "resp_0c514a668d45d6bd016afbb77bf36087d291205afb9ed05986",
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6.1-sol",
+  "moderation": {},
+  "object": "response",
+  "output": [
+    {
+      "content": [],
+      "encrypted_content": "gAAAAABq-7d-04RYYf1ZDpBWW0Xty4dSGp5tMO4kRsp4zQkeXjsns8wQK0OqfZpvkouxakHsnz5d9uGSU51u-AURD9NXS8Y6-ZFsaUKt0UKMA0K2fN11T-dTn7gcIW75pbJ8hseJPJUAQP2jVUT8HGVIZ__cHWZSkN59afbKiuXdz1rcUMadR-kZnZiOCJP2oU4foXXUOE6vbVJ-o714FACSPblBA6HIcL0MX-121Bu6DVdQWv2PRF6FaDhe5Vg5_vQ6P10rkqk1C7OVdxkQDv2qiSFpQpCVzmgZsaq5djbvCAnjPnwzcjjqwM06P9gI3XSh8DpbeSAUXo3BN_ruKNDGaNh13_P42M_MOz3TQnkDzIhuxyQY4enfWEwFzt36qMwUDqqPKfaBWmhQOrp8PFmZi8ii0mEoqwRxpJODwTv-cyHELjfLic7VLRUiU17JXj29d3hfSnw9ef4k37m1peg6M72Lh_sFIkoN4Fz93dp8DoWGr7Y5IKsnqEe4KYYtSrr9DhcdWVTuwcd_k-YZEHryYA7wTZvh8wDRnBBcPd0dbkJQ7PTLgB-77FgUQkb0g1pLNkdmYFRlc0C78gYWpG_fmGmrpKcRk-S-zppMV7zhY3damBFXv0NUI7Xv_yuEUNAfS_JCkF21ombztvTjpWA-2N24Sr5Fhj5lyXtuMLGDhC3yaBCGQM4pnLCMfX-LSFU9hX-aU7cfVwQ_O-MrJRFv8d8u4ZAuIiBFQ0LAzEBcMPCw8wFtLy1XZsfeR0spD2XYiPAd5oOYtCYIz_5kmidpqyHIVrk_zimL1QPhy0h3qj_LsKDiKdaM5mUGAUvS_KfD6XhFKTsnTSc276-ASH4Y4k-TAZoVa8zPZyplHWy3N6cenPLwYruv5tf-dM82avQheB9zY3IvU6xsstKbpJPJkgu7Ievt-dOz0rZJL4mQwjEZOwn9ueTOoSpKZLpEQM2gk3VboPDZPENaJl1Cy9bB510E5yh03MOaimLBEYKFvIMpiAxEhx51WObWQP1HyyY3XPjI4bKcjInqFyLya-FmrRuxkwUQ5MP8IpryUJAg_cWFaQ6VetO49QxnnGInhEiXl6ff9qMzxoFbnVqfAPc8rNQwZhVOjgpfS9oT9zgWYcKG0aJ-fAWn5CVUUPO44WKvyatD0B_SJW2Mk4GsfDP5RC4Ysv42Z58_s5eLBVmWAJKvWBRyEFPG4FvjGybF6TSLeYJ_w4h5If5cwt5L185Xe5tdfrK28QZVMeIqXjO09fSGyvLCL4yOkMDDrW0UE5I8PSeuO6MDmGgyz4LkGnekO_cHTYdBD6_n7JGH2NRG9geF_yWze3uf8FU12mG_NqOQgGlhkd-q2ai_d9QNuPAI6GFGc0fuX2qqoYcrJFd6G3c5xabMrSLZfE4o4CwX-I85MzT50Q5fpd6Pe3UdidQXzovZq3fPPAepz_0HUERylpCNiSFrxCeRy9Fc4BHG2k3SFhtr8CLHqOvszoQVvYb3T7RPNaGWgOWEy76xOvHZzFlDMyffVDzgMOENi0UHMdSJTzdcRBQ-0ChLvnV3LjqkzXKmxy99GKmOymMb_XI83C4xY0KMzODeGVjuKKbTVujyKdCgS46qJS8ViFvAlFtdg-F5sn7ZoGWgE5rH7pLM11tXJnE5yfe0k7RaIKwMeH-3_PQGlJ2koqa1tziI-GKH-MXJbUNrcJzMrR2JqQJJqPfvTPNPh3snzokee7x3kOZCoEy03QNsQErwqCQRAf0OdyMCNiXOJ7E7QYlyIdqVkf24eM10cfqanOb2cY2vZnNkwu36USXDnPNCSExnsQg5NOAKpB_stegIeagndT7C4T_pAh3pywBSPCKpl3JJi6StNnUF2aQPftS9CAXBKsd6FU-Ewarp7JakvxW5pZvA8OwvHhrVqo8REO5SG0-HxmBU2BBQ9nsibeX_MUojVuuVpF5TnPMtmvPi-lPiNYHxGYEzS8rqOAUMATni-Go15sZGuPlJqJB3AWvICVUmidwmL8pths_O3F4vE6iQQtQNcaAkfJhmxaj3zJxZbf01dMokN_FPoYHVy-ql3LY9b7wJbETqcfleMNWWEZcmGGiEO8hyMgmGRd6ZOW-Zz8bbcn35xvnJp4gfaK6WyTjKVYdk_U7mA64DNgZB8S0MwZolUArC4tbdDf8lATQEPBxS5PsDCYZTjnkc1fvWE_EWIBqoC9WY59MJRzXewxCl1F02HIbAdR7Hv6h2tXWtvj_N0kuesxD_DXfcgvIzGXY8I-9IbQRBqos5ZBHJtZgmZIYtGS8Q_OLDT5F46p-ulG_HUwIvVvM5Y9I0You7UH50chl-VCHB62_pedHYihHgBTk8x8_a-adX99Tr9vCb9x8e-zLJOVO32rc2vliPm_MmvIAQkpiAZTt7i3ICge-wRjr45ueLvhTicqIpZXqNMHo4VYU-dw0imFnU7tY3ki3vvYICt_1T2GRoCvYpKZyHHfp_nm4xGSXotjGEin1LWtIyXRrd2AqK7H0txo-eNFsGztU8kIROwFVnmOivjDDudMYgh8VpCVXYmZjqVKbrgjhbGaxsPktG3qqmeKCEBIApCO6kL03IpV21MJvY7PH7GK6VdmOita_nfOH8ycXYxZ6-blcvfCA52Wm8LHMiemvezdfdKMT02P-b5hXMN47spsmMkfoME1Zp_BRvWCRiDYwDVuDyNd5HXAxU2zGpvuZv4f0XnlFTcBnyhXr0u9KxZhoPcJfJnrsMJByYULxqdF9_yPwQgsDxIYUW8W--JnuY5gNPSna4B3HDoPKdlr7WHOOwWhToBHg6dGKSPvsKvukQjacekatSVYoRIsM9G78RXLzCmFszodM5sE8sV2KdxZwF6MV2vG6-_Kbq3n3d4IJuDRPz4JXhGtvGSagUCQOC9VebUIqwLaafk-u1UhkN7nG-AosfNCEYX_dQw1FxbMjYch3AMlOOKDa5",
+      "id": "rs_0c514a668d45d6bd016afbb77e2fe887d2b6f5f55ca5c61ad7",
+      "summary": [],
+      "type": "reasoning"
+    },
+    {
+      "content": [
+        {
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"valence_category\":\"critical\",\"rights_mentioned\":1,\"state_responsibility\":1,\"brief_evidence\":\"The narrator judges the detention to carry serious democratic costs for political competition, voters’ will, and institutional trust, and questions its justification without demonstrable necessity. It explicitly discusses defense rights, the presumption of innocence, and deprivation of liberty, linking these concerns to the court-ordered detention.\"}",
+          "type": "output_text"
+        }
+      ],
+      "id": "msg_0c514a668d45d6bd016afbb77e2fe087d2a5e190f6261705e9",
+      "phase": "final_answer",
+      "role": "assistant",
+      "status": "completed",
+      "type": "message"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "status": "completed",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 1226,
+    "input_tokens_details": {
+      "cache_write_tokens": 1223,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 1223
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 128,
+    "output_tokens_details": {
+      "reasoning_tokens": 39
+    },
+    "total_tokens": 1354
+  },
+  "user": {},
+  "metadata": {}
+}

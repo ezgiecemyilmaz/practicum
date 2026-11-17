@@ -1,0 +1,112 @@
+{
+  "id": "resp_00637aa2b4d4bbee016afb301d2f4487d2ab92b1dde0056288",
+  "object": "response",
+  "created_at": 1794846749,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794846778,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6-astra",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_00637aa2b4d4bbee016afb301ea75087d2ae001fb3f821f69d",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-zA6hhWv5ecFuMWUXXW6Hw6Ko-1REyJvc72lzKu4qTq-JOhd9xY3RYp7_FeV8iVfIm8lwmN-E8bqUnAj9zK5J_kR8cGchrKKYHu1TdgJCaNgFiNO5FvJjTTbp3Krg6nZT7t1Luf6J_vHGpNy-MbBTJjchOlBMH-vwTmOJ1_vJaqOuVPqy5ToMyYIa5Jotkn_Lg3sJC2-7hvZK705GvE2_z-sFJnXaFuZfaWNnvyZOtcrZIQ9MdEyXtnYEe2-8qiXWopEu6YCTEO4sKiZP3Q5lsB9Z2eQCQ2b4Nq7mK66LdRoBph-YyPpjehwxjNN1iu_MF4r-mXnBl9NONYmqSLR7MxKjsDKijLwS_6Ld5EUs_0RtE6rzQ5ifIpjcsogKA59kxDhv7Wb4ldclbUeBQyhkcA3EdlxOlFNsyoyzfETNVaQw6xXBH7wYD86uSpO7Y3sM8F9CHnUYX0tG3h28cIUOaea9EE5-MjfbWTRr_0V3zsm4VL4dqbbWiw5-jFJGa64bgIJ9hbkoctucUG-Z5qYwigkEWf5DFpT9WTCEyQsokeQNHwXWTOiVUqohY7fAc3_Ce1jOM560nxHzq-T6sc533338sk0EnEW5xXwoWxsafgv_m7KMGv17QIeSUHjlM9mDBxyVBRepyoIw48tXu9BbEvTY4foQpKLu9jUfPkeM-Dej6Y4IsPxXRmWWwHQO73DP1dsCPYQlpgKzcp-5xbKR7xlTwR7bfq21nHTeSduMghQsgjr6LZ5E6oU29pQcKclETB0_-PYaOn2ip9azRpvUuGcH7_nRJKzJLpy4nvQqJjQCm8oUEVy6ODG6bOYAb0t2M6QwkTW5N_mvoRe5-OqtjiJcXFolq5o07sKlFtJqXtT6SD_jdlWCJh9wwn70eSxcWhniKpbDKT_w5WlXk_febn_b63gf5pBon_wGfW417Kzo-mU1GhrBCnbVqUfg0AMdxC6qnXkQc42IqHjn_ywV3j89UvH69jlPQm-1_vW6FeELocQ3q3dxg76kkSo2oKwm7T1MyWNL0G8WYB-_v3_SYEWs6rxSFM0DF3XO0amkXPVnJ_8oNYYBgfYi8pvW1sWpYBu1IgPAUO523gYa9m-27jvYjXVPLPGtlTanSYTUsZejy49jW-Inswnzw8lKZIAuxfL8a90H8eur_M0MOuRJYekut9VAkew_JYYX_kDCKd1VXxq6iRnjWal1sVqljFNkzFVeO0SxD5vgr8PLGh8ZFQvtkB0u5WRtUZyTDmBWxTMMcJS3_SGyHMCBwdw-qwS2O_N_81rXqgjfOVuehdQaXViLbBUYTCtoTdWc3YUzbxw48PRhAohQSdhMnxePwmRuKWzyoihFfbNw6ckQO5LKgtTSvbvcnu4MIDMFIO4d7sR7c1L7clDZMzzeNy2OOhwxcOZolXb8vmO-krVnw5Q5phCDOPu7zv8ExZB6fy8_C_dIadcaelYIzqzpCqkGfw2aeq1v2VMP3v321Q1ohxztdwZ_2ZQe0MOWPbwVR_QSvwrz6wfM-VzMSY_hRKTVNzw7fonzKVoaALGKYTHLt8cpdOC10W9uZ-FsbN1LVx2OO3bhK3TTEL2pY7e7uwVrSZdCeZxYAiK9eUlAhfZbXUXaZAYQIUrAsE7jx3xTfZUxcz4OkFGXURiucP84UJ55t5Nm67eT1kIP-I1bd-7Rl5juSAO6dF_WjIr9axnLMnUCp4s7MBFNXKFaiv-k9pwK22vSxFvELnt3db2uPl29D2aa7QQuHurdp3L1Cp3cXutU8EKGNiYXxMowmLl5mSDnsTechug_slS57zzTjfBrPwNZaY8P8eGPN_OnDsDbpkzXdc1_wehsuv9RT38Gxy6LQqeMMniDmCaS_guzOa4z93DoWO2OtmbJlM3_F0HolBefeTwtpbltRLwJPDFhaRE2yUA75mnnRToIzUad6iZnQyWsfgwuRnN05K1rqc2UX4KcDeX33_VsI98J-I47TMdPJR18-F3ddxWlYDAYrJHIifC02KKjFoskwfS-37nilaQKeAdMHykDtlAVOcQoaecHTultPLI1JhdGgmzQtSd-3VtIOA5VXHw4QAS_-27lXXw-PfnXhDvrGI4Q5-d4mOt4c_FJG4c2N8fH6O_UmEfrfdV69MI7ArLHAaQE856fFVjUhbA1dWS0JNBDnXuhLW8ff1YqrO395Lzgu5rtMArx42wY0UQ2gvsULWoJsrjVmpFZhjC2ZoO2rBJe1bKkDHq9hODTboxKOb41nUtESHiXraT1hDwtDY-tf8uYzp_7zwzDo5rd9dlqj_g5M8pua9GkFYvnzqi4B4oblZr0ZOT01O0sggA1HyXf7bSvggODSttWYJeQJ0eGqH8oVW2gdBaC0NuDpbmQQ6rPP1fU5LsagBP4fURRdvPIez_pbOV_PbWEzLArNDx7TOkFHswK2sIveSAwJQ961CzamnFbarwEATe1z4FybDqohHnQZiSrVgruh0PPYlTV-dQlZxDw3RXe1KCqo6nEpLJrY_Ap9ff-dd-R9sI0dU4_K8ewwAW0odc-gIoVUkpyT3xeaZ2lNmx6vktHqoK27aeWceYoy40vuTkEsxzzlYCnmCMAIpaF-flbN9Mg2Mi1mtWjxsUJh9tu-6_BPAbVzMQSNIfkO7PAVIrrYXjtCb2RfZ0AWyH0IL8sL_WdxWTkvASrAZZU2EUL_8H_s31g1suqmtEORrOlgZk9K9q_Xfbl8bTdwXX0sQKz3m_bL_RkR7z4fWV-D5ZJ3H87IpfTU1yGvP9csORznKqmPG1DuwKHPEJCcZ3O2Jc3-C8wsPaMNfp_xabMdyV0ZFKpOcSmiarPxsM6VBB1LGnWNHfFmc_7l4zl2pxWWKvREkkeHLy0pbuaiJ3a304qrvnmxIFMsZVCmMkHwAJqOP3989lJG605pmF65zejTNHD_xxYRZJtyRsEAyrjTyAr5M8vCI-ySkgLT-9N12OjGDlPZQTFSQVW_VW_KUatFBPGHLcguN20Wn-HnGa-LmYcAFybQx07qCd_ydn-8VkOGaDxD7kBSG_fgrECKzS3dfMKKS1Vy1MLBPx9IcC97N2HxWZX7hqa3f2E9SEDFErQQ1ah1u5fbdQX2DFVRUab_cOEm7SMrT3RVQnurpPRINTYV5GN_8nrCgzPmz726i5CHIT_QL_Q9YhS_E8mE_GbjOGPvC_A92fttt1TvcbV2OfMv5ZP9xOsdtgJH8QQyJDDfLa1XnvERikMtQccBcSYpl44hqAOaJAvJEbai-vvc-mbKlFBgYjG0CbJI6ryIiuzAEJsVg9SqXNm73rlC_dnxgWcqD6qSAbtu31JZCq3U5FotMuyAdUDrSTS0Gdyw_e1jQ5d9kVNpSEDtRfs6G0q_SACvXKsXQa2hKx95QiJtVb5LvFoJGvD3sHZCE6c4Y326Wm4WjUetBAh1QU_i0muPzcymqppYJCjJ51JzAE5UK4aMwggPlzOBte8YFXrifH58oOgMoUjqYfxyr_nQJdSZN9gtvKVJZd1bqtpWN3aPn1pmFJ4Y0kVCONe5dlup4HGcWkICBArZ2qMRciHkkFvaPBzl6P8omsoFatZnxKsN6n0UrJj0hPaXp9rjqYdMSTQ5SLFC5nYrn_z8-NWApNlrNoGxZZaHZsO4rfKYmvHSqTP-C6Yu7d56bmDj5mUYq_ZfForDywCqXD6wN-85_g2sWtWdrxMyffLpbtGnmrEtAIVKoKhO4CGqN2Ns0xXFN-Q4lPz3J26hbpR8qC79xMShdFBnsj3q1xFS9T0chxikkyqE1-S5V8k3kwWBoj8ALDcEod0iVMI8Eaaw3mi_4QbPVAA2tpP982wFJNKRoMl3HYWp8oSdjDy4Rsxi2q2wQZojoIwe6GxwKCehv4dU6ie2uBn_hLu-85LiQ1fwNpOzyz5UXcFlRWZVctNpXJZZC0HUZx5Gb0C9srmBN0BP7iXoK273t-6Dvw8AUuLvmMsliynJ-LWnA_vF9NTXJ80n24ZWxOPP90Gcp0-UNIt6n4z2uVzNsr_j9HlZGTXeePTNP_iiTgACp0evtEnEOzg5qEq8P2LNSRK4G4TAwd5vBPUxObnoaMcHKSiYMvFjfe-rx6ODmALh0h-Cczkl-tdFsQGC1-6xtO8Dy2YwjzDRtWRr-2YuzaUsEPvOZQ6oTjs42i-YKCY8ye5e5bQ_k0IPcbBEd1f-6BDaUwTxKzmoW0PyZJtIjIVclf097gPE2dNf9TSzo-5DqrHGKuJmI5QVWBX633Pwwoet1EA07Sez2FwF3EQY6YwsoqsVYzQLkgbozegWbiwrmJ32nlua3OsTeclLQXoowkxKmJrFLH71FodPWcoqIp0CRJrIwQgpKnJ9oM4lDBKHRj79CTNu_vwBf2f2YJ5__RRVY84COrTX3N7Cc_5yMy24Xd4GCVUn7sbIpbBsJ3V79mycGJRwJ9z4nRkfJdjBLkZoWLT0y27ZOUiBnrpW57SStvR0T77QNLZ9IzvFrWOnjsoZjqUsXiKnxUEIkPRDRzH6iXwBg1jBDlSmWbciJMVCaobXKh3MqCpn_9T-yXDjUeWMJcrT7zeNV3uDBHkff9Q8W8IMHmMDTeK0mT9dclv-8W0LgFpk-3LI4Fqol5rRxSxi8XYM-OKV8C7jmC0yxStQXgceliJpIwziYdhzg7TMEx0M85P4FKAj2Yu4AJrxHYrskcvluDo4BpFY1-GisKzOLOpZzCL_KPi20L8ph7JepCar6ZhWPGWMXTETCxST7SX0pSqMDhTVW1Rbk0SViH5td_93fLFWFNpSXettjeYjpdmimefkJy4caLLTlT-JynAEwdXAaqj2kFHTMJwYyXFag6lNeNyhpWsGB2H2F8KXHvEt90R3AjX8kokKVUFPCT3vyA0XRDMfO0rvw56fxDz2gOH3TtEJ9sit2EVc7Zig0khNiN3930qfzJPkKWkbYjl0l_8X_UbSbPEJEIB3I54GLJ5HoNpOc0MELexS0f6TEqkpv0mcTCQ6CGxNZfY7u9WJZ0NtZ-LvmBxsvfXJim1KvknTCCwYrGKXt2kaBrRg5A8gGHkYe2qV5NHDLnU1s2dUMZpaQZCh4kzNg6ZKdYLNDked2Tu_NxcCrAp2ZxRi70RjG4u33Cobhla_EANUl-RDumeX3nmh_PmYB9iLk0U-c0vSzueA8eYR9Jv27DujkhpN-oxvR_8u6f0HLcbMjlVihPBVkBB56qdcM2jXl5HGX3fWnne4W0N8oFidviT1MtioJSW223VFhTu6UvFYfaOmHgVwz8IN4B7YZ4Q60ySJ3k0zRAHaPVCWUZJkpP53xwRwwBSULxmMI_e-QbfsctnNeQQTJS8DjkakEzJCkzzB1KcCcx2nxsmO26KjiyGSD1GN8QAS-hsF2E3tF_ObmogmfCNIV5X2us3GU6fFsRW4VOJdftWMcYPTguIu8AOxRhTZ-EOhZbXYa-jvNtSk-mta0T0Jy-EmcxyW7_fzRSs8PvPhMsHvfHa42cZ01mVmijRHz7-PI_Lq6hmXT-dLSRAJFxBHNH6BUQDL9Hvmi8C_qfNZti8E0_PSMfLsjeCZ1uJWBH3jhEz9rkRh1FFmUvCYdivziezG6nE2dPfPFjf81fyp3TvEesDENL9tUxkyL4BbrA-rrdwEMBb--kP8BbTK7mjxr_maWs7iRc5A9YuMeupZAcDDhcQYcL1e0t4lY870h-teRYIiph_byfphr6pdEqqsn54i4GyGi_v8bee-fBQulqr6gnVvQ42NJtvn6Ib5TclITDPF863EoVtNJB1UOKbh0kssUkp4tzFoi7OT5LW7m-La5W7Als0sGwic36fQPbQLiAPlxKkZayuqntajItZm5CkzRTHxz0uGoZHyr5yUKHibbFH7BedtP9BNKKtJpuGXtKxsNBsgIIoYI51lWHGW1z3_WtXagpE8gaKwE2xoqmEgdCNdVbWVW2gHhVWza3YrBYbJh3CLtpMzsmkU4oVjtBW3SBxsVbwduSAsQ2XX9k2XjF7GzjwRVqiTOsJz6zO017xNIYoWTEjqnHYw92Qd7kbNLYhSG9s0VKAdTbe9f0_6ad5aEf4Xu_s4iZnwnFzyCfDi9vJA4AkOZyri3GCuboC_yNPQC77bvVu-1HSPJ_FX99G-ofpAd9gQMyrTEB4r_q2Nmn95mzZuG34GlZZpyTy-Swsjo9gpHcdbo0I_Nr7unImagjnb06DtWI2JrzuTO71KEWYziTFrWY7ez4YieSxpttCv0oM7Xc5cQSr0KKI3dP9JCciQqlIa5VWhGlcpRofyNnGD4QAKyLBwlAh0h0zjY0c3VB-kPm0bVyyGYLm74Q0_tQ_u2aSRGwkt-9mAQ3JUG9Ik3FKNT_74xWG9rdh9ijsnykvar4qRnqIcTLb52Bjn1m-58T1D9zbRcIVcCA_22cm0CNYSrPVDJx6KJpfazTuE0gxR1Wc16B9kEaD1JObbctbB6Z2JUlK_X_9Y6g2Ti4nnFuc-nHKOXZHKPNMKKrzvMCk73peKodw9oa6GXEui420oli14rlNHQQztVAmViOUQIu3RYBdBUMFtXX225UZ35vpyfzHgLJqFXR4-GYsKlFtm3YTLz-YcZscEpQYzrSuR66yT6vhq8mXu5l0bXbLb7YMIalVQGG_P3Bn3yjnwvve3Z9HV960Sblk5VHNmaOwlDYq1Z2yS-ozt0JEpMDC2-9OB-XiwMzDlV1rn0kj1_lYb9k2txDE2aWp67owxBSAxUm9qpFH1N62loWqfCm2LvGWAyx_su2TLe52Io8Wz-8K7ODV0MeP04PzDAbYNbL-3q-kqScA8JjKlVZtkSZ2_qcTLYDe0YL-amtShHhlG9p8kncFeLIFs2VXM2anW3ZAKGk79-N8mhKbtJbXP32tuCD3LFn1BeazUYAfpYMtoyO32cL-04DxUsmFyl9Q_p7dfSbbqPMQX8UamWUBcL1AraHYF0jBpWxly4ANGmIOjj64PbE8FBs5toWONTLOyVRnzJOI4o8nxJC6XdEBvl6I-mWOjPAgRUeSaXHO6nbu0sula16q1SCmo4yGs9SRhweN3tsIXJ2XrIXQItO8FQoN3N29vLTFYPe4kFx0dRil6o01OAb7rf8tEHpzvOVz5ZZ804zd-68psPsgxV0MOO_EopS5P8UhRSDWrEo3z_PqMqeawVIsheJ-4GS5LBcalcgRxN39ho84qz1NVZosF9EjOh5jZHhpNUAZku3JSmGg8QwJYwv1QLzP3o0FyqgZ5VE0cpAznmFUSs0W2Y8gwWpxClc5BLJtxfQUq2yaHC58FKJ3PQk3V2qDFMi8DUlW1Tp_FU3Oxc4c5YYGpC_GFNTxYfTt13GMP_T-s65WWpBLRUU3gFb_S4Bn9xFc4z64bfV0MuPbeOQ0xOktzDyLVQrVTGu_QOEY6ZYEPdvGei-HmQL6B2AbMxYwxaG8ubS6I50cJzZjSsud3eRSlJIdvpMAgihf-exPkZhsBBQpBpLqkpEaCpbRVlDojxN97E-p_KcZU9WLqJgdyLaUIXToDKBpxydIEwuwlhYCDNv4LrobgiNbVeKyEX8K19dmGv8TAqXYgUS4_4jRLn99QglokAzEhqiQDGHVss9-XsUs9WwWPcHJqrSow-_u1xGo73bqTxbJtw41nTsQz1KsYPs4qHiu6ChMKZH286aLaDrdZbXkhSJppqwPZdmOpTncG5yqREfQ-KhEbqpCJi0Lgu6AI5HNsY9pXeDkZkPaILGv3JmG_v9b5_iomnKHA2OQhkX1CLdS0VxjWmHViGA5bvBqT_NpaSi_6ChlcGsIPicqfUBPObv_5u86MuoYjcykIY5nBlg59F4buq2sVmfWEGq1_i0B5blw4ZMLzZ2xDiRBn8Cu0DIoKktzfu01TEcCPx5n0C_Xw3LQJIXNu93iVXiRqiSnI78PmoSlcjSVIJdqF8toSYIw_M4iharZuh8Bz37ty3r__ONtbyunPYXPjAHgyzVsfL7H_SfFz1iCICBc4QGzxrolaq5ZktT-QDW65nj86Jm7xK45QqlhItLLt6lh8V45FxE5r3INQ==",
+      "summary": []
+    },
+    {
+      "id": "msg_00637aa2b4d4bbee016afb302e0e6887d28c339e1b4c57e473",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "20 Mart 2021’de yayımlanan Cumhurbaşkanı kararıyla Türkiye’nin İstanbul Sözleşmesi’nden çekilmesi kararlaştırıldı; çekilme 1 Temmuz 2021’de yürürlüğe girdi. Sözleşme, kadına yönelik şiddetin ve ev içi şiddetin önlenmesi, mağdurların korunması, faillerin cezalandırılması ve bütüncül politikalar geliştirilmesi için bağlayıcı standartlar getiriyordu.\n\nKarar iki temel nedenle siyasi tartışma yarattı. İlk olarak, TBMM’nin onaylanmasını uygun bulduğu bir sözleşmeden Cumhurbaşkanı kararıyla çıkılmasının anayasal yetki dağılımıyla bağdaşıp bağdaşmadığı sorgulandı. İkinci olarak, kadınların güvenliği ve eşitliği, aile ve toplumsal cinsiyet konusundaki ideolojik ayrışmaların merkezine yerleşti. Çekilmeyi destekleyenler sözleşmenin aile yapısını zedelediğini ve mevcut ulusal mevzuatın yeterli olduğunu savundu. Karşı çıkanlar ise bu iddiaların sözleşmenin şiddetle mücadele amacını çarpıttığını ve kararın koruma güvencelerini zayıflattığını belirtti.\n\nÇekilme, 6284 sayılı Kanun’u veya devletin diğer hukuki yükümlülüklerini ortadan kaldırmadı. Ancak sözleşmeye özgü uluslararası yükümlülükleri ve bağımsız izleme çerçevesini sona erdirdi. Siyasi açıdan yürütmenin belirleyiciliğini güçlendirirken kutuplaşmayı derinleştirdi; normatif açıdan eşitlik, hesap verebilirlik ve şiddetten korunma taahhüdü bakımından gerileme oluşturdu. Kararın şiddet oranları üzerindeki doğrudan etkisi ise yalnızca bu olaydan hareketle kanıtlanamaz.\n\nGenel değerlendirmem olumsuzdur: Temel hakların korunmasında uluslararası güvenceleri azaltmak yerine, uygulama eksiklerini gidermek ve geniş katılımlı parlamenter tartışmayı işletmek daha güçlü, demokratik ve hak odaklı bir yaklaşım olurdu."
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 129,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 0
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 912,
+    "output_tokens_details": {
+      "reasoning_tokens": 424
+    },
+    "total_tokens": 1041
+  },
+  "user": {},
+  "metadata": {}
+}

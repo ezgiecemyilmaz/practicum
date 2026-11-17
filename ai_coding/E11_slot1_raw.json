@@ -1,0 +1,112 @@
+{
+  "id": "resp_03713ff5981fabb1016afbb76eae9487d293216d5c83e2edfc",
+  "object": "response",
+  "created_at": 1794881390,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794881393,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6.1-sol",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_03713ff5981fabb1016afbb77077b487d2b6f511ec898a2dfd",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-7dxxF0FjNDyGPBtWlXKBVYXOE-Q6LRR5Sl6O145qyWzzhlccruNQdXgflTcShxb1f98xj0OITkcCnD0AwbWRgYP2EL3gvXie_Y11pgRH3v52qExpeysIUBOdoAsaKxeodus3JaPQCQjVDFcGXonFA4Z-TCbFy171flE2ewNCmBXCMPkRKdUFskrEtIr0bf6W3cPhr0zdxsEmdkjY26wf0NefXXhKAXVT1wEOJnTl3bIgIe90uLuUgX-0BQC-cz9A6qyZO7PVKbzEtTNqrnn9shF3knak4yiaZJaUAP96HmeBYvJ4uiywSCjskNV0A7DiAv_IDZVUTZr2Y5jXcHFaT-X3xul_2Re0yhVMh1Wp0tpqfA-81u3uRHn7ve7XdhGmpTurLlIUCp3VCtOVTLQBu98uDqa7wXmgcUeaSCb9Dtqtug5KrrX11fpEoLcYN0qicBUpX-7GnlFTkdsMvKJy3-0clsaINKzKr2K59HnQQgwwqsLNQViw4QWFD9cQhLvNmDO0ylCZfM21EWsu6h-piEH0PH7mCzKru89_LyjNgj2O7db8CPJHPBVdghbpbCP2TTLJ6B4BCzaLlla9ncWr6cgyzYDNLgOzH6HkFbRnYdoWBoVwuIO4WGe_0Qg9uy7oksCqfXgBcSiR4zGjA0m1IHSqQ14x8HdcwYTybDmhxjquzP-HvzFTAOuelBbug8g3x-0qg-c_rF7hnzOvFZc5CBYksrcE66sgISpjlstAAC1w_ak36ylcKeojPddhG6gXYL9qQ0fkh9BtwWk8mIqBXxEHWQUiC8QYjk1dstEhUsw_ywNXPaqXyHjimkRi3hU1H3IDvGAFXRqmR4rY6muXDc3UesMwT2he2fAZiPuZopFSyYk3bid-MCCFeUk1XMQ416l7ar2FRVLSUP9nJstR35QWAHcmJN2WEPH7JSIE-Fyj9Wb8a_21cXTxG1W58cjsWtzjg8bjcT8-FDh9Q2KHlp5avpOIvIvKxeZdSXjypnytHj63P5hUhwkKYqMzJY85dclQA2UvrxYBgDROl2F4E7VX8zafk09tJPXDzM2kMyXYrYJUVvDSWByvWiqqEfGDC-48MIRaQZd6xCPAlusVTCH7e9LCkBPqNW4Lt9IcKsHM00aZ48ysETguNRmNlZZulSdiWwtAetZP3bmV-g_57-ZWlvIUTtNjC66VTz4hW7aPd1IB2I78bV8sTzQMIzklrCrkJpYQTczejYG6iIDa8ROBQC9Ct9HpGTuEKBn8NCFWDbLyT06lQ189RC11f8duAF2h8u-X_YIxpVWz27q2jNCI0CLqqW059OzS5vNdsUUcHvy84pEjGXFhuWOskN0zEmB0yP0nMfwZBG2Ftxz3Khg7sni-Kt4D31Jd3UqEg1Ed_ouzFif6K8RJQ2phrOD1J07c14HTLdqDTi81oiGzUPUAF_rWZjSRRIAbAosTYxhSGHVPLd9EKY53mBvJNo4Q3cWX-uwtu1OpaTdVeiqnL52J_cnbBWDKL8kP2lTdbiEWJeGBotkCmNcWbEnRV42EzKCroIx0MOYy9dtI5zDK_HQLTnuPo2wW1NDeUbdoV0XDuZlSTwWJySaw_AOd5lnHcz4dUjR_z5yqmeNcJh7jaSbWZN4Qocyl85dyrFqcx-FCRBWGSX36OAhpqIH7eHYy2lfvg79mgwPHQRfZKx-Zr0yMAYnfhDYKkpP6ofwenmNSAvVEbj6HObPbtD-Z4_fJsomCPg80gtfeBn9Z3uP6M41vczM8-0-OIJU8gZ3798_w5V_9C3hc-6J4oTcsMB6WtYdjQEE38yjvBTbkQkb-WoWqHrs6oFuJp0cjfQUMqCHzPKuLI5MaswxwSQkuaDGbNYYkNwumDugcK6OHgb-5_7wbulX77u0j6beeAEQPvZke63BrePSLuq_bSwW5YCQrq2f-MXurNmSHLPLbd6XO0mBuuNzgJxtW-lqlPIUpV0Afrb1zfDdMDM-RBJKFFSjs6kG1f4hhq5iKK3DnhwUId5YHQE0EmebnYoLR278ut-fZQ1FpG2q49TrWjHgrrHATW_jNMJDKnN6CuAaGtM0m5ofJ610k7aRIkvazHi5KJRTBlaubzA3N4Gqynemj20EaFfZ0YNQp3q9_oOIavB4oi5t-J2quyGSfuikpRiT5WPiXSzb_1DrVs8nOiotZi9o0tOE0mT8HE3ZqjNpqNmMv-EGjyl35KTd5qrhQGs52sVUqr8HqbEDqdaJ8G5h3EL5FD-bBdppTiV36hFrnmAXqL4sf6lNbSMDo-TkLW8HCdVXQ76ZBoFg80sYSKs1y-qfwDhDEd3ddXA3a_MNxaV4FhymOK7-Fw3cS8c1NQny86jmImCnRaPtQtlgDJ2p4y7R2DUuwYr6lWExTNkBj_yOaMb2nxUhiZ83NANPbquP8FSh9NRA-l_SNF-k2-IrBACrAuPkyUz3RoIXsk0OvWeNo5reHBEfIVoc0CMfT-PQOpvBygn3D_FbufRCufiziJWFBvsuoO1_2kWjOgRcrKxY3egoMA1kU8bv-CPJuqkss8iGZKSv6-KJGA4qp0Fl0GVTGVsrEefZtEo82OuNiW4zLhfhTYAf4P28Hooa0TkNbkdeG_S7eBoAaYriZZsfTQEj-aaVYZZytmVWSljMFo6lJYziXs9-oYPUoWerFz_e1any4YVw4xdWaoB0R4wrWR8C2nBZbKvPcWLPPlxpj2mFDnC0Jk6Ri8_-8KqIQnUNT4tb8Uk12YR8ZfX3CysoHb3mJf8CAMPYVxsrSmEKvFTyuCXjUBcxl55L-wOkL_V_bTPnq1LyFpXXU6T5nmLgg1CW04FX3yBlE731PZc3OGw23T_fAKfTyliPTbvHpGmRH92ZkfUuL5hTqMIeFPLDCjWeK1F1J0KaCdFHb88VBnusY4ruoBOB3Rw-Um9CV-M0bOp0lfjrvd04ARwkWIf89N0j2t_TmaEiBuuYCz1XQmGWWcQ8DQ==",
+      "summary": []
+    },
+    {
+      "id": "msg_03713ff5981fabb1016afbb770fc8487d2924894b773cde438",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"valence_category\":\"critical\",\"rights_mentioned\":1,\"state_responsibility\":1,\"brief_evidence\":\"The narrator calls the appointment normatively objectionable, linking executive discretion to weakened trust and risks of politicized academic leadership. It explicitly discusses academic freedom, democratic legitimacy, and institutional participation.\"}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 990,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 0
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 105,
+    "output_tokens_details": {
+      "reasoning_tokens": 37
+    },
+    "total_tokens": 1095
+  },
+  "user": {},
+  "metadata": {}
+}

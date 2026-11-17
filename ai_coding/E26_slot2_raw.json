@@ -1,0 +1,112 @@
+{
+  "id": "resp_0879518908a39927016afbb984cf6087d2b795a74ec96bc6e7",
+  "object": "response",
+  "created_at": 1794881924,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794881929,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6.1-sol",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_0879518908a39927016afbb985c28487d2862529a5d28cffcd",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-7mJSsDefuvPiDergObR_4dnlknJVdbFLpLNV2G-zpRqJcF-AyrCZ4LEGztnsKf7q7pgmXQQNsWlLpm9LCd5WIdlTRoj99DoQsoj_6JAXfVmdQxD1Xh3LswLqRoa4YRMgPCS1HxNVKXJerVmFsNkfTbQCj4syyvymh80bjTubbUhKovZXUeURIyMBI3EhzqCfcz9wg7Lq4DDfb4cJTRUdS38z5gElsey3SolrlBNC-p1eITlehQmrgKTNUMfmQNhr8XTeofc7M25CThA5u6py4rEVgPvPpoaI4V6u3922kT6hqtAUgIY7GLXfzriaGybskprZkIHEiBkibGyCKQ6zJLzlnbJIB_RbsTXLwbX1N__lk9zTeeryxActEKG_q03JuRExzvB_QLStXZ3dUHtupCTaBVlcNvhaGogIq3I3Dyj9duFfvbQ8uofW7AnS3oE-sG1PperzFp9dQb4tqcN1fnlhTRoDB4wQ1Cq8XZrHhbo4aVuzrqZhuSPjybex7w6OWKxlzuI9lZZ3yCjWIrLA7RTjJSgPURTx1Zi0xvrTeWOsm4pEqnkrajWK1wvSJRbh2mUUMSecs2DzRl-c9Cn3nHH-_ds2YRwNjetJdziScvBnh52mTUWSMNKOrDhtSu9y0R4_Ll_QyI1Gyb67FRG6J9TaPTEuGWjITDG2psRKNfHU-1SLAUBWNIESrb5S3eLqoX2VGXVumaSFkH0ItDkaMiHTFsBUqZgiJVkE0bjGcqiKkAzdcpjMRRVe_M-HcY6aLX3kLGY_2Z8ZhxKkphSTX0NsEg13FsFjUGU1QUnJY79rz62KiJWUMByllhaClUj5cNnuRfR80Jd6ThRsSHMCrD1cHCW9fSSnl9107HRaCwzEwsQXrABpzPhEOLoA54qBCktfwoobeeP-KQZEU40lXeoHhkHHrLmy4KsP-tsj4H_fs_w5UfAcgK1MW3voTjs_OHEz-G31jDy7evDVBw44g3Eagy1guM6DdlihQMZ3HyvXymxQ4oi95AUazPygSpDw9PAHYSDwIsZDpmsO6aaEAziQLLZdtVmHbRr1g4541zESlsgv2N3AS64Zl3qxVYUtQDSWTEbmqENXL74Kj0afycAwhgCv9gH6aVgYfdUthIMi_jnhtYfGFiUVxPoATwhNnqPh46RdxwyinUqbeGV5Pj3IlHBxJdbRL9pVCLRv6fp5QctxVCowLbVPHm0N_6oWZyg2v9EhzcZeAaDrZKoBmMmocf2N3cI3DRjRdaoqLnsJTFg4DM_1dWQ3yusCqCRScYBrjAOc0qh5qpoHZNXTkbQgLMgf8Sq9QUpGZm7iuTi-syCKUWjCM1Tl-DbQN_XpOKLe6GMRKBFhN2XNJ4mAtOvHusqdZmDmkXobMzqOPotRwZpQu72GFp2vR7Wuvu1aIm-GIb_rt5in7lnN8Ti2G-WYPvg2_ARet6a3L3xghQvRzv5tFAaQj09Z-_mdY1oQVtPJCKTLZJsslm7Vju0I7fl16stuMOcTuCeuM9MPOdwFhx_s_BYYeIkzgiH17raaPILAex4gFqPcbWD1XdVVwT_-XKb62bpgr2rHdFNsLejXtNNCtpSKDqQ3k-S2nUndVy3GOvSFl5hfuxLZ2Dxw109eM0pKXDiJP6j2c6Sy82WtSjeayiobEOoQNbB7jdlSH1fpzB_zk7Hq5CzGh9CVQnQDV3-TmFAGACObcIYZ2m8xhYRNSIXOholyfKxnO5pCKlgb4WDDC8brCCLW9aIu7oGmISui1az04SoxW89BfrdHihMZnFYmEIZ9w5FUVo5EAJxphKkG9wtxHz8ZRp4xBPoITHjw40Ygib1XCNZVxT5fzHNIB_PWbEEs1ot_SG8LZTDffct8Uu0k96Is-Hoptn0If2H-gq9O9TF8eCZSKQZBmj1s3tRiWed9qHbRV8L--1TtoWU9mWLQpLPgpKoKgebSDlALsUhIqCXHW1wbvFP3N2dg7RGVb-_jL_8u0cIfgocBjjR0yoqw-h0huL-QrHMdIb6QHM5qc_9qBR2ZU5hbBQ9FgfKisnxoZ16MgPJfHgazkFFwsTZTFED67nRyE9s7ZD9PfxmhqdHJHCRW_Y26ijsEJOBL5WYl8klF9UZemN7epwxoRtDhjrLBpYESzTwecFGAwphYsokcIBcRjbRmlxn9YQOHO_rSUxLuyr0-oH_JrWxj7mRgrojpd0b_pxF0lUe8JhM9uppoqBg2evebH8jN3qaqzqLHiaWTsI3Gg4PjOO7mCQVFqC_8Leg73NzrTCqwc-gRUXg30c111gyN6SYeECwCgTmLG4ckrovmALH6U-Y_UiIHuSiKya_UMBjAKqmebRNFA4wK-ZEt4Yvx1p6WMocdz07w_hBXu7PF9UzyZkgCjKrPNHBSHqOOkOAFKwf2wtRa6UcM9Y1oHpmQhxqz5i1EL9lGB0w-PNIVFph-vuX1RSFMiZZDb67GQM-YTGT4rwpUt8myvNh-PYeRS1cPSHzZsIhQlpNOXVK0IHxgMOfXKmOldLnTu_YUZwTHWJ77S9VAtco4M-W3AJzFDnEhMjw_8ID6A1TPGW9TPVpu3HgRJSWsmWHC22QXrE61puMn7MaQVUoCu0JJoUK33Mzon4QtRiNZq9US7KA6bmPqrIhU9CAJvBZfkCAhQ-O5vtc7NWuO9oJHAczI7GuWhVyNKCa46rpBNTVc_2TliH9WciliafnoJQOx-j_vR23CBUjkdyvW_inRaBZGgDPIBO4_b8D0G0NxQ3s1j7E92Le9SwkZSNq8Ht07D5qNT7LRXyx_lB53aTJo__aFo6ye57JMffeUJGT7ZX6PmQrL_lPxbsMBYS1_t-alS3LKUwB2WQ0RPpin96t1NVDrEk8T4KTQJLf9BjWvv7jJiD81aOClIq9rKTwPNvRrDEhGp1zONIyFluCRVo_TDMwyWrz5vf8G3WSH3kCqcknnzPbMKMdlqbfGL2LrGx_eEGOQiBoRsfOI1-yoW_IJwOQi3IlMXH5oSDXpsLuvWezfDzAZ-t6J2vjyzBWVhT-6w-Lug_Gcbhj1EE8EWmfC4-kN-Jhaj2G_2bv9DbEt1opDDFStVUiymd3A9SrpFIe9n57vwtOh2cBx4SSl_QGFMpv_HpnkFKLCLzIPvKOaMZuewpqBbCza8J8eJkfkhTFm-Am85EPPrhjrVlCDmcBH4NFE0otHzMhFjBk4xXOToJD69myqnERYFNZZHdbKRi8KaGpTI50YmU7VgZJvo04noIDsVFenN0LPCzbihupAB3ushWORLid0ojxU2APUXyLmhOHgzwYcEhSypMY4N_TlxVyfSBocbecaY3CZ0Mp-l6EfB5xB8oZPQ11TSeccfyDjosOcjbX0Kb4sSwsZjhJkUf9I26cD1kn2bvXkC_RB3ECc6_zDDaUo0zm0Umo9bBvyhmkgKftLqFDJphf8iIgww0JQnajd27TxZD2gAxD_8KyAr_VutG_Da-LKjynBYX4XQttxKvpgIvhvMLSJK3VqHqYOlzHOJxCYlioCasJ0erWU8DKoEJy6A7KfMGqBQIkUB6bhZuCJvLOw024bKuNQs43qd390VYOndUcM22T2z_IRTwRADYJyfEWb3ykZAY28Yzswij-6AYvg9hwQJQ5OaPHj-CYMgUzR3B61p4RxZACI7th--1aZyBY86JDkzpb0SjblSgwd_zJjrnjtFimrDsE5NHC_TOYYWkiXWUNt7q2pQeQ1nfv8G8V78nJWmUu9EvybnWIWhiShKLcGSj4OL0QH6xsKwVLl1cwkgQeIUOtgAWNpCzLDGcXL5tE9ohoEwR5Z0DMHJZ9jIIALeQsvwwH5gEPPJOgKx_K9o3t0WeI4iIjQb0C",
+      "summary": []
+    },
+    {
+      "id": "msg_0879518908a39927016afbb9885a3087d295f215a4f263eec0",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"valence_category\":\"favorable\",\"rights_mentioned\":1,\"state_responsibility\":1,\"brief_evidence\":\"The narrator explicitly endorses the amendments’ rights-expanding aim and equal access to education, while qualifying support with protections for women who do not cover. Parliament’s passage is also explicitly linked to deeper polarization and institutional conflict.\"}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 1234,
+    "input_tokens_details": {
+      "cache_write_tokens": 1231,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 1231
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 173,
+    "output_tokens_details": {
+      "reasoning_tokens": 97
+    },
+    "total_tokens": 1407
+  },
+  "user": {},
+  "metadata": {}
+}

@@ -1,0 +1,112 @@
+{
+  "id": "resp_013640f7203d2e3a016afbb9daf53c87d29108e110e57e7254",
+  "object": "response",
+  "created_at": 1794882010,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794882014,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6.1-sol",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_013640f7203d2e3a016afbb9dc5ff887d289898f1625821ace",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-7ne7zHsymF6eKXMkEhMj1By82m6nu8kEywrME-UNMKlFLPrsqN6ImFis3mbYD8qeAtyWxbCykEztEQT4FSTDWMFNUJTPYWrPDfSzN1TP9NrWJqs34EaU_Kk955aQxW5GeImjTvKMza7mESvDgdRfncLZdgTcqpCQsDxuB0BjnC06IJvS_1yHCG4nwFfwcn2Qfvro1V5qn8EP0GxjVgLRjBpdz_jU-dYvkMey9-eU1xoIKDVqRinD6Drg9UzVMyReFeVdgtNtAqBznuvwxKPr3gGCjOXu1FGEjz5KHtj1SSoJ4Cg1TNLhC7FVYw7QwYDbN_PWxpUj1s_zWsgDjGM82rFa7hBSftGVjJDbu2uo48JeWkAHX8MzNl2nM2YKHTrGyTjdSMDRUY4WxROFK5pAp-lqfG-E149VbOEAYCNacjWgq6_b2uyc8OTpQDYvQ4ru37ZW1ovJ4zXngSKXmAncKyo3zZHWwa6g07c-sb5yUMEf635299xYOuCIQz4qXzOWYITORct2LSGIGl4oyp5V1G9b_n0rmDC7Yeows__HZ7yY4F_gtMNpG_3VRK6AfD6sirr0ail_UF6KQBBrY4djsDstEqNMMyCw_Ag080JedvR8S66sE42gQynwTcmospYw8tHOPHPVy33zBC_jajrHmxOyP0gtmloOMY3MnTX6cFLP_I2a8tkTzcuP2YIBF9mRqUD3gCDUq-3FwCYN7zuslPBMpGhAZn29UEvQadGE90fmlvao9u7JPv3AqxaJrwLfVhGkkur9lwEmyvwwYlQfqGAHSbAZli3RYI-lmwtRuC7lE5elbAdchTxkweC9SxsS3veolfKUmM52h09oTHPEOTJY7FLC7Ksg5qsCf_1iqlwD2yeiT-QfBjtafWx6tlLqQOS2lUhQrbfijtH2CumVt34GUUQk4BhNVRI8DG-fdV7ze1_2HU6qIUXkdvSq3yIn_wyZpQXz2c7-_5n_OKvuC9llQ_KslQJS4Adms9GOyzTJg3lbaLlx94D1nkogfP2Z5qVeNZFExoplLGSq1SohsSDyFxiIDmNzy2lcn08_QSXEf8wkkSzDwmq05isIEoslykoGvFyKSNmQlUP6xAxiY9haKY451cEI-xB5ZIUojAquXmWadJpkmeVHSXyPVFtmsJjhZaf1LuGwjJLAw3fh_AB4Z7rckKCG_4sYq7oVDdUsz_ryLY6enAnKPzF_mI1he5x2rMSeZQFewOlYSgaGliMIwsHmSw_Y5eDoS_HnOY3_HYfLT4hr3DkVhrcvgzCiX123LpU1_kKq2kGQFKeJVCQ3cFe4RPd8E26Y93I_fg5QT8NxBQCywRns9i3g_A_MiT0ZTbqNdGPnOAKLiZHGFBqRBnXGx20mtKwmu7QNBheqQj60TkjYqbJMfQX7SsO3OWR06KKVKIlkEcg3WFvN8x2emWcmQKhCLzfWfkB1TRZ-d6fSxb0VhqMyQ7f8-x7EAOIU-bS0Zi79dZHyMphObTfgMSyn8EW3PshuFHGGVxXliWZx9ZqFdGLYWrDYPdo1U8jIAHc9F7rKmUA0aktIrBq8h-7QQA6t5FhpDxat1bFyVxObB9XKACpQ4-xbpIIYZ73gRTGAwQGbdS3HxUcB-BQiTlfDv-hOi1j_QZ2KTlSgFB5ERxR67Aec7vagmkgWURl-69_V1mU_1spNvWwZqPBLQAGrlxHJASFjd-quqpnRQfhknnY-c9ucO53hoZ-bVGnD_5sqgPrPkQ88vVcEQteLz3uwrhg9toJlVcj3H-BuuNz6ElxTaPjXWRtPn4Kcaa_9HQT4KZTuNBDMy06LfgApcnToQwkMcm2jDQKslv3x3kez3HWXXsy36W6y4n2c9YLCzCaqIvV2JJXRFY94Yo9-GmkaBmSLD6tGht9PAGO_SEy76Z19IH5C4p543ZVq8GxtKFhMcGEeTemlwy9NKRnlC02DjCNCrIDsfbK8uCJQCdLoOJQZ_7yWl3fLMPoPCGpvfWuug3bgj7TAzKa0C-53qHB6pDfzmL1yJ7vlEM624MFz9dLzUF_l2FoS7kZqXVnGly-DeLiBTpWGuMmyRnyDa4Zpm0lmRdlTqkHDeNfn6WdmiutDWinyekE1yuxcL1XCuXigFtoHF0Xwccytm6k76OSSmpGXo-5N79tZFP0qTmH3RKCE-e92Q0Ox1ueKaxrjFOA7Sw5RyopgnjE3uO6VT753Eo3M9cgf4Xa_HVvwJRZ-hqd0R5S--7LbFSj__C31idc2W_6OX86eQ2r7JrfXNYK00xKg7OCQ95lxw__FmQW-cUkZtLqhtTKiBpXrS4iiHUhvmV2n35gDrh8BBOWh2_Sp2GgUK0nxd_cBqTCCwhzAHf9mzQg4e5SIpXZlLtdunfhd_il7RUDl6oo6EBrxJGQItce1Y0DXfeobKa1PGN4rgxc27SOLe_ej34ZgEy-9pgNUl3OExPuAUqx8AI_Xoem1Qoy52NSQEB0eaJbwEu6bL01dIsbVFgB7DaFhOB9mGObb-7gSAQK90sU7b-zs-Sl86HmbqbbfKPPeirKg6lZ4yBbNAk40NYsQ90uCv9CS1TGfhiERYIsIVcs7TrpQz1nmlDWr6mC7uL-F8y4NqNOItg8wFvLvmj7UJintQYdwGPP75ZvTHj95jp-WwqaZ5fJ0vSAN0B7bLEq4X7g6z738TSPOpae0Tod3YCM7kMVSZXSZTcD2OKSfE5gkLHqCS5fQG_eeZ68GStqfi8EqQbH36e9aBG8b25lPmiWiHtMPnp1dBzX3R3XufSf402wkTPpsFbWY3gnyjTRbPWqJuzBSn4YMj680DlYPG_QU4YBJvV3eVAyI2J3w4TbQ1uDxPraN1rgLNqfBs7vi7LE1iD14Vrm2qJmyHnDx90SU8414hjuB-1nXdiaMDeazws_CHa-BHf5xdXrubK62tHwrEUWdPLmgjQe8Q6Yc73wwogZKWNrK5Sh1-MGwZT4G9EjnA==",
+      "summary": []
+    },
+    {
+      "id": "msg_013640f7203d2e3a016afbb9dd7b0887d2b94d72fc01743d2d",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"valence_category\":\"critical\",\"rights_mentioned\":1,\"state_responsibility\":1,\"brief_evidence\":\"The narrator explicitly evaluates the detention negatively, concluding that harm to democratic representation and fundamental rights outweighs legitimate counterterrorism concerns. The court decisions are linked to weakened representation, restricted opposition activity, and increased polarization.\"}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 1275,
+    "input_tokens_details": {
+      "cache_write_tokens": 1272,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 1272
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 110,
+    "output_tokens_details": {
+      "reasoning_tokens": 37
+    },
+    "total_tokens": 1385
+  },
+  "user": {},
+  "metadata": {}
+}

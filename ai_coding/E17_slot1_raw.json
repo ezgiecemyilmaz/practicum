@@ -1,0 +1,112 @@
+{
+  "id": "resp_0bb73da2c20a6b82016afbb9d3d12887d2bf20f089a630f9d8",
+  "object": "response",
+  "created_at": 1794882003,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794882010,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6.1-sol",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_0bb73da2c20a6b82016afbb9d49d2887d2a6988ed64ef73816",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-7naGb4NLOR8D1vLwFb5qNSAQlTA4GjyqpQQRUcBzbMplRcx5nnIBmGRWDeQz3ACy3sA_2-IU16igrGTj7LcXkq4GmtKtL-Z5FR9_A4CmCZm03iQKNQhst20_nVL-ry2UkobUoOPSUpimcyWV_tdiWhrq_3C4EWonV3KUZaaA8CChPplzPkD7oLhOUfw99T25XJ0k0I60aGyZIG4AUefbs68Gy_v0shmhe91BoFEZY7IHkzXA8C6Bjq0ZsizK-406D7soLq_xO9dwrZUoxtRuuUO47AnXHYXY_jm791NOD1-IFsb1wCpVtxReJzXC__CyRy7DIsoec9shg3W1heEr2sHSgJJ5yPurG7RQ8-FLRDy0zoPlZDUylnmLKFWY3dWscnKBcstDKDfY-EX0kCnOU8LTmqX8vXxJuXd4JvScs53jVx5sqcsNQS4xo-qDdv7HiO0mR5y0tots-Pq3uu-XvdJdbulUfGpceLhYR_WKms1hyO51RtgZ_WyoXCJCUsiAnz81xuyAXw6eBomgWDjgCHqhMZAYNJG2rfpqXKpkjx0qKr5KOSkylWQ7srzZS92er4hExs_C3AKg1rYcJpD1DpKAnLx4cbiW-tCxC8htP0S7nutMNVFhIOWfN_3aB2wkVj5e9pc_tQB2KrG8IuFUl0l3xWqV5AwMO7RuEP_0Oe-LRLgkk_e_IsBq_nfD7GEVXj3r_FvYqUPD4VgqKKwhn-mLO9u7oXEaL1YcndlNxb1EwpMaAgKbrQB3oE461BQ7Dg_9OnwC7WvgriLxYFiFeQdWSW3HyOPfKWEvVARZohljPlGR59TV-Kz5hNUvYh6734bmODeCyBvzY15MEhGyco5-QeyBm0BPUOZ53LWHMBk6gd2L6tk-jvcVnmXJDx6dleBcEYngEFcShm1V0a0dGIAP8HZfXSVd0XWYlC4Gw43khUcmfxKwKEphfeUKFEq33EialZAboqY5R6aURjbApYDwS82Za95PF_uR5KtwZrclwOSScaKNDiQgSixdnOG4v6vrzvYI_PccFOfyPlpCz0_1C0h2jtlFgVmdzHaT3kUvYFKUGVDta4SAl95y4YNzfH5cbaPeZsePNwZQqr7RtOemW_eqXL48TQM4zp7M2W0sivoiKCiuqrjj_8QmKBZ33ZZUWhe8aWpw1-is8J6LHl2FOkSkbBYeK5OjDLQcF9ucW5kiCeW2wf1p5cZ3pz7f-4Zd0wjBShPDF3T8u0pekggUn_DAvRyNT-AXPzVinz12ibyJ6qVIeCxyJX7o5JKCaHsJP2sISvW8W1Ekgb0ZcMlAwXymLEfo_HCKRjTiAQhSL4n1ZdFLEiHoT5gFeyXwYYiXWmZzN1m_TmAORglyld-uUyrWK963fgKgEe1agJPJxB-ujiqkL7nwoOYPt5afI_T15rfndpcAV3XpAjSLbnataqBkRXxpl9KdtxtHxaTg3BLAODLkyp5eoIwZ90Om6PB5C2FWy31W-fbXFpOYQkOcUr8TG9GdvazXJ-5my-SEWeS4MV8ZlxbfagdGu5r6H9o0eg0Gv_9tRUUET0oykiqn2OQVyMql-JZ_SS-AMno6gcVWdMxIvDIwii-a-SU193QytauhIKeJJ0tulZxaK1jZefkRi1D1iuhr_A7rtj6w1Nlq8EkZ5mVWhWn--VGOSKYDEsdq9GOj06jO_HRagG-ffiJrlbTVOCXs2i42bh8_ZbQHlgcj9eru5k6FWyf_OH_YI7HRCZSHxcm4hwxNzsUCmcz1EnJ2-g-gnurFM1lGiUJX7HBNGzaZotUN6LciwsGAdSR9mykM8hu-ExCm_bwi7QRT5H_vQjO2Q7jF8BLoHZY1eHnG7gEa9MQB890QRp_ukQRQRrPfGciErbffIrqHfvpK_RnwyqEjNWvt3Y-EUV9pb4TRQ9mLX5PpFzZ08GeAc1lv_DcCtqE1UeLxaUQ6b61nLq_NcdwXmRr9GZngL0A8P9jRaPmjM7T8PxlI67RFZEBjJ8UmY3Bo1EV00qGfJZggTp6eNPrxBHtg68QIGVzxKuMqMlDaGO0V28m9d1V3yQyiLsHgrhyPSKL5gnP__llVZAQ2SBPXefDWKdyYweVtHJ4lyFL2iolZxeJ43TRjSkX25DOB6CRjeCLAyKtg_JFzvEbfXX9dhpcQFG6acbyl3Yi74dz1fxXquYre7_7IMrzUgAR7R0D0ByH6iVu5xnCaE116y6isAvqwxwgVSodar54fWmmAt3-o2vxDQub7zxlWP1XILiWbFsRHBYBroClcsPO8oQfVIaEFjScLUt7SP1rHrK-Tb4bPaCmd1DVrEW4D4DbOUXevppknNXu8ZRzkREkMcbBy3P77PtKog5-wchKBa1ke7L8TRL45IOd9Px6sB9oovYjIr-Hqb0-YtwYn1tfA3FD0x-r1SRx6VBylBsmTXnNihmH4lVPI4HEvNEGShdvhlOwCQna2vaquYWzXLQNP-RKz8L927WAY3PmRvP_3OKemAKT4U-8pyQ1vM_EfhQP8TJl6VvfWqUFZ9DH6x2phjJi7YsS9nrQJz_42_NUjVDFg2anjzmDVF1Jr34456vtDGACAgaX34qhvItoh1JkG9gC9ipm2gKcGQwM5J5P0jVTaApEk7OK2Q9qQbRZcrCWZj2vWwXWfu3BLdiaphtgGw3F4t3iZlvRfeeDxiu--n4yilDsr592UBtA5AN3pwrcOtUvwxeJKmNTFHAvcNis5yZcvjKU4r545uVQrGoCffI6NEPO4cHxdNAAxPfdfM2LFBfwWDk-p6awkc9vXNGmm1zjX9lviV5lQzIAvnJfPE_8rx5P4NzKhTuNb7iuNzaC21gehEINIw_hpcvjVoQ1ual6i4tkwYP4flyKOYCVwrBKsCoEqUAKcJnkvK9ACIv8ovCuGZP_ehDNY85gHHRKUrYUZ8vdP0XbqcJHD4FigFPVZfWKg4sdsNev2PdYoWw8xCKZC6lnBpp4AVQ6MSvl_JyQN93j7jHYh0gBXwtkQsksX4OsRjjzY2vGUjVUIUGAm9xBGF1WR8UX0WaXVGBlKNl8asvAa9OQ9gBZXbA7Ut51RYRmiOIJ-LpOZDmyEHO9MOoqER1U0rnzh5ZTMduZ92IdSnHdUpIABkDA038MUtoYTd0vCN8DoTPGh_ROfxa3qX1n71oIpIwQNI7Wngpod4MKucR9AjezVXTbFLOhUp-T4MkikgPizBFypAf-yPmeAeTEarTDIGZ3lT0KoLC-Bm-8dUan0Sln36_4l348fYzGYDrbLR1VrazY56pAqHDW9bx2Vu0-5d_ctC-ix-kWRsOFQUkElRGntSXjomnNsz93cgAgQUIlEk0zxuasLyuBd4GLaWJBZufWtu-rMD-eh9o4nTNqFF9qMGYTNq71DUPQ7I1SnrUDN-H7-P1MNohDxn1nfWMt80GEXxOIJV8SOtTXXIDYvmAKq-swhYC8Gmhw6DvaBe6YCa45sedq3c16BYILnALp3QKK9eihuyd75a5WRLdL2DsPqirvwqhZWxYJCXWGVa93k9honzXFjoVXx0ur5DCQcsjtl5G1rVN2fSoYOVsbbuaf8sLEE4IEr-1vl4rSQOQAtVe6LDf427X0QmZC7gLu74STHQJZc4gRsfdMN4M3CKaZEA3FzIbJ4VrBCZjlfwX_Vt9R8WZUDt9jtLiYqlYEv_jSFqrBbTqHhlIZcGjvGjUMTeEpPZA7hGoHunKsTbI_gr82gJF5vjSSp_K5JlwzRNQQGkT6ZN-B1pXxBieAzsoxprmNvhZflK2YFk8QUpOP3917s2-a9XJ4kUUC1vuLaJOFvUm950iSaWM8MyG9aq-GR7GE5sIMDXIvhfuPNga6MClXn6AwXt2eA--o343c2EK-OLVsl56x_S7Z1xup_y419aKnhjbP3t9W3K_VZJ6sB5ylM6mD3oe_-41M5s5VHBQxkxc5Q61Q0G3BW1LEoCEnuEZAH2dFDmaW0f750J1x5bq28FpcbcpUlU9MBSDNmAUsvUq1b-IRxZZ-H7vSUXEUIaEnN0Pta-LqHt8vjxtDa3YuCR3J63GDsyDoQErKbn0sRRb6be1G-_Ux5T-jAQOIySditXnF_h_x7L6Zc9a8n5Yk07rJbuKQWGhCrAS-rWchNHoBVtxb-BnGliCFvm8UPgJg3_mnRG3ohvtQfOuCoTLLqyhkPBEa-dbK4cJkU4OdBv_D6m_nXa6Wu70fQm4f1lKxCSrL_-iEAKCKiVL5wAn2npsmp80gByD4oVkyoEp4XT2P_CDeu_ggV6xSTlcINJ_F4xIQaXJLHNtsE5YoTFIfOEQyveKO_YRf8BF_JMuZjjRXfU6Tl6notm1m6Vx7xAuFizMmeqz8t3sMdbAdtVyokXNWZ5jLQSYd0GkD8f_0ASJUtVXyeKpVSLvp_SaIVqDOxi8TI0S0Em9h0ejqkekIHiO8O1aWblFlOXnmMj8sC_AkvuqmhVk7qOH7TX0X6B3Z_dyY6TvHjwJTYGNOJb_HMGNbQxMb2Zlx2hHONWB_wLLRsrFazxpohjBOhrgyPUDbd3zbYk7hM7OLk7G-krgSzUk9bRU3soPaeMm2nNHMGPditKLCoNfJwkBGcH8bGQbNDnX5M6Nhdqb2sy1iEsSu5bk6lP8oSb0ToNhWP-TIzDdW_LQlRfsN5NS6eVxPco-kFBPLUmHeeJfPymVmPQ_TXDnbRuJF-AdqubN1kafxp-zHcdBj7C6um-qDt0lWy7ZA5lDkqzkDbcHxPNNebFe-ZJ1F-vXVbHXwQuvFxy_VJWLVPnvyJJcQFHPMcX3CGYzyaZ80OfOIlp1cD5IrIKiXohh3M2aVd8DUTJ3nTcexubkze9QvoDa8T4cuz_sT9FVapAItTxPvwerhcKqpjg6DwtsFJBrJZUXDNbcycX-ZXzAfYcLbrAYVeWcUcgac2riihNj3LV8NnS3Vdxo8AxKanw0wqSjflQhzbG1kCoA04binfmnGd_frPxDnwUeh6ScL3OF3N2Pwmp4iAk9P_MSl",
+      "summary": []
+    },
+    {
+      "id": "msg_0bb73da2c20a6b82016afbb9d9264087d2a9d76ff3b51345bb",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"valence_category\":\"favorable\",\"rights_mentioned\":1,\"state_responsibility\":1,\"brief_evidence\":\"The narrator explicitly calls establishment a positive but insufficient democratic step and values parliamentary deliberation. Criticism primarily concerns safeguards: without transparency and inclusion, the commission could legitimize predetermined decisions rather than foster reconciliation. Democratic rights, equal citizenship, and rule of law are explicitly discussed.\"}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 1190,
+    "input_tokens_details": {
+      "cache_write_tokens": 1187,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 1187
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 247,
+    "output_tokens_details": {
+      "reasoning_tokens": 161
+    },
+    "total_tokens": 1437
+  },
+  "user": {},
+  "metadata": {}
+}

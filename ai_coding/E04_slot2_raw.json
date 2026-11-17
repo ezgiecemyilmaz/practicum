@@ -1,0 +1,112 @@
+{
+  "id": "resp_0b9dd0bd08dbe748016afbb947a22887d2a502fd54d3c70eeb",
+  "object": "response",
+  "created_at": 1794881863,
+  "status": "completed",
+  "access_programs": {
+    "cyber": "standard"
+  },
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1794881866,
+  "error": {},
+  "frequency_penalty": 0,
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": {},
+  "input_transformations": [],
+  "instructions": {},
+  "max_output_tokens": {},
+  "max_tool_calls": {},
+  "model": "gpt-6.1-sol",
+  "moderation": {},
+  "output": [
+    {
+      "id": "rs_0b9dd0bd08dbe748016afbb948dec487d2a8beaf0c3e176710",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq-7lKYJF4C83xeN5-xFAzi3l3HAH4yAWU_ZUXG2Dw_LTKNOAfrOpQLqZ4-bWg3IZu68_abR6rZQtl2YNmoK57XRwvvy6KeEES-g7bGpxr7RTSDpHQXZxA1ZnQLLzBCiU7dpiIYK2eoUEkMCwVYSWUZJxhHrxjnYZPnT9rfemCap8EGNJUxb_Ad3wncgYX_h75OBJXX2yuaZyvledbg4dc2TaXrWJBtER2dNLD4WuNDQkjTvA6I11r-afYnSHXzobX8z_YGsvodMxPncD0zedUIiQiUWygFMsWW9WxdFaM63rQdaoYU2wkjqKZ1QVW4o3ksTwxzKVnFRbalL6tnyTrJxL3Jt1EldvmGOkR7rsCJWkJLMzI5zVDudqSa6sDlT6aywGtdNJxDmxFLKP5h7roljXFo-ToQpfjoQYxB_Pbjvk170FYsIZDySlEg7EaU1p8hJ7mLZKrrzPnQu5rSxhCkpnmY-5OR7dy6BJiwS9KW6FrwqmUZ_ivyqEJFjRyEVYvXMGMEI237DR0rEkalX-26OyJwynZZrQluTMA3mXM3PWp9yv_umk3FHm9sW3Erm8rfOvILMCCgcPdL7xEst_qnX1MonjY4tLwHvzBG5_aKgyc7SmXRfTvPqQHTjc8ebUuR2SOy4ejgexn9m6caf4JjPWEI8lc1cY9XUj6wycbvpG6RpXHvKpPed-h2IXvibSsG2BQ-Iu8lodCiqkw542T701_hlYLu-BGf3cqkn1WAXWewIzKjS8xhNPICUCHqdOPbUgkXYnG16Srs6ftUYfH38SvdBZu-tGwne86mfh3GvU2oXovbOHDlR8ZnIJb4WKspr8xnfBqAZhGW8Aqs3DEQdzwSQ17W8LGz9uoxHIIjfnrmGEXXKWwIn4rP0Snx7Wn7tWOd7uRn2VTXRuwXgMXlEsZa8LMFucQJ_gc6s-jW49QsZuPn60URyx1xzsTXrI8ZjBfBhmPuAeEC2tothyJ7TfEdNRbo0ToR5LAW744YATz8RvzjEFzvdDK1cu2KLbAPinJA8Jl4S8n1LBF7w7StOuyqhc9HeHleRbfmvA-AxNOok3Xg-mUVKlC4J_71GcAZ8XMX4GFDpYC8qezSaEZCVi2gf4oxyPlncQpqMFL3juEZ8yePkfWJCs_Td_9nwi0PJIpU9leT6d1qfHDwdjyiZUF0VO_P58YY2P5bs0aaU9yyN9C3DjHmqKqaQu3MNv3dTVyi9QsoIDgmBJpLvvEsMuCMA4Dm44WYKZNFqEe2YMmpM3KSFKUNP9j5Mo0gSzcvAJ3qVXrmRtot1opQBBWbVZsh0WjUiEE31SjRMr9ucisJWwnDEEgP1ft1epbGIlKWy9k5Cz7RQ321eT5mAnMFo7CW6-WeFg7SvV0YFa-ot1ERC7_dV_bHRX_ubW_XfQ8imJCeEhdzvMMKfDafOrxyG46BrxMDmm85xMEyOsebtxNKcf3gbwveqI4LKrrBTOYXEyHvAm5GBQ0quMwIk1-Fnwv6vIooCDpt8hdJUaLM_g5GrpjaHsJkXOVgnf_X6IGFUYY-JLmIjWjgGnZQDDo-EH0IjF-mFulv_0upjt6EOBpymCzqcg50ZyL0tEdH_Kbpn_qdEDfiB_6QKU3qk6hHr1ez4TLWSwFL68VdXSvTGtt8r8YxoCYq1rTLcNLKRjeimMlWs6WIA33heTnlEbZ3Q6V5P20YhRCXYmu9FAt7usujzgv9iJ4JwKWC-amZwD_kFpPpCtqqKVspRw8Oc_g6n1zkvziDCBZE-o-gtzKiUs6cxB9funE42sHZQ6opgajnTFLbM_XW4BQAG_AyxNZzl0sOqhwkeFjgoUokJbCxWdiUx6xRhZK8PplMGtMKewIgufLEUkU3nslsw3Q2WlqujsG5Xu6O7ul2qDjArG-FVG2fjuEppSpTRn2QlcpAYWXVudEnS9aFVTXz0FEOUAOIzn4Y1CX5aEqmAzWmGaIpDGBp3eeS7SSeRUJzxo4QmjYEUN6EbOnw8hbmZ8ZGuQiafJiezam_8kYWoisd_0kHaVY4Z-L7DpY1oqpyH6SOw0LKWP9QKQIlGIDUmsITPE5YFRLR34O33y--ot1Kew_ZxWdwe3fdHC6PWMhK9uJcnwzlCEaUoXEN-70XvGzp-H_rdwRqKC87GrjxdMBml4zLTps0v0CKvIycfvSKSTOSFQbFTHJlJuN9059-U44m_MlndhcsApiduSeGZdJeAIT6QgXBv8iTdtbWjw50S4CxtSjDvdaR9xfOmjgN7X5AK_XDlnfZfUrzuaQj7CydOmG6-8ArOfXHnY_cWrLnZc0SYy-cFPH6Ix12Z8qtQVwWHUWOY3hpMhsbscvYM_9AULpIp8Nj1-V4dPt61Of9soErcrfiY6_fOTn4x8Qu3rWc4KRS9fwJhivAjtvgycNPJ6SHp_6EWmObakiESbOlsbYMAYC89xMNNKMI5n-qMvl4j3on9AFXR98Az9obsWvoSzOiz42TvTWzb_RbCpHvynjM6Fn5ejettzMMJ9XwY7qcnfhpk5XcqxPBJtsidqM0DKVDXwBhuLJPbMq1ef4TpwSCJrGrmoiKsBchNSMmBFkpJfp5QdXsIWaoMti9QPqo7L4qi4pjb5PZPI3QOsFkU2zyiz4rVYN6ULyq8q53HB43kUYvIEBPMYKxN9S-sZ1iT3F0z0ygVXT262i67j4u68OF6OGQssYYlA1_hr3HcC3ThjNwgsBlpEIIk2XAfLzjN1MEFmmOT-U1e7MS57333a_cy4h_2C_KwqE3fZR8uZq09sTTZf-LY8-ZfcNjedPSW7aOo-1HMU=",
+      "summary": []
+    },
+    {
+      "id": "msg_0b9dd0bd08dbe748016afbb9498d9087d29898a4df9eb74f26",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"valence_category\":\"critical\",\"rights_mentioned\":1,\"state_responsibility\":1,\"brief_evidence\":\"The narrator calls the annulment an 'inadequately justified democratic setback,' raises concerns about equal treatment and institutional independence, and links the council’s selective remedy to weakened confidence that incumbents would accept defeat.\"}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0,
+  "previous_response_id": {},
+  "prompt_cache_key": {},
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "high",
+    "mode": "standard",
+    "summary": {}
+  },
+  "safety_identifier": {},
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 1020,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 0
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 97,
+    "output_tokens_details": {
+      "reasoning_tokens": 25
+    },
+    "total_tokens": 1117
+  },
+  "user": {},
+  "metadata": {}
+}

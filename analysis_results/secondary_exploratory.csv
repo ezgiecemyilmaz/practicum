@@ -1,0 +1,5 @@
+"outcome","n_pairs","ATE_TR_minus_EN","SE","CI95_low","CI95_high","p_value_randomization","p_value_exact_signflip"
+"neutral",30,0,0,0,0,NA,NA
+"mixed",30,0.133333333333333,0.0792686880439847,-0.0287893371471944,0.295456003813861,NA,NA
+"rights_mentioned",30,0,0,0,0,NA,NA
+"state_responsibility",30,0,0,0,0,NA,NA
