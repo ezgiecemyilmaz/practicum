@@ -17,7 +17,7 @@ Responses were evaluated using a standardized coding rubric. Human coding serves
 - **Human-coded average effect (Turkish − English):** +0.200 on a three-point valence scale (SE = 0.074; 95% CI: [0.048, 0.352]).
 - **Two-sided randomization inference:** p ≈ 0.030, using 10,000 within-event permutations.
 - **AI-coded average effect:** +0.100 (p ≈ 0.250).
-- **Intercoder agreement:** 57/60 responses (95%; Cohen's κ = 0.848).
+- **Intercoder agreement:** 57/60 responses (95%).
 
 Turkish responses received less critical evaluations in six event pairs, with identical scores in the remaining 24. The findings suggest differences in evaluative framing rather than a uniform reversal of political positions.
 
